@@ -1,0 +1,1144 @@
+lead_id,lead_date,property_type,neighbourhood,estimated_job_size_sqft,requested_timeline,referral_source,homeowner_status,preferred_contact,lead_capture_weather,distance_to_queens_km,customer_age_bracket,has_pets,lead_weekday,expected_profit_band
+LD-20260124-52FCE191,2026-01-24,Townhouse,Sydenham Ward,785.0,1-2 weeks,Facebook Ads,Rent,Email,Snow,5.52,18-24,False,Saturday,Low
+LD-20251227-10469F03,2025-12-27,Detached,Portsmouth Village,1478.0,1 month,Facebook Ads,Own,Email,Cloudy,3.74,25-34,False,Saturday,Medium
+LD-20251205-AF33C6F0,2025-12-05,Apartment,Sydenham Ward,477.0,Flexible,Door-to-Door,Own,SMS,Windy,0.2,35-44,True,Friday,
+LD-20260302-9200D7BC,2026-03-02,Detached,Downtown,2066.0,1 month,Door-to-Door,Rent,Email,Windy,2.02,35-44,False,Monday,High
+LD-20260221-A0BD2002,2026-02-21,Apartment,West End,574.0,Flexible,Lawn Signs,Rent,SMS,Sunny,6.47,25-34,True,Saturday,Low
+LD-20260205-58429924,2026-02-05,Detached,Sydenham Ward,2533.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,7.33,25-34,False,Thursday,High
+LD-20251221-5CF6E92E,2025-12-21,Townhouse,West End,1075.0,ASAP,Door-to-Door,Own,SMS,Windy,2.23,45-54,False,Sunday,
+LD-20260201-67F1A492,2026-02-01,Townhouse,Downtown,968.0,Flexible,Facebook Ads,Own,SMS,Sunny,1.06,25-34,False,Sunday,Medium
+LD-20251205-9427AA84,2025-12-05,Apartment,Calvin Park,282.0,1 month,Facebook Ads,Recently Purchased,Email,Sunny,3.63,25-34,False,Friday,Low
+LD-20251221-D80ED30B,2025-12-21,Detached,West End,2180.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,0.33,18-24,True,Sunday,High
+LD-20260223-56EFD556,2026-02-23,Detached,West End,3463.0,Flexible,Facebook Ads,Own,Email,Windy,4.34,45-54,False,Monday,High
+LD-20260113-E7D97B13,2026-01-13,Apartment,Sydenham Ward,391.0,1 month,Door-to-Door,Own,SMS,Rain,2.95,25-34,False,Tuesday,
+LD-20251204-BD106939,2025-12-04,Semi-Detached,Downtown,1639.0,Flexible,Facebook Ads,Own,SMS,Windy,5.01,65+,True,Thursday,Medium
+LD-20251208-F89237BF,2025-12-08,Townhouse,West End,1340.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,3.28,18-24,True,Monday,
+LD-20260107-A3AA12E1,2026-01-07,Semi-Detached,Sydenham Ward,920.0,Flexible,Door-to-Door,Own,Email,Cloudy,5.09,25-34,False,Wednesday,Medium
+LD-20260303-F6EE9178,2026-03-03,Semi-Detached,Portsmouth Village,837.0,1 month,Door-to-Door,Own,SMS,Windy,1.57,45-54,False,Tuesday,Medium
+LD-20260123-233FC9E8,2026-01-23,Semi-Detached,Sydenham Ward,1366.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,0.2,18-24,False,Friday,Medium
+LD-20251226-54FA479B,2025-12-26,Detached,Downtown,2554.0,Flexible,Facebook Ads,Own,Email,Sunny,5.15,25-34,False,Friday,High
+LD-20251231-CEBFCA8F,2025-12-31,Townhouse,Strathcona Park,1431.0,Flexible,Door-to-Door,Own,SMS,Cloudy,4.53,35-44,False,Wednesday,
+LD-20260102-EC11D795,2026-01-02,Townhouse,West End,1148.0,Flexible,Facebook Ads,Own,SMS,Snow,1.78,25-34,True,Friday,
+LD-20260203-6CC6DA58,2026-02-03,Semi-Detached,Strathcona Park,1129.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Snow,2.92,45-54,True,Tuesday,
+LD-20251206-42A2F25E,2025-12-06,Apartment,Downtown,573.0,Flexible,Word of Mouth/Referral,Rent,SMS,Cloudy,2.66,25-34,True,Saturday,Low
+LD-20260123-E404F551,2026-01-23,Detached,Calvin Park,1203.0,Flexible,Facebook Ads,Rent,Email,Cloudy,2.36,65+,False,Friday,
+LD-20260301-C399EA54,2026-03-01,Semi-Detached,West End,1165.0,ASAP,Facebook Ads,Recently Purchased,Email,Cloudy,0.2,55-64,True,Sunday,Medium
+LD-20260128-CE8F675B,2026-01-28,Townhouse,Strathcona Park,1061.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,3.51,45-54,False,Wednesday,
+LD-20260104-E6BDFA89,2026-01-04,Apartment,Portsmouth Village,445.0,1 month,Facebook Ads,Own,Email,Sunny,2.16,35-44,False,Sunday,
+LD-20260110-110273A2,2026-01-10,Detached,Strathcona Park,2352.0,Flexible,Word of Mouth/Referral,Own,SMS,Sunny,7.88,65+,False,Saturday,
+LD-20251219-6E56B4E1,2025-12-19,Apartment,Calvin Park,612.0,ASAP,Door-to-Door,Rent,Email,Windy,5.25,45-54,True,Friday,
+LD-20251222-D382F393,2025-12-22,Apartment,Calvin Park,850.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,2.96,45-54,True,Monday,Medium
+LD-20260105-71EC19AD,2026-01-05,Townhouse,West End,1053.0,ASAP,Lawn Signs,Own,Email,Windy,5.35,55-64,True,Monday,Medium
+LD-20251222-FCCBF263,2025-12-22,Detached,Downtown,2123.0,Flexible,Door-to-Door,Recently Purchased,SMS,Sunny,4.19,25-34,False,Monday,High
+LD-20251227-2D30801B,2025-12-27,Apartment,Strathcona Park,848.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Windy,5.84,55-64,False,Saturday,
+LD-20260302-B3DD4E35,2026-03-02,Detached,West End,1902.0,1-2 weeks,Word of Mouth/Referral,Rent,Phone Call,Snow,6.15,25-34,False,Monday,High
+LD-20260113-1CADDD4E,2026-01-13,Detached,Downtown,1065.0,Flexible,Facebook Ads,Rent,Email,Sunny,2.03,55-64,True,Tuesday,
+LD-20260208-2CFE0055,2026-02-08,Detached,Portsmouth Village,2367.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Rain,1.99,35-44,False,Sunday,High
+LD-20251225-088BA16E,2025-12-25,Semi-Detached,Downtown,1623.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,4.58,25-34,False,Thursday,High
+LD-20260102-35C38C8C,2026-01-02,Townhouse,Calvin Park,1718.0,1 month,Lawn Signs,Own,Email,Sunny,4.51,55-64,True,Friday,Medium
+LD-20260120-8C747FA3,2026-01-20,Apartment,West End,475.0,1 month,Door-to-Door,Own,SMS,Sunny,4.93,45-54,True,Tuesday,
+LD-20260109-58E22364,2026-01-09,Detached,Downtown,1821.0,1 month,Facebook Ads,Own,Email,Cloudy,5.05,25-34,True,Friday,Medium
+LD-20260226-3777DC1D,2026-02-26,Semi-Detached,Downtown,959.0,1 month,Word of Mouth/Referral,Own,SMS,Cloudy,2.96,18-24,True,Thursday,Low
+LD-20260126-544C4D53,2026-01-26,Semi-Detached,West End,1888.0,1 month,Lawn Signs,Own,SMS,Cloudy,1.88,65+,False,Monday,High
+LD-20260227-582AB2F0,2026-02-27,Detached,Sydenham Ward,1046.0,1 month,Lawn Signs,Own,Phone Call,Rain,1.13,45-54,True,Friday,
+LD-20260105-A30CCF63,2026-01-05,Detached,Sydenham Ward,2044.0,1-2 weeks,Lawn Signs,Rent,SMS,Cloudy,4.44,45-54,True,Monday,
+LD-20251229-19AF9345,2025-12-29,Townhouse,Strathcona Park,1213.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,5.24,25-34,False,Monday,
+LD-20260129-1DFD61A0,2026-01-29,Detached,Downtown,1209.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,2.13,55-64,False,Thursday,Medium
+LD-20251217-18828339,2025-12-17,Apartment,West End,671.0,Flexible,Word of Mouth/Referral,Own,Email,Cloudy,3.03,55-64,False,Wednesday,Low
+LD-20260228-F48FFC1F,2026-02-28,Apartment,West End,533.0,1-2 weeks,Facebook Ads,Own,Email,Rain,3.78,45-54,False,Saturday,Low
+LD-20260121-E9881BC6,2026-01-21,Detached,Sydenham Ward,1334.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,3.76,25-34,False,Wednesday,Medium
+LD-20260127-3A9D8BAB,2026-01-27,Townhouse,Downtown,1004.0,Flexible,Facebook Ads,Own,SMS,Rain,2.63,55-64,False,Tuesday,
+LD-20260303-E4D69C72,2026-03-03,Semi-Detached,West End,1726.0,1 month,Lawn Signs,Own,SMS,Cloudy,2.83,18-24,True,Tuesday,
+LD-20251204-BBC68493,2025-12-04,Townhouse,Strathcona Park,506.0,ASAP,Lawn Signs,Own,Email,Sunny,4.66,35-44,False,Thursday,Low
+LD-20260202-6AFB41AF,2026-02-02,Detached,West End,2366.0,ASAP,Lawn Signs,Own,SMS,Sunny,7.19,35-44,False,Monday,High
+LD-20260217-03C8F342,2026-02-17,Detached,West End,1268.0,Flexible,Facebook Ads,Own,SMS,Cloudy,1.87,65+,True,Tuesday,
+LD-20260210-5EE462A7,2026-02-10,Townhouse,Downtown,929.0,1 month,Door-to-Door,Recently Purchased,SMS,Sunny,5.69,25-34,True,Tuesday,Medium
+LD-20251226-32B90B10,2025-12-26,Townhouse,West End,1128.0,ASAP,Door-to-Door,Rent,SMS,Rain,3.67,55-64,True,Friday,Medium
+LD-20251207-3D46B28C,2025-12-07,Apartment,Downtown,731.0,ASAP,Facebook Ads,Own,Email,Windy,4.56,35-44,False,Sunday,
+LD-20251215-27CE0B92,2025-12-15,Detached,West End,2738.0,1 month,Facebook Ads,Rent,Phone Call,Rain,0.2,25-34,False,Monday,
+LD-20251215-27530AED,2025-12-15,Heritage Home,Calvin Park,2373.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.92,55-64,True,Monday,
+LD-20251211-0DDC0226,2025-12-11,Apartment,West End,866.0,Flexible,Door-to-Door,Own,Phone Call,Windy,1.85,25-34,False,Thursday,
+LD-20260108-F6185508,2026-01-08,Detached,Strathcona Park,1996.0,1 month,Facebook Ads,Own,Phone Call,Sunny,6.28,25-34,False,Thursday,Medium
+LD-20251227-3970E168,2025-12-27,Detached,Downtown,670.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.46,55-64,False,Saturday,
+LD-20260203-62CB8BF1,2026-02-03,Heritage Home,West End,1235.0,1 month,Lawn Signs,Rent,SMS,Sunny,5.22,45-54,True,Tuesday,Medium
+LD-20260102-C86A8405,2026-01-02,Townhouse,Strathcona Park,1194.0,1 month,Facebook Ads,Rent,SMS,Rain,5.4,25-34,True,Friday,
+LD-20251219-6A99F12B,2025-12-19,Apartment,West End,207.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,1.11,18-24,False,Friday,Low
+LD-20260125-C794E119,2026-01-25,Detached,Downtown,2219.0,1 month,Door-to-Door,Own,Phone Call,Cloudy,1.71,65+,False,Sunday,High
+LD-20260111-4E19FAF8,2026-01-11,Semi-Detached,Strathcona Park,1602.0,ASAP,Facebook Ads,Recently Purchased,Email,Snow,4.49,35-44,True,Sunday,High
+LD-20251220-F351B4B5,2025-12-20,Townhouse,Sydenham Ward,1020.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,5.25,55-64,False,Saturday,Medium
+LD-20251208-30F039E4,2025-12-08,Heritage Home,Portsmouth Village,1028.0,1 month,Lawn Signs,Own,Phone Call,Windy,3.97,35-44,False,Monday,Medium
+LD-20260227-CACDE636,2026-02-27,Townhouse,West End,891.0,Flexible,Facebook Ads,Own,Email,Sunny,6.45,25-34,True,Friday,Low
+LD-20260304-75E55EF5,2026-03-04,Detached,Strathcona Park,1197.0,1 month,Facebook Ads,Own,Email,Rain,2.66,35-44,False,Wednesday,Low
+LD-20260130-3ADB452E,2026-01-30,Apartment,Downtown,863.0,1 month,Lawn Signs,Recently Purchased,Email,Cloudy,4.97,45-54,False,Friday,
+LD-20251206-C180211F,2025-12-06,Apartment,Sydenham Ward,744.0,ASAP,Facebook Ads,Rent,Email,Sunny,1.81,25-34,False,Saturday,Low
+LD-20260221-2ADA31D0,2026-02-21,Detached,Downtown,1925.0,Flexible,Lawn Signs,Recently Purchased,Phone Call,Rain,1.95,25-34,True,Saturday,
+LD-20251223-81DEAA3C,2025-12-23,Heritage Home,Strathcona Park,1495.0,1 month,Word of Mouth/Referral,Own,Email,Rain,2.1,35-44,True,Tuesday,
+LD-20260216-AE2D669A,2026-02-16,Detached,Calvin Park,1856.0,1 month,Door-to-Door,Own,Email,Sunny,5.07,65+,False,Monday,Medium
+LD-20260113-7D013C47,2026-01-13,Semi-Detached,Strathcona Park,948.0,ASAP,Facebook Ads,Rent,Email,Rain,0.51,25-34,False,Tuesday,
+LD-20260101-8577D277,2026-01-01,Apartment,Strathcona Park,642.0,1 month,Facebook Ads,Recently Purchased,Email,Sunny,3.8,25-34,False,Thursday,Low
+LD-20251213-D7B468A8,2025-12-13,Semi-Detached,Sydenham Ward,1804.0,Flexible,Word of Mouth/Referral,Own,SMS,Snow,6.21,35-44,False,Saturday,High
+LD-20260227-888015C7,2026-02-27,Semi-Detached,Calvin Park,1551.0,Flexible,Word of Mouth/Referral,Own,Email,Cloudy,2.53,65+,False,Friday,High
+LD-20260210-1CA3F6F7,2026-02-10,Apartment,Downtown,941.0,1-2 weeks,Door-to-Door,Own,Phone Call,Cloudy,0.3,55-64,True,Tuesday,Low
+LD-20251204-505B3ADE,2025-12-04,Detached,West End,2077.0,Flexible,Lawn Signs,Own,Email,Sunny,1.25,45-54,False,Thursday,
+LD-20260104-5FC4C84A,2026-01-04,Semi-Detached,Calvin Park,1248.0,ASAP,Door-to-Door,Own,SMS,Rain,3.32,18-24,False,Sunday,Medium
+LD-20260122-5335C186,2026-01-22,Townhouse,Downtown,1298.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Cloudy,3.83,18-24,False,Thursday,Medium
+LD-20260129-D1F67C9A,2026-01-29,Townhouse,Downtown,1208.0,Flexible,Facebook Ads,Own,Email,Rain,2.72,35-44,False,Thursday,
+LD-20251217-9A92DC01,2025-12-17,Detached,Strathcona Park,1326.0,Flexible,Facebook Ads,Own,Email,Snow,0.2,55-64,False,Wednesday,
+LD-20260208-5EA9A572,2026-02-08,Detached,Downtown,935.0,ASAP,Lawn Signs,Own,Email,Cloudy,8.49,55-64,False,Sunday,Medium
+LD-20260102-3887CA3A,2026-01-02,Semi-Detached,Calvin Park,967.0,1 month,Door-to-Door,Rent,SMS,Sunny,6.94,45-54,False,Friday,Low
+LD-20260301-E57677FF,2026-03-01,Apartment,West End,655.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,3.96,45-54,False,Sunday,
+LD-20260101-CAA8BD90,2026-01-01,Detached,Downtown,856.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,3.43,55-64,True,Thursday,Low
+LD-20260125-FF9D17F0,2026-01-25,Detached,Downtown,1096.0,1 month,Facebook Ads,Recently Purchased,SMS,Cloudy,5.33,25-34,True,Sunday,
+LD-20251226-492F5B90,2025-12-26,Detached,Downtown,1889.0,Flexible,Door-to-Door,Own,Email,Sunny,1.38,45-54,False,Friday,High
+LD-20260208-278DAB92,2026-02-08,Semi-Detached,Portsmouth Village,1380.0,Flexible,Facebook Ads,Own,Email,Sunny,4.21,45-54,False,Sunday,
+LD-20260123-48BCA145,2026-01-23,Apartment,Calvin Park,370.0,Flexible,Lawn Signs,Own,Email,Rain,3.12,55-64,True,Friday,Low
+LD-20260119-E7D21661,2026-01-19,Townhouse,West End,949.0,1 month,Door-to-Door,Own,Phone Call,Rain,3.06,35-44,False,Monday,
+LD-20251204-81A6D8AA,2025-12-04,Townhouse,West End,1164.0,ASAP,Facebook Ads,Rent,SMS,Sunny,4.13,45-54,False,Thursday,Low
+LD-20260128-FD2B6DFF,2026-01-28,Semi-Detached,Downtown,2212.0,Flexible,Facebook Ads,Rent,Email,Snow,0.2,55-64,True,Wednesday,Medium
+LD-20251229-0960C973,2025-12-29,Detached,Downtown,2154.0,ASAP,Word of Mouth/Referral,Rent,Phone Call,Windy,5.74,65+,False,Monday,High
+LD-20251221-7D33170B,2025-12-21,Detached,Downtown,2343.0,ASAP,Lawn Signs,Own,Email,Rain,1.69,45-54,False,Sunday,High
+LD-20251231-62B11E91,2025-12-31,Apartment,Sydenham Ward,364.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Windy,5.26,25-34,True,Wednesday,Low
+LD-20260208-524CD4DA,2026-02-08,Apartment,Downtown,801.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,4.61,35-44,True,Sunday,
+LD-20251211-81A62EE9,2025-12-11,Apartment,Sydenham Ward,1179.0,1-2 weeks,Door-to-Door,Rent,Phone Call,Cloudy,1.23,55-64,True,Thursday,
+LD-20260124-231B0AF9,2026-01-24,Semi-Detached,Sydenham Ward,1983.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Cloudy,4.63,35-44,False,Saturday,
+LD-20251225-E25C2C2A,2025-12-25,Apartment,Sydenham Ward,349.0,1 month,Lawn Signs,Recently Purchased,SMS,Cloudy,3.42,25-34,True,Thursday,Medium
+LD-20260203-7362B637,2026-02-03,Apartment,Strathcona Park,360.0,1 month,Lawn Signs,Own,SMS,Rain,4.87,25-34,True,Tuesday,
+LD-20260108-B008188E,2026-01-08,Townhouse,Sydenham Ward,1465.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.35,25-34,False,Thursday,
+LD-20260203-E7B01938,2026-02-03,Detached,Downtown,1945.0,ASAP,Facebook Ads,Own,SMS,Rain,4.59,18-24,True,Tuesday,
+LD-20260116-4DEFB045,2026-01-16,Heritage Home,Portsmouth Village,1510.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,6.92,55-64,False,Friday,
+LD-20251204-275588EA,2025-12-04,Heritage Home,Strathcona Park,1183.0,ASAP,Lawn Signs,Recently Purchased,SMS,Rain,4.04,65+,False,Thursday,Medium
+LD-20260218-AEC4B85E,2026-02-18,Semi-Detached,Downtown,1045.0,ASAP,Lawn Signs,Own,Email,Cloudy,2.73,65+,True,Wednesday,Medium
+LD-20251226-9939A524,2025-12-26,Detached,West End,1140.0,ASAP,Facebook Ads,Own,Email,Sunny,4.02,65+,False,Friday,
+LD-20260204-82A61455,2026-02-04,Semi-Detached,West End,1975.0,ASAP,Door-to-Door,Rent,Email,Rain,8.37,55-64,True,Wednesday,
+LD-20260107-ACE10A49,2026-01-07,Semi-Detached,Portsmouth Village,1430.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,2.29,45-54,True,Wednesday,Medium
+LD-20260201-870FA8D7,2026-02-01,Townhouse,West End,1156.0,1-2 weeks,Facebook Ads,Own,Email,Rain,4.68,65+,False,Sunday,Low
+LD-20260102-4521B2A8,2026-01-02,Apartment,West End,607.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,0.92,25-34,False,Friday,
+LD-20260111-E943D505,2026-01-11,Detached,Downtown,2139.0,Flexible,Facebook Ads,Own,Email,Sunny,7.92,35-44,True,Sunday,
+LD-20260204-55FCA010,2026-02-04,Apartment,West End,309.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,5.15,25-34,True,Wednesday,
+LD-20260219-777906DF,2026-02-19,Detached,Calvin Park,713.0,1 month,Door-to-Door,Own,SMS,Sunny,1.74,25-34,False,Thursday,
+LD-20260114-79373CAE,2026-01-14,Townhouse,Calvin Park,1169.0,1 month,Lawn Signs,Own,SMS,Rain,8.04,25-34,False,Wednesday,
+LD-20251230-5C5913F6,2025-12-30,Detached,West End,1703.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,1.87,18-24,True,Tuesday,Medium
+LD-20260127-A3CC1C64,2026-01-27,Detached,Sydenham Ward,1636.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,7.18,35-44,False,Tuesday,
+LD-20260215-2B43BB03,2026-02-15,Semi-Detached,Downtown,1654.0,Flexible,Facebook Ads,Rent,SMS,Sunny,1.54,65+,False,Sunday,
+LD-20260101-7ADBA400,2026-01-01,Townhouse,West End,1160.0,1 month,Facebook Ads,Own,SMS,Sunny,2.55,55-64,False,Thursday,Medium
+LD-20251230-42AAD87C,2025-12-30,Apartment,Downtown,998.0,ASAP,Door-to-Door,Own,Email,Cloudy,4.06,35-44,True,Tuesday,Low
+LD-20260210-75CA3E0A,2026-02-10,Detached,Calvin Park,1071.0,ASAP,Lawn Signs,Own,Email,Windy,2.29,35-44,False,Tuesday,Low
+LD-20260209-C7D24C40,2026-02-09,Heritage Home,Strathcona Park,2906.0,Flexible,Door-to-Door,Own,Phone Call,Cloudy,3.13,45-54,False,Monday,
+LD-20260123-FB4ED222,2026-01-23,Apartment,West End,700.0,ASAP,Facebook Ads,Own,SMS,Sunny,5.06,18-24,False,Friday,Low
+LD-20260118-CA01B52D,2026-01-18,Detached,Strathcona Park,1366.0,ASAP,Door-to-Door,Own,Phone Call,Snow,2.72,45-54,False,Sunday,
+LD-20251204-85D61AE2,2025-12-04,Semi-Detached,West End,1559.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Rain,6.56,35-44,False,Thursday,Medium
+LD-20260214-1069AC93,2026-02-14,Detached,Sydenham Ward,1509.0,ASAP,Word of Mouth/Referral,Own,Email,Cloudy,6.14,25-34,True,Saturday,High
+LD-20260123-D26E9DF9,2026-01-23,Apartment,Calvin Park,511.0,1 month,Facebook Ads,Own,Phone Call,Rain,2.1,35-44,False,Friday,
+LD-20251225-C1244115,2025-12-25,Apartment,Calvin Park,387.0,1-2 weeks,Door-to-Door,Rent,Email,Snow,3.53,55-64,False,Thursday,
+LD-20260121-66337672,2026-01-21,Semi-Detached,West End,1903.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,3.68,65+,False,Wednesday,
+LD-20260212-C6857204,2026-02-12,Detached,Sydenham Ward,1517.0,ASAP,Door-to-Door,Own,Phone Call,Snow,4.85,65+,True,Thursday,Low
+LD-20260224-55C41770,2026-02-24,Detached,West End,1423.0,ASAP,Facebook Ads,Own,Phone Call,Rain,6.43,55-64,True,Tuesday,
+LD-20251219-CFD3A224,2025-12-19,Semi-Detached,Strathcona Park,1007.0,1 month,Facebook Ads,Own,SMS,Rain,6.51,35-44,False,Friday,Low
+LD-20260207-1504ABF7,2026-02-07,Detached,Downtown,1291.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,3.46,35-44,True,Saturday,High
+LD-20251207-15F44A97,2025-12-07,Semi-Detached,West End,1499.0,Flexible,Door-to-Door,Rent,SMS,Sunny,4.56,45-54,False,Sunday,Medium
+LD-20260208-61B378D1,2026-02-08,Semi-Detached,Downtown,1453.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,4.48,35-44,True,Sunday,Medium
+LD-20251211-3FCC9950,2025-12-11,Apartment,Calvin Park,507.0,ASAP,Word of Mouth/Referral,Rent,Email,Rain,4.39,25-34,True,Thursday,
+LD-20251219-A6AB5C54,2025-12-19,Apartment,West End,883.0,ASAP,Door-to-Door,Own,SMS,Sunny,1.63,25-34,False,Friday,
+LD-20260120-38815C50,2026-01-20,Semi-Detached,West End,1418.0,1 month,Facebook Ads,Own,SMS,Sunny,4.43,35-44,False,Tuesday,Medium
+LD-20251222-7CC86D39,2025-12-22,Semi-Detached,Sydenham Ward,875.0,Flexible,Lawn Signs,Own,Email,Sunny,1.87,25-34,False,Monday,
+LD-20251205-DE86B23D,2025-12-05,Townhouse,Portsmouth Village,924.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.53,45-54,False,Friday,
+LD-20251212-5A36B79B,2025-12-12,Apartment,West End,204.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,3.44,18-24,False,Friday,
+LD-20260222-7EFB4FFA,2026-02-22,Detached,West End,2963.0,1 month,Door-to-Door,Rent,SMS,Sunny,5.61,45-54,False,Sunday,
+LD-20251228-1F5B0DBE,2025-12-28,Detached,West End,1524.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,3.7,55-64,False,Sunday,Medium
+LD-20260228-67637168,2026-02-28,Detached,Sydenham Ward,2503.0,ASAP,Facebook Ads,Recently Purchased,Email,Windy,3.75,45-54,True,Saturday,
+LD-20260113-BAE88915,2026-01-13,Heritage Home,Portsmouth Village,2043.0,1-2 weeks,Door-to-Door,Rent,SMS,Sunny,4.45,35-44,False,Tuesday,High
+LD-20260125-537DA6B4,2026-01-25,Townhouse,Sydenham Ward,325.0,1 month,Door-to-Door,Own,SMS,Sunny,3.55,45-54,True,Sunday,Low
+LD-20260126-19E59254,2026-01-26,Townhouse,Strathcona Park,982.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,4.66,65+,True,Monday,
+LD-20251224-A72360F5,2025-12-24,Apartment,Downtown,700.0,ASAP,Lawn Signs,Own,Phone Call,Rain,4.36,65+,True,Wednesday,Low
+LD-20260126-CF756472,2026-01-26,Townhouse,Downtown,1792.0,ASAP,Facebook Ads,Rent,SMS,Cloudy,3.86,45-54,False,Monday,Medium
+LD-20260105-19E87A2C,2026-01-05,Townhouse,Downtown,998.0,1-2 weeks,Door-to-Door,Own,Email,Cloudy,2.94,45-54,True,Monday,
+LD-20260222-47F8BBB5,2026-02-22,Detached,West End,3453.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,2.09,35-44,False,Sunday,High
+LD-20260214-38C9DAC0,2026-02-14,Detached,Downtown,1859.0,1-2 weeks,Facebook Ads,Rent,Email,Snow,3.41,35-44,True,Saturday,High
+LD-20260114-0D38ABEA,2026-01-14,Townhouse,Downtown,812.0,1-2 weeks,Facebook Ads,Own,Email,Snow,2.18,55-64,False,Wednesday,Low
+LD-20260131-3981DBE7,2026-01-31,Apartment,West End,706.0,Flexible,Lawn Signs,Own,SMS,Sunny,0.83,55-64,True,Saturday,Low
+LD-20260301-713072CA,2026-03-01,Semi-Detached,Calvin Park,1731.0,Flexible,Lawn Signs,Own,SMS,Sunny,5.36,65+,False,Sunday,
+LD-20260221-7D8E352D,2026-02-21,Semi-Detached,West End,1284.0,Flexible,Facebook Ads,Recently Purchased,Email,Cloudy,3.38,45-54,True,Saturday,Medium
+LD-20251229-0C067292,2025-12-29,Apartment,Downtown,583.0,1 month,Facebook Ads,Recently Purchased,Email,Windy,2.43,18-24,True,Monday,
+LD-20251220-729903B2,2025-12-20,Detached,Portsmouth Village,1699.0,1-2 weeks,Door-to-Door,Own,Phone Call,Snow,5.61,55-64,True,Saturday,
+LD-20260120-7FBEA458,2026-01-20,Townhouse,West End,998.0,ASAP,Facebook Ads,Own,Email,Sunny,5.08,65+,True,Tuesday,
+LD-20260111-06BC15D9,2026-01-11,Townhouse,West End,1375.0,1 month,Door-to-Door,Own,Phone Call,Sunny,6.09,18-24,False,Sunday,
+LD-20251227-E14A80F5,2025-12-27,Townhouse,West End,987.0,Flexible,Facebook Ads,Own,Email,Rain,2.54,25-34,False,Saturday,
+LD-20260112-2FF78DF5,2026-01-12,Semi-Detached,Downtown,314.0,1 month,Facebook Ads,Own,SMS,Cloudy,4.14,35-44,True,Monday,Low
+LD-20251207-BB8D1FC5,2025-12-07,Townhouse,Calvin Park,998.0,1 month,Door-to-Door,Rent,Phone Call,Sunny,4.07,35-44,False,Sunday,
+LD-20260114-7B994BAC,2026-01-14,Detached,Strathcona Park,1766.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,3.46,45-54,True,Wednesday,Medium
+LD-20251216-B04A4764,2025-12-16,Apartment,Portsmouth Village,711.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,2.13,35-44,False,Tuesday,Medium
+LD-20260203-77E83CD0,2026-02-03,Detached,Sydenham Ward,3174.0,Flexible,Lawn Signs,Recently Purchased,SMS,Cloudy,6.41,18-24,False,Tuesday,
+LD-20260225-DFE888A1,2026-02-25,Apartment,West End,555.0,1-2 weeks,Lawn Signs,Rent,Email,Snow,3.68,55-64,False,Wednesday,Low
+LD-20260102-DDC7A8C9,2026-01-02,Detached,Strathcona Park,2098.0,1 month,Facebook Ads,Own,SMS,Cloudy,4.77,55-64,True,Friday,Medium
+LD-20260125-843D67F1,2026-01-25,Apartment,West End,669.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.5,65+,False,Sunday,
+LD-20251215-A033105F,2025-12-15,Detached,Strathcona Park,1884.0,1 month,Facebook Ads,Own,SMS,Cloudy,3.92,35-44,False,Monday,High
+LD-20251228-BB16F3C0,2025-12-28,Semi-Detached,Calvin Park,1268.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Sunny,2.84,35-44,False,Sunday,
+LD-20260126-B396D64A,2026-01-26,Semi-Detached,West End,1824.0,1-2 weeks,Door-to-Door,Own,Email,Windy,2.44,45-54,False,Monday,High
+LD-20260303-1C150934,2026-03-03,Townhouse,West End,1426.0,ASAP,Lawn Signs,Recently Purchased,Phone Call,Rain,4.64,45-54,False,Tuesday,
+LD-20251212-AD3A6FDA,2025-12-12,Townhouse,Portsmouth Village,780.0,1 month,Lawn Signs,Rent,SMS,Rain,5.6,18-24,False,Friday,
+LD-20260301-2F6E5D74,2026-03-01,Detached,Sydenham Ward,1953.0,1-2 weeks,Facebook Ads,Own,Email,Rain,4.87,65+,False,Sunday,High
+LD-20260302-CEAE4853,2026-03-02,Townhouse,Sydenham Ward,1939.0,ASAP,Facebook Ads,Own,Email,Cloudy,2.72,35-44,True,Monday,Medium
+LD-20251212-3DC61F27,2025-12-12,Apartment,Calvin Park,564.0,1-2 weeks,Door-to-Door,Rent,Email,Rain,3.96,45-54,True,Friday,
+LD-20260301-5E517475,2026-03-01,Detached,West End,1816.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Sunny,3.58,55-64,True,Sunday,
+LD-20260120-4B4434A4,2026-01-20,Detached,Downtown,1542.0,Flexible,Facebook Ads,Own,Email,Cloudy,5.88,65+,False,Tuesday,Medium
+LD-20260203-022DF3BD,2026-02-03,Apartment,Downtown,882.0,1-2 weeks,Facebook Ads,Rent,SMS,Cloudy,1.24,25-34,False,Tuesday,
+LD-20260304-3967E5E3,2026-03-04,Detached,West End,2264.0,Flexible,Door-to-Door,Own,Email,Cloudy,3.63,25-34,False,Wednesday,High
+LD-20260131-6DC94D04,2026-01-31,Semi-Detached,West End,1665.0,ASAP,Facebook Ads,Rent,SMS,Rain,5.21,18-24,False,Saturday,Medium
+LD-20260114-E036B469,2026-01-14,Apartment,Strathcona Park,575.0,Flexible,Word of Mouth/Referral,Own,SMS,Windy,3.18,35-44,False,Wednesday,
+LD-20260117-E23FDFCE,2026-01-17,Apartment,Sydenham Ward,613.0,1 month,Lawn Signs,Rent,Phone Call,Windy,1.87,25-34,False,Saturday,Low
+LD-20260103-E3886D7E,2026-01-03,Detached,Downtown,1458.0,Flexible,Facebook Ads,Own,Phone Call,Windy,0.2,65+,False,Saturday,
+LD-20260201-0CDBDC0A,2026-02-01,Detached,West End,1631.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,2.84,35-44,False,Sunday,High
+LD-20260204-F557E66C,2026-02-04,Apartment,Strathcona Park,308.0,ASAP,Facebook Ads,Own,Email,Sunny,4.85,25-34,False,Wednesday,
+LD-20251223-912660E0,2025-12-23,Heritage Home,West End,1978.0,Flexible,Facebook Ads,Rent,Phone Call,Snow,1.45,35-44,True,Tuesday,High
+LD-20251225-7DE1B563,2025-12-25,Townhouse,Portsmouth Village,1189.0,ASAP,Facebook Ads,Own,SMS,Sunny,7.32,55-64,False,Thursday,
+LD-20260124-DAD3247F,2026-01-24,Detached,West End,2866.0,ASAP,Lawn Signs,Own,SMS,Sunny,7.26,35-44,True,Saturday,High
+LD-20260118-02488F1A,2026-01-18,Semi-Detached,Downtown,1566.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.72,45-54,True,Sunday,
+LD-20260216-298681D2,2026-02-16,Detached,Portsmouth Village,2453.0,1 month,Lawn Signs,Own,Email,Cloudy,1.21,45-54,False,Monday,
+LD-20251224-6F09F810,2025-12-24,Detached,Portsmouth Village,677.0,Flexible,Word of Mouth/Referral,Own,Email,Rain,1.64,18-24,False,Wednesday,Medium
+LD-20260213-BDD99BD8,2026-02-13,Townhouse,Sydenham Ward,943.0,1 month,Door-to-Door,Own,Email,Cloudy,0.2,18-24,False,Friday,
+LD-20260212-7FC36DD1,2026-02-12,Apartment,West End,483.0,1-2 weeks,Door-to-Door,Rent,Email,Sunny,4.48,35-44,True,Thursday,
+LD-20251228-CBF1B02C,2025-12-28,Apartment,Downtown,388.0,ASAP,Word of Mouth/Referral,Own,Email,Rain,4.13,55-64,False,Sunday,
+LD-20260201-7A552957,2026-02-01,Townhouse,Strathcona Park,1040.0,Flexible,Facebook Ads,Rent,Phone Call,Cloudy,2.19,45-54,False,Sunday,Low
+LD-20251214-CF5DB14E,2025-12-14,Semi-Detached,West End,2206.0,1-2 weeks,Facebook Ads,Own,Email,Rain,3.36,25-34,True,Sunday,High
+LD-20260126-601239B2,2026-01-26,Detached,Sydenham Ward,2863.0,1 month,Door-to-Door,Own,Phone Call,Cloudy,3.55,25-34,True,Monday,
+LD-20251205-FF5BE529,2025-12-05,Apartment,Sydenham Ward,856.0,1 month,Facebook Ads,Rent,Phone Call,Sunny,1.29,45-54,False,Friday,
+LD-20260110-ED3DB7A9,2026-01-10,Detached,Calvin Park,2866.0,ASAP,Lawn Signs,Own,SMS,Sunny,4.65,65+,False,Saturday,
+LD-20260116-EA22E26E,2026-01-16,Apartment,West End,612.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Rain,4.22,55-64,True,Friday,
+LD-20251211-81F8ABE9,2025-12-11,Semi-Detached,Portsmouth Village,1353.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,6.12,55-64,False,Thursday,
+LD-20251210-C1E26743,2025-12-10,Apartment,West End,1026.0,Flexible,Lawn Signs,Own,SMS,Sunny,4.43,45-54,False,Wednesday,
+LD-20251206-04FA6D6E,2025-12-06,Apartment,Sydenham Ward,929.0,1 month,Facebook Ads,Own,Email,Rain,3.6,65+,True,Saturday,Medium
+LD-20251228-78FE0821,2025-12-28,Heritage Home,West End,2094.0,1 month,Lawn Signs,Rent,SMS,Windy,2.35,18-24,False,Sunday,
+LD-20260127-847CDE30,2026-01-27,Apartment,Sydenham Ward,497.0,Flexible,Lawn Signs,Own,Email,Sunny,3.47,65+,False,Tuesday,Low
+LD-20260107-EB5A9317,2026-01-07,Heritage Home,Calvin Park,1663.0,1 month,Facebook Ads,Own,Email,Cloudy,2.66,18-24,False,Wednesday,High
+LD-20260121-9DEDB8ED,2026-01-21,Semi-Detached,Downtown,1537.0,Flexible,Facebook Ads,Own,Email,Sunny,6.65,25-34,True,Wednesday,Medium
+LD-20251207-99A7196F,2025-12-07,Apartment,West End,929.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,4.19,35-44,False,Sunday,
+LD-20260123-927FB52B,2026-01-23,Townhouse,Portsmouth Village,766.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,7.06,55-64,True,Friday,Medium
+LD-20260207-D76C993B,2026-02-07,Townhouse,Strathcona Park,1582.0,Flexible,Lawn Signs,Own,SMS,Sunny,0.77,55-64,False,Saturday,Medium
+LD-20251206-94789669,2025-12-06,Townhouse,West End,1912.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,4.29,35-44,True,Saturday,
+LD-20251205-64249B94,2025-12-05,Detached,Downtown,1943.0,ASAP,Door-to-Door,Own,Phone Call,Windy,3.4,25-34,True,Friday,
+LD-20260201-CCB61A0F,2026-02-01,Detached,Portsmouth Village,2354.0,1 month,Door-to-Door,Own,Email,Cloudy,5.27,35-44,False,Sunday,High
+LD-20260211-E53EFF87,2026-02-11,Apartment,Portsmouth Village,447.0,1 month,Door-to-Door,Own,Phone Call,Rain,2.91,18-24,True,Wednesday,Low
+LD-20251208-BC28C430,2025-12-08,Semi-Detached,Sydenham Ward,1745.0,ASAP,Facebook Ads,Own,Email,Rain,2.96,45-54,False,Monday,
+LD-20251204-E48DAEBF,2025-12-04,Apartment,Downtown,887.0,1 month,Facebook Ads,Recently Purchased,SMS,Windy,0.47,45-54,False,Thursday,Low
+LD-20260109-AEB6E88D,2026-01-09,Townhouse,Calvin Park,1018.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,5.44,65+,True,Friday,Medium
+LD-20260128-5E8EF8C4,2026-01-28,Heritage Home,Sydenham Ward,2937.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,3.11,35-44,False,Wednesday,High
+LD-20260219-3C8A6F01,2026-02-19,Detached,West End,1890.0,Flexible,Facebook Ads,Rent,SMS,Sunny,1.43,65+,False,Thursday,
+LD-20260131-C815177A,2026-01-31,Detached,Downtown,1603.0,1-2 weeks,Door-to-Door,Own,SMS,Rain,4.19,55-64,False,Saturday,
+LD-20260128-76E0C2E4,2026-01-28,Detached,Portsmouth Village,965.0,1 month,Lawn Signs,Rent,SMS,Sunny,4.31,18-24,True,Wednesday,Low
+LD-20260117-CEC6EBDD,2026-01-17,Detached,Calvin Park,1458.0,ASAP,Facebook Ads,Own,Email,Cloudy,1.88,18-24,True,Saturday,Medium
+LD-20260101-6D21173B,2026-01-01,Detached,West End,2562.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,1.67,65+,False,Thursday,High
+LD-20260106-56AF8992,2026-01-06,Semi-Detached,Sydenham Ward,1537.0,ASAP,Facebook Ads,Own,SMS,Sunny,0.2,45-54,True,Tuesday,Medium
+LD-20260210-4BE3CAB8,2026-02-10,Detached,Sydenham Ward,2175.0,Flexible,Door-to-Door,Own,Phone Call,Rain,5.22,45-54,True,Tuesday,High
+LD-20260113-6F4A80F3,2026-01-13,Semi-Detached,West End,1431.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,1.1,25-34,False,Tuesday,Medium
+LD-20251228-345A0166,2025-12-28,Apartment,Sydenham Ward,340.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,1.85,35-44,False,Sunday,Low
+LD-20260119-7D0276E4,2026-01-19,Apartment,Calvin Park,651.0,ASAP,Facebook Ads,Own,Phone Call,Windy,5.46,18-24,False,Monday,
+LD-20260131-58105AE5,2026-01-31,Semi-Detached,Portsmouth Village,1743.0,1 month,Facebook Ads,Own,SMS,Rain,3.77,35-44,True,Saturday,Medium
+LD-20251213-AC683393,2025-12-13,Townhouse,Calvin Park,281.0,1-2 weeks,Lawn Signs,Recently Purchased,SMS,Sunny,4.48,35-44,True,Saturday,Low
+LD-20251224-B19FF3FB,2025-12-24,Detached,Downtown,2639.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,4.58,35-44,False,Wednesday,High
+LD-20260222-364B8185,2026-02-22,Semi-Detached,West End,1991.0,1 month,Lawn Signs,Own,Phone Call,Windy,3.35,25-34,False,Sunday,High
+LD-20251226-75C2ABA1,2025-12-26,Semi-Detached,Calvin Park,1210.0,1 month,Word of Mouth/Referral,Own,Email,Windy,1.27,35-44,True,Friday,High
+LD-20251206-13B5B0DE,2025-12-06,Detached,Downtown,1918.0,ASAP,Door-to-Door,Own,SMS,Cloudy,7.25,45-54,False,Saturday,Medium
+LD-20260205-D36F382B,2026-02-05,Detached,Sydenham Ward,500.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,2.43,55-64,True,Thursday,
+LD-20260209-9FEEF133,2026-02-09,Semi-Detached,Downtown,1174.0,1 month,Door-to-Door,Rent,SMS,Snow,2.79,45-54,False,Monday,Low
+LD-20260131-ECF7B974,2026-01-31,Apartment,West End,1056.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,7.36,55-64,True,Saturday,High
+LD-20260302-A6C77547,2026-03-02,Semi-Detached,Calvin Park,1005.0,ASAP,Lawn Signs,Own,Email,Sunny,2.72,18-24,False,Monday,
+LD-20260129-5B2D8391,2026-01-29,Semi-Detached,Strathcona Park,1112.0,1 month,Lawn Signs,Own,SMS,Cloudy,7.37,25-34,True,Thursday,Medium
+LD-20251219-3676FD62,2025-12-19,Townhouse,Sydenham Ward,1177.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,2.51,25-34,False,Friday,Low
+LD-20251215-A7F3DFBB,2025-12-15,Semi-Detached,West End,839.0,ASAP,Lawn Signs,Rent,SMS,Sunny,0.47,55-64,True,Monday,Medium
+LD-20251222-11486234,2025-12-22,Apartment,West End,563.0,Flexible,Facebook Ads,Own,SMS,Snow,1.0,25-34,True,Monday,
+LD-20260105-6D626B08,2026-01-05,Heritage Home,Downtown,3139.0,ASAP,Facebook Ads,Recently Purchased,Phone Call,Snow,4.54,55-64,True,Monday,High
+LD-20251222-7B16496E,2025-12-22,Townhouse,Sydenham Ward,1489.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,2.97,45-54,True,Monday,Medium
+LD-20260302-FB7A2F3F,2026-03-02,Townhouse,Downtown,1524.0,ASAP,Door-to-Door,Own,SMS,Cloudy,4.48,65+,True,Monday,Medium
+LD-20251229-10FACEBF,2025-12-29,Detached,Downtown,1424.0,1 month,Facebook Ads,Own,Email,Windy,2.96,18-24,True,Monday,Medium
+LD-20251222-9C7E4E1A,2025-12-22,Semi-Detached,Calvin Park,2049.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,5.53,25-34,False,Monday,High
+LD-20260120-CB14CB3D,2026-01-20,Semi-Detached,Downtown,1914.0,1 month,Word of Mouth/Referral,Recently Purchased,Phone Call,Sunny,1.54,45-54,True,Tuesday,High
+LD-20260131-4F7E18BE,2026-01-31,Detached,Downtown,2144.0,1 month,Facebook Ads,Own,Phone Call,Rain,0.85,45-54,True,Saturday,High
+LD-20260121-5724ABB5,2026-01-21,Apartment,Downtown,748.0,1-2 weeks,Door-to-Door,Own,SMS,Windy,1.71,65+,True,Wednesday,
+LD-20260118-8A2FB5DB,2026-01-18,Apartment,Downtown,591.0,1-2 weeks,Lawn Signs,Recently Purchased,SMS,Sunny,3.15,65+,False,Sunday,
+LD-20260107-43D47B34,2026-01-07,Heritage Home,Downtown,2363.0,1-2 weeks,Facebook Ads,Own,Phone Call,Snow,3.46,65+,True,Wednesday,High
+LD-20260114-896A85D0,2026-01-14,Townhouse,Calvin Park,843.0,1 month,Lawn Signs,Own,Email,Rain,4.52,35-44,False,Wednesday,
+LD-20260124-4D2A190B,2026-01-24,Semi-Detached,Sydenham Ward,967.0,ASAP,Facebook Ads,Rent,SMS,Sunny,3.6,35-44,False,Saturday,Medium
+LD-20260130-7AFA25BE,2026-01-30,Apartment,West End,1189.0,ASAP,Word of Mouth/Referral,Recently Purchased,Phone Call,Cloudy,1.24,35-44,False,Friday,
+LD-20260118-B0ED793A,2026-01-18,Semi-Detached,Downtown,1133.0,Flexible,Lawn Signs,Own,Phone Call,Sunny,1.99,65+,False,Sunday,Medium
+LD-20251231-4320169A,2025-12-31,Apartment,Strathcona Park,755.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,4.37,55-64,False,Wednesday,Medium
+LD-20260112-5E011990,2026-01-12,Townhouse,Sydenham Ward,1795.0,Flexible,Word of Mouth/Referral,Own,SMS,Cloudy,5.22,35-44,True,Monday,High
+LD-20251214-6EC7281D,2025-12-14,Townhouse,West End,751.0,ASAP,Lawn Signs,Own,Email,Windy,6.75,55-64,False,Sunday,Low
+LD-20260126-5281A1E8,2026-01-26,Detached,Sydenham Ward,2335.0,1-2 weeks,Facebook Ads,Own,Email,Rain,3.19,35-44,False,Monday,High
+LD-20260110-EDA18EB0,2026-01-10,Detached,Calvin Park,1703.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,5.42,65+,True,Saturday,High
+LD-20260119-0AEED45F,2026-01-19,Townhouse,Strathcona Park,879.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,1.27,25-34,True,Monday,
+LD-20260201-B83FB981,2026-02-01,Townhouse,Portsmouth Village,1428.0,1-2 weeks,Door-to-Door,Own,SMS,Snow,1.77,25-34,False,Sunday,
+LD-20260124-77A386DB,2026-01-24,Semi-Detached,Strathcona Park,1332.0,ASAP,Lawn Signs,Own,Email,Rain,2.37,45-54,False,Saturday,
+LD-20251208-73A403D2,2025-12-08,Detached,Portsmouth Village,948.0,1 month,Facebook Ads,Rent,Email,Snow,3.52,25-34,False,Monday,
+LD-20260226-66D85CE6,2026-02-26,Detached,Strathcona Park,1632.0,ASAP,Door-to-Door,Own,Email,Cloudy,3.71,55-64,True,Thursday,Medium
+LD-20260228-2C86905A,2026-02-28,Semi-Detached,West End,1499.0,Flexible,Facebook Ads,Own,SMS,Cloudy,6.68,18-24,False,Saturday,Medium
+LD-20260227-01F7205A,2026-02-27,Semi-Detached,Calvin Park,933.0,ASAP,Door-to-Door,Own,Email,Cloudy,2.22,45-54,False,Friday,
+LD-20251221-58013D78,2025-12-21,Townhouse,Calvin Park,1010.0,1 month,Word of Mouth/Referral,Own,SMS,Cloudy,0.2,35-44,False,Sunday,Medium
+LD-20260104-B25FAF19,2026-01-04,Semi-Detached,Portsmouth Village,1179.0,1 month,Door-to-Door,Recently Purchased,SMS,Sunny,2.92,45-54,True,Sunday,
+LD-20260108-017643B0,2026-01-08,Apartment,Downtown,509.0,Flexible,Facebook Ads,Own,Email,Rain,2.48,18-24,True,Thursday,Low
+LD-20260119-342155F2,2026-01-19,Detached,Downtown,975.0,1-2 weeks,Lawn Signs,Own,SMS,Rain,7.68,35-44,False,Monday,Medium
+LD-20260119-D7052F1A,2026-01-19,Townhouse,Sydenham Ward,1396.0,ASAP,Facebook Ads,Own,Email,Windy,6.94,55-64,False,Monday,Medium
+LD-20260206-7D22C7B9,2026-02-06,Semi-Detached,West End,1010.0,Flexible,Lawn Signs,Own,Phone Call,Cloudy,6.27,55-64,False,Friday,
+LD-20260120-E6D5F8BA,2026-01-20,Detached,West End,2059.0,1-2 weeks,Lawn Signs,Own,Email,Rain,3.48,65+,True,Tuesday,High
+LD-20260111-3C34E007,2026-01-11,Apartment,Calvin Park,590.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,0.93,35-44,False,Sunday,
+LD-20260121-08FC781E,2026-01-21,Apartment,West End,970.0,1 month,Facebook Ads,Own,Email,Cloudy,4.14,25-34,False,Wednesday,Medium
+LD-20251206-F4D10A0A,2025-12-06,Apartment,Portsmouth Village,1070.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Windy,5.18,35-44,True,Saturday,Low
+LD-20251228-8AA4F83A,2025-12-28,Semi-Detached,Strathcona Park,1762.0,ASAP,Word of Mouth/Referral,Rent,Email,Rain,6.75,25-34,False,Sunday,
+LD-20260227-583C81E3,2026-02-27,Apartment,Downtown,736.0,1 month,Facebook Ads,Rent,Email,Rain,2.25,45-54,True,Friday,Low
+LD-20260219-609C2893,2026-02-19,Apartment,West End,941.0,1 month,Facebook Ads,Own,SMS,Cloudy,0.2,45-54,True,Thursday,
+LD-20251214-64684A27,2025-12-14,Townhouse,Calvin Park,952.0,Flexible,Facebook Ads,Own,SMS,Sunny,5.38,35-44,True,Sunday,Low
+LD-20260129-98E52152,2026-01-29,Detached,Calvin Park,2221.0,ASAP,Lawn Signs,Own,SMS,Cloudy,3.57,35-44,True,Thursday,High
+LD-20260223-658E178F,2026-02-23,Townhouse,Calvin Park,1461.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,4.74,25-34,False,Monday,Low
+LD-20260224-23DE486B,2026-02-24,Townhouse,Sydenham Ward,1177.0,ASAP,Facebook Ads,Own,Email,Cloudy,5.12,55-64,False,Tuesday,
+LD-20260304-C44506C8,2026-03-04,Detached,Downtown,2362.0,Flexible,Lawn Signs,Own,Email,Rain,5.6,35-44,True,Wednesday,
+LD-20260103-E46D6202,2026-01-03,Detached,Downtown,2210.0,1 month,Word of Mouth/Referral,Own,Email,Rain,3.66,55-64,False,Saturday,
+LD-20251211-0B9C175D,2025-12-11,Semi-Detached,Sydenham Ward,1703.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,4.11,45-54,True,Thursday,Low
+LD-20260130-284F8841,2026-01-30,Detached,Downtown,2058.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,1.3,35-44,True,Friday,High
+LD-20251209-7DC3A2EE,2025-12-09,Townhouse,West End,1349.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,6.38,55-64,False,Tuesday,
+LD-20260205-C0C7C245,2026-02-05,Heritage Home,West End,2689.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,4.01,35-44,False,Thursday,
+LD-20260217-B0C29F1D,2026-02-17,Semi-Detached,West End,2159.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,2.2,55-64,False,Tuesday,
+LD-20260131-5B45C378,2026-01-31,Detached,Strathcona Park,1827.0,1 month,Facebook Ads,Rent,Phone Call,Windy,5.22,45-54,True,Saturday,
+LD-20251231-6CF04C38,2025-12-31,Apartment,Downtown,212.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,4.49,35-44,False,Wednesday,Low
+LD-20260215-1AE9499A,2026-02-15,Townhouse,Strathcona Park,1501.0,ASAP,Facebook Ads,Recently Purchased,Phone Call,Sunny,5.02,65+,False,Sunday,High
+LD-20260211-976E132D,2026-02-11,Detached,Sydenham Ward,2358.0,ASAP,Door-to-Door,Own,Email,Windy,4.41,18-24,False,Wednesday,
+LD-20251211-B8D4B92D,2025-12-11,Semi-Detached,Strathcona Park,1223.0,Flexible,Lawn Signs,Own,SMS,Cloudy,2.97,45-54,False,Thursday,Medium
+LD-20251209-B56435E0,2025-12-09,Detached,Portsmouth Village,962.0,1 month,Lawn Signs,Rent,SMS,Cloudy,3.71,35-44,False,Tuesday,
+LD-20260212-585CACA9,2026-02-12,Detached,Downtown,1619.0,1 month,Door-to-Door,Own,Email,Rain,3.46,25-34,False,Thursday,
+LD-20260120-3B68835A,2026-01-20,Apartment,Downtown,949.0,Flexible,Lawn Signs,Own,Phone Call,Sunny,1.18,35-44,False,Tuesday,Low
+LD-20260107-C1B2345B,2026-01-07,Apartment,Sydenham Ward,606.0,1 month,Door-to-Door,Own,SMS,Sunny,6.36,55-64,False,Wednesday,
+LD-20260120-A62B0279,2026-01-20,Semi-Detached,Strathcona Park,1003.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Sunny,1.28,18-24,False,Tuesday,Medium
+LD-20260130-1FBCE94F,2026-01-30,Heritage Home,West End,3803.0,1 month,Facebook Ads,Own,SMS,Sunny,5.59,65+,False,Friday,
+LD-20251228-4DD95B70,2025-12-28,Townhouse,Calvin Park,1095.0,ASAP,Lawn Signs,Rent,SMS,Sunny,5.84,25-34,False,Sunday,Medium
+LD-20260202-4F51D651,2026-02-02,Detached,Sydenham Ward,1042.0,ASAP,Lawn Signs,Own,Email,Snow,3.82,25-34,False,Monday,
+LD-20260122-6E48646C,2026-01-22,Apartment,West End,956.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,6.69,35-44,False,Thursday,Medium
+LD-20260216-7C01E37A,2026-02-16,Heritage Home,Sydenham Ward,2803.0,ASAP,Facebook Ads,Own,Phone Call,Rain,3.81,45-54,True,Monday,
+LD-20260131-92074224,2026-01-31,Townhouse,Strathcona Park,1586.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,2.53,45-54,False,Saturday,
+LD-20260205-6086ACC8,2026-02-05,Townhouse,Sydenham Ward,1178.0,Flexible,Lawn Signs,Recently Purchased,Email,Windy,7.97,55-64,True,Thursday,Medium
+LD-20260118-F791AB25,2026-01-18,Detached,Sydenham Ward,2352.0,1 month,Facebook Ads,Rent,Phone Call,Rain,4.5,45-54,True,Sunday,
+LD-20260218-98A45CE4,2026-02-18,Semi-Detached,Portsmouth Village,1721.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,3.94,45-54,False,Wednesday,Medium
+LD-20260216-A740831D,2026-02-16,Apartment,West End,406.0,1 month,Facebook Ads,Rent,SMS,Rain,3.2,65+,False,Monday,Low
+LD-20260225-962415A2,2026-02-25,Apartment,Downtown,449.0,1 month,Facebook Ads,Own,Phone Call,Rain,1.89,65+,True,Wednesday,
+LD-20260301-DF3E6F73,2026-03-01,Semi-Detached,Downtown,982.0,Flexible,Facebook Ads,Own,SMS,Rain,6.72,35-44,True,Sunday,Medium
+LD-20260129-EC6C8380,2026-01-29,Detached,Downtown,2441.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,2.53,25-34,False,Thursday,High
+LD-20260125-0C854B41,2026-01-25,Detached,West End,1732.0,ASAP,Lawn Signs,Recently Purchased,Email,Sunny,0.4,18-24,False,Sunday,
+LD-20260301-D115FD6C,2026-03-01,Detached,Strathcona Park,791.0,Flexible,Facebook Ads,Own,Phone Call,Rain,5.6,25-34,False,Sunday,
+LD-20251211-360F090F,2025-12-11,Apartment,West End,682.0,1 month,Word of Mouth/Referral,Own,Email,Snow,1.49,55-64,False,Thursday,
+LD-20260108-79A29284,2026-01-08,Semi-Detached,Sydenham Ward,1548.0,Flexible,Door-to-Door,Own,Email,Windy,1.65,35-44,False,Thursday,Medium
+LD-20260301-E19CD585,2026-03-01,Semi-Detached,West End,557.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,4.06,35-44,False,Sunday,Low
+LD-20260210-452987B1,2026-02-10,Townhouse,Portsmouth Village,1534.0,ASAP,Facebook Ads,Own,Email,Snow,3.525,45-54,True,Tuesday,Medium
+LD-20260116-B84EF70C,2026-01-16,Detached,West End,1674.0,1 month,Facebook Ads,Own,Email,Cloudy,1.83,35-44,True,Friday,
+LD-20260129-E10BA714,2026-01-29,Semi-Detached,Calvin Park,1019.0,1 month,Door-to-Door,Own,Phone Call,Sunny,2.49,18-24,False,Thursday,
+LD-20260302-C3FBE448,2026-03-02,Detached,Sydenham Ward,3046.0,Flexible,Lawn Signs,Own,Email,Snow,4.24,25-34,False,Monday,High
+LD-20251218-2F051501,2025-12-18,Apartment,Sydenham Ward,991.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,7.47,55-64,True,Thursday,Low
+LD-20260120-3C3BCD51,2026-01-20,Semi-Detached,Downtown,508.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,2.95,45-54,True,Tuesday,
+LD-20260203-F8457A91,2026-02-03,Apartment,West End,819.0,ASAP,Door-to-Door,Rent,Phone Call,Cloudy,6.95,35-44,True,Tuesday,
+LD-20260228-AD7ABBDA,2026-02-28,Apartment,Downtown,291.0,1 month,Lawn Signs,Own,Email,Snow,4.07,55-64,False,Saturday,
+LD-20251217-3FB9F12D,2025-12-17,Detached,Strathcona Park,1179.0,1 month,Lawn Signs,Own,Phone Call,Sunny,5.23,18-24,False,Wednesday,
+LD-20260104-9CEE3623,2026-01-04,Townhouse,West End,887.0,ASAP,Lawn Signs,Own,SMS,Sunny,3.96,45-54,False,Sunday,Low
+LD-20260208-6305207D,2026-02-08,Semi-Detached,Downtown,992.0,Flexible,Door-to-Door,Own,Email,Cloudy,5.17,35-44,False,Sunday,
+LD-20260110-40C556EF,2026-01-10,Townhouse,Sydenham Ward,1233.0,ASAP,Lawn Signs,Recently Purchased,Email,Rain,1.51,35-44,True,Saturday,
+LD-20251213-CD35FA1A,2025-12-13,Detached,Sydenham Ward,1448.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,3.89,25-34,False,Saturday,Medium
+LD-20260210-498332B5,2026-02-10,Townhouse,Calvin Park,1165.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,2.15,25-34,False,Tuesday,Low
+LD-20260225-95C26835,2026-02-25,Detached,West End,1339.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,5.96,18-24,False,Wednesday,High
+LD-20260218-A41A0E39,2026-02-18,Apartment,Portsmouth Village,319.0,Flexible,Lawn Signs,Own,Phone Call,Rain,4.0,45-54,True,Wednesday,
+LD-20251227-D64BD9DE,2025-12-27,Detached,West End,2433.0,1-2 weeks,Door-to-Door,Own,SMS,Rain,2.03,65+,True,Saturday,High
+LD-20260131-B5B38974,2026-01-31,Detached,Strathcona Park,2284.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.71,35-44,True,Saturday,
+LD-20251220-A9385D08,2025-12-20,Townhouse,West End,1344.0,Flexible,Facebook Ads,Own,Email,Sunny,1.76,25-34,False,Saturday,
+LD-20260223-77EFECBE,2026-02-23,Semi-Detached,Portsmouth Village,874.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Rain,3.94,45-54,True,Monday,High
+LD-20260214-56724E3D,2026-02-14,Apartment,Downtown,886.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,1.68,55-64,True,Saturday,
+LD-20260216-A38336EC,2026-02-16,Detached,Downtown,910.0,ASAP,Lawn Signs,Rent,SMS,Cloudy,1.71,35-44,False,Monday,Low
+LD-20260213-6081602E,2026-02-13,Apartment,Strathcona Park,690.0,1-2 weeks,Lawn Signs,Own,Phone Call,Windy,4.43,25-34,True,Friday,Low
+LD-20251214-28C50E37,2025-12-14,Townhouse,Sydenham Ward,1962.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Rain,0.65,18-24,False,Sunday,Medium
+LD-20260226-86AC7554,2026-02-26,Heritage Home,Downtown,2597.0,1-2 weeks,Door-to-Door,Own,Email,Rain,3.17,65+,True,Thursday,
+LD-20260109-A588C1B8,2026-01-09,Apartment,Calvin Park,701.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,2.56,55-64,False,Friday,
+LD-20251214-B3F43D5B,2025-12-14,Detached,Downtown,1104.0,1 month,Facebook Ads,Recently Purchased,Email,Snow,6.91,25-34,True,Sunday,Medium
+LD-20251209-BD511508,2025-12-09,Townhouse,Calvin Park,827.0,ASAP,Lawn Signs,Own,Email,Sunny,4.57,65+,True,Tuesday,
+LD-20260303-FE5CF7AC,2026-03-03,Detached,Strathcona Park,1706.0,Flexible,Lawn Signs,Recently Purchased,SMS,Rain,2.53,25-34,True,Tuesday,
+LD-20260222-CE700D55,2026-02-22,Detached,West End,2641.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,3.04,25-34,False,Sunday,
+LD-20251231-15B51A54,2025-12-31,Townhouse,West End,728.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Snow,1.19,65+,True,Wednesday,Low
+LD-20251207-CA80C134,2025-12-07,Apartment,Strathcona Park,443.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.53,25-34,False,Sunday,
+LD-20260103-A46A1442,2026-01-03,Semi-Detached,Downtown,975.0,1 month,Lawn Signs,Own,Phone Call,Cloudy,0.24,25-34,True,Saturday,Medium
+LD-20260214-EA4641B1,2026-02-14,Semi-Detached,West End,1858.0,1-2 weeks,Facebook Ads,Rent,SMS,Windy,3.83,45-54,True,Saturday,Medium
+LD-20251208-2DFCAAB2,2025-12-08,Detached,West End,2005.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,4.65,35-44,True,Monday,High
+LD-20260119-CB09A196,2026-01-19,Heritage Home,Portsmouth Village,2542.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,1.29,35-44,False,Monday,
+LD-20251204-B675BBEB,2025-12-04,Detached,Downtown,2666.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Rain,4.73,45-54,True,Thursday,High
+LD-20260225-87614A94,2026-02-25,Detached,Sydenham Ward,2228.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,0.2,18-24,True,Wednesday,High
+LD-20260124-399604C2,2026-01-24,Detached,Calvin Park,2391.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,6.25,35-44,True,Saturday,
+LD-20260211-C0313FA0,2026-02-11,Semi-Detached,Calvin Park,1275.0,ASAP,Door-to-Door,Recently Purchased,SMS,Rain,6.0,35-44,True,Wednesday,
+LD-20251221-ACFC4849,2025-12-21,Apartment,Downtown,1006.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,0.2,45-54,False,Sunday,
+LD-20260124-A4FE9A65,2026-01-24,Apartment,Sydenham Ward,615.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,8.32,18-24,True,Saturday,Low
+LD-20260128-C80BEBD5,2026-01-28,Townhouse,West End,1154.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Cloudy,3.05,35-44,False,Wednesday,
+LD-20251205-53A5559F,2025-12-05,Detached,Strathcona Park,2242.0,ASAP,Facebook Ads,Own,Phone Call,Windy,4.66,35-44,True,Friday,Medium
+LD-20260202-13116DB0,2026-02-02,Apartment,Calvin Park,325.0,1-2 weeks,Facebook Ads,Own,Phone Call,Snow,5.01,18-24,False,Monday,
+LD-20260106-2318D8B6,2026-01-06,Semi-Detached,Downtown,1361.0,Flexible,Facebook Ads,Rent,Phone Call,Cloudy,0.83,65+,True,Tuesday,Medium
+LD-20260206-2E587759,2026-02-06,Townhouse,Sydenham Ward,1212.0,ASAP,Lawn Signs,Rent,Phone Call,Sunny,4.39,65+,False,Friday,
+LD-20251225-25D46445,2025-12-25,Detached,Strathcona Park,558.0,Flexible,Facebook Ads,Own,Email,Rain,2.46,25-34,True,Thursday,
+LD-20251220-ADE95D90,2025-12-20,Semi-Detached,West End,916.0,ASAP,Door-to-Door,Rent,SMS,Cloudy,5.58,35-44,True,Saturday,Low
+LD-20260117-2661FBC1,2026-01-17,Detached,Calvin Park,1618.0,Flexible,Door-to-Door,Own,Email,Snow,2.57,35-44,False,Saturday,High
+LD-20260126-2055E799,2026-01-26,Townhouse,Portsmouth Village,1378.0,ASAP,Facebook Ads,Recently Purchased,SMS,Rain,2.18,45-54,False,Monday,
+LD-20260201-739AD658,2026-02-01,Apartment,West End,955.0,1-2 weeks,Door-to-Door,Own,Email,Cloudy,2.47,55-64,True,Sunday,Medium
+LD-20251223-D2CA9514,2025-12-23,Detached,Calvin Park,2072.0,Flexible,Facebook Ads,Own,SMS,Cloudy,5.68,65+,True,Tuesday,Medium
+LD-20251217-2DA55E3F,2025-12-17,Detached,West End,1749.0,Flexible,Lawn Signs,Rent,SMS,Sunny,0.28,55-64,False,Wednesday,Medium
+LD-20260204-A50AEA5B,2026-02-04,Apartment,Downtown,694.0,1 month,Facebook Ads,Own,Email,Sunny,2.24,45-54,False,Wednesday,
+LD-20260107-A5023948,2026-01-07,Detached,Strathcona Park,2348.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.89,25-34,True,Wednesday,
+LD-20251220-717B8AF5,2025-12-20,Detached,Downtown,2635.0,1 month,Door-to-Door,Own,Email,Cloudy,7.41,55-64,True,Saturday,
+LD-20251219-420DFD33,2025-12-19,Townhouse,West End,1089.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,4.14,55-64,True,Friday,Low
+LD-20251227-DBEB51FF,2025-12-27,Detached,Sydenham Ward,2347.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,2.22,55-64,False,Saturday,High
+LD-20260129-AB83E3A2,2026-01-29,Detached,Sydenham Ward,1569.0,Flexible,Lawn Signs,Own,SMS,Sunny,3.32,18-24,False,Thursday,Medium
+LD-20260111-A13678B2,2026-01-11,Heritage Home,Downtown,2670.0,Flexible,Facebook Ads,Recently Purchased,SMS,Cloudy,3.0,18-24,False,Sunday,High
+LD-20251209-6BC59C8B,2025-12-09,Apartment,Downtown,606.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,3.54,45-54,True,Tuesday,
+LD-20251218-86DE3C79,2025-12-18,Townhouse,Sydenham Ward,1699.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,0.2,65+,True,Thursday,
+LD-20260204-B0447A02,2026-02-04,Detached,Strathcona Park,2494.0,1 month,Facebook Ads,Own,Email,Windy,1.14,25-34,True,Wednesday,High
+LD-20260211-28C30D6E,2026-02-11,Detached,Portsmouth Village,1129.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Sunny,0.56,25-34,False,Wednesday,Medium
+LD-20260218-AD690EB7,2026-02-18,Townhouse,West End,1940.0,ASAP,Facebook Ads,Own,SMS,Rain,4.22,35-44,False,Wednesday,Medium
+LD-20260214-C2FB36F6,2026-02-14,Semi-Detached,West End,1457.0,1-2 weeks,Door-to-Door,Own,SMS,Snow,1.44,35-44,False,Saturday,
+LD-20260228-DFF27305,2026-02-28,Detached,Downtown,1127.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,1.08,25-34,True,Saturday,Low
+LD-20251228-3DDE95DC,2025-12-28,Townhouse,Sydenham Ward,1499.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Sunny,6.07,45-54,False,Sunday,Medium
+LD-20260113-2D5C27FE,2026-01-13,Detached,Downtown,1454.0,1 month,Facebook Ads,Rent,Email,Sunny,2.48,55-64,False,Tuesday,Medium
+LD-20260227-E3BC301F,2026-02-27,Semi-Detached,Strathcona Park,1424.0,1 month,Facebook Ads,Own,SMS,Rain,4.98,25-34,True,Friday,
+LD-20260120-25FCCC24,2026-01-20,Townhouse,Portsmouth Village,892.0,1 month,Facebook Ads,Own,Phone Call,Rain,3.53,55-64,True,Tuesday,
+LD-20260303-45222AB9,2026-03-03,Townhouse,Strathcona Park,1282.0,1-2 weeks,Facebook Ads,Rent,Email,Windy,2.96,18-24,False,Tuesday,
+LD-20260118-C257B01D,2026-01-18,Apartment,Calvin Park,331.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,1.37,65+,True,Sunday,Low
+LD-20260108-E85E143A,2026-01-08,Townhouse,Strathcona Park,932.0,ASAP,Door-to-Door,Own,SMS,Rain,2.76,45-54,False,Thursday,Low
+LD-20260102-5A92E9DF,2026-01-02,Townhouse,Strathcona Park,612.0,Flexible,Lawn Signs,Own,Email,Windy,4.24,45-54,True,Friday,
+LD-20260109-6781153F,2026-01-09,Apartment,Calvin Park,788.0,ASAP,Facebook Ads,Rent,SMS,Rain,7.19,18-24,False,Friday,
+LD-20260218-B4684130,2026-02-18,Detached,Sydenham Ward,2695.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,4.41,45-54,False,Wednesday,
+LD-20251223-71B67BB3,2025-12-23,Apartment,Sydenham Ward,607.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,3.01,65+,False,Tuesday,
+LD-20251221-9F70B872,2025-12-21,Apartment,Calvin Park,810.0,1 month,Lawn Signs,Recently Purchased,SMS,Cloudy,1.22,45-54,False,Sunday,Medium
+LD-20251225-D4B06A1D,2025-12-25,Detached,West End,1062.0,1-2 weeks,Lawn Signs,Rent,SMS,Rain,4.18,35-44,False,Thursday,
+LD-20260220-100BABD5,2026-02-20,Semi-Detached,Downtown,1623.0,Flexible,Door-to-Door,Own,SMS,Sunny,5.86,65+,True,Friday,
+LD-20251223-8639DFF3,2025-12-23,Detached,West End,2472.0,ASAP,Door-to-Door,Own,SMS,Sunny,0.2,55-64,False,Tuesday,
+LD-20260209-2B728862,2026-02-09,Detached,Downtown,2511.0,1 month,Facebook Ads,Rent,Email,Cloudy,4.92,25-34,True,Monday,
+LD-20260125-75988B78,2026-01-25,Townhouse,Strathcona Park,1132.0,Flexible,Facebook Ads,Own,Email,Snow,1.59,45-54,True,Sunday,
+LD-20260301-BAF6C1F0,2026-03-01,Apartment,West End,920.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Rain,4.59,35-44,False,Sunday,
+LD-20260226-D2E14B4D,2026-02-26,Townhouse,West End,747.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,5.16,35-44,True,Thursday,Low
+LD-20251227-F83D5543,2025-12-27,Apartment,Sydenham Ward,481.0,ASAP,Facebook Ads,Rent,Email,Sunny,2.96,45-54,True,Saturday,
+LD-20260216-F5A4B1F5,2026-02-16,Detached,Portsmouth Village,1581.0,1-2 weeks,Door-to-Door,Own,Email,Cloudy,6.88,45-54,True,Monday,High
+LD-20260207-F573B930,2026-02-07,Detached,Sydenham Ward,2278.0,1-2 weeks,Door-to-Door,Own,SMS,Snow,0.96,65+,False,Saturday,High
+LD-20260114-4EFB1DBD,2026-01-14,Detached,Downtown,2068.0,ASAP,Lawn Signs,Rent,Phone Call,Cloudy,2.95,35-44,False,Wednesday,
+LD-20251230-467B1AD1,2025-12-30,Detached,Downtown,1484.0,1 month,Facebook Ads,Own,Phone Call,Windy,3.42,45-54,False,Tuesday,
+LD-20260112-40BE0A24,2026-01-12,Apartment,Downtown,896.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Snow,5.96,35-44,False,Monday,Medium
+LD-20260207-CDCC350E,2026-02-07,Semi-Detached,West End,1763.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,1.76,35-44,True,Saturday,
+LD-20260103-36662F05,2026-01-03,Townhouse,Strathcona Park,1085.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Rain,6.06,65+,False,Saturday,Medium
+LD-20260219-3D14FB5F,2026-02-19,Detached,Downtown,1029.0,Flexible,Facebook Ads,Recently Purchased,Email,Windy,5.7,25-34,True,Thursday,
+LD-20260110-970AFE58,2026-01-10,Apartment,Portsmouth Village,317.0,ASAP,Word of Mouth/Referral,Recently Purchased,Email,Snow,6.37,55-64,True,Saturday,
+LD-20260219-723C8886,2026-02-19,Detached,Downtown,1481.0,Flexible,Word of Mouth/Referral,Own,Email,Snow,4.08,55-64,False,Thursday,
+LD-20260228-AADEE765,2026-02-28,Detached,Sydenham Ward,2486.0,1 month,Lawn Signs,Rent,SMS,Cloudy,6.21,45-54,True,Saturday,
+LD-20260224-D0B58547,2026-02-24,Detached,Portsmouth Village,2433.0,1 month,Word of Mouth/Referral,Rent,Phone Call,Snow,1.33,45-54,False,Tuesday,High
+LD-20260210-75C859DF,2026-02-10,Detached,Strathcona Park,944.0,1 month,Facebook Ads,Own,Phone Call,Rain,2.26,25-34,True,Tuesday,Low
+LD-20260228-EBF7CAC6,2026-02-28,Detached,Downtown,1803.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Windy,5.45,45-54,False,Saturday,High
+LD-20251211-4DB544A3,2025-12-11,Detached,Downtown,1316.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,4.15,45-54,True,Thursday,Low
+LD-20260304-58BC795B,2026-03-04,Townhouse,Portsmouth Village,989.0,Flexible,Door-to-Door,Own,Email,Sunny,2.25,55-64,False,Wednesday,Medium
+LD-20251222-30645DDF,2025-12-22,Apartment,Calvin Park,922.0,1 month,Facebook Ads,Own,SMS,Sunny,0.2,25-34,False,Monday,Low
+LD-20260303-E80D109C,2026-03-03,Townhouse,West End,1050.0,1 month,Facebook Ads,Own,SMS,Sunny,8.14,25-34,False,Tuesday,
+LD-20251223-FCAAB7B5,2025-12-23,Apartment,Downtown,860.0,Flexible,Lawn Signs,Rent,SMS,Sunny,4.38,45-54,True,Tuesday,Low
+LD-20260127-5FB861FD,2026-01-27,Semi-Detached,Calvin Park,1410.0,Flexible,Lawn Signs,Own,SMS,Cloudy,3.46,65+,False,Tuesday,
+LD-20260118-5CA17518,2026-01-18,Detached,Calvin Park,2860.0,1 month,Facebook Ads,Own,SMS,Sunny,3.77,65+,False,Sunday,
+LD-20260119-5E698FD8,2026-01-19,Heritage Home,Downtown,2849.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Sunny,3.2,35-44,False,Monday,
+LD-20251229-4F08C796,2025-12-29,Detached,Downtown,1555.0,Flexible,Facebook Ads,Rent,Email,Rain,4.89,18-24,True,Monday,
+LD-20260125-B34AD087,2026-01-25,Detached,Sydenham Ward,1655.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,5.52,18-24,True,Sunday,
+LD-20260129-9FC72C25,2026-01-29,Townhouse,Strathcona Park,1153.0,1-2 weeks,Door-to-Door,Rent,SMS,Sunny,4.49,65+,True,Thursday,
+LD-20251214-FF8309BE,2025-12-14,Detached,Strathcona Park,1952.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Windy,5.58,45-54,False,Sunday,High
+LD-20260129-3C7BA8DF,2026-01-29,Semi-Detached,Sydenham Ward,1096.0,Flexible,Door-to-Door,Recently Purchased,SMS,Rain,0.2,45-54,True,Thursday,
+LD-20260219-220B9CA2,2026-02-19,Townhouse,Downtown,1013.0,Flexible,Facebook Ads,Own,Phone Call,Rain,3.44,35-44,False,Thursday,Medium
+LD-20260119-00F51B1C,2026-01-19,Townhouse,Sydenham Ward,1123.0,Flexible,Lawn Signs,Recently Purchased,SMS,Rain,0.2,55-64,False,Monday,Medium
+LD-20260122-2DD99E81,2026-01-22,Semi-Detached,Portsmouth Village,473.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,1.57,55-64,True,Thursday,Low
+LD-20260106-3A3B6F5C,2026-01-06,Heritage Home,West End,2294.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,4.88,45-54,True,Tuesday,
+LD-20260212-45E66EFE,2026-02-12,Townhouse,Downtown,1479.0,1 month,Lawn Signs,Recently Purchased,Email,Cloudy,5.34,35-44,False,Thursday,Medium
+LD-20260224-738E23CA,2026-02-24,Apartment,West End,484.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,6.89,25-34,False,Tuesday,
+LD-20251221-5C48C158,2025-12-21,Detached,Strathcona Park,2357.0,1 month,Lawn Signs,Own,Email,Windy,0.41,35-44,True,Sunday,High
+LD-20260111-0265C262,2026-01-11,Detached,Downtown,2499.0,Flexible,Lawn Signs,Own,SMS,Sunny,1.84,18-24,True,Sunday,High
+LD-20251215-824AA9AF,2025-12-15,Semi-Detached,Sydenham Ward,1640.0,1 month,Lawn Signs,Own,SMS,Sunny,3.3,35-44,True,Monday,High
+LD-20251204-60E6BD1B,2025-12-04,Townhouse,Portsmouth Village,524.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,4.37,45-54,False,Thursday,
+LD-20251222-9E29991B,2025-12-22,Townhouse,West End,2247.0,1-2 weeks,Word of Mouth/Referral,Rent,SMS,Sunny,4.45,55-64,False,Monday,High
+LD-20260105-7E49D36B,2026-01-05,Apartment,Sydenham Ward,655.0,1 month,Facebook Ads,Own,SMS,Cloudy,5.81,45-54,False,Monday,
+LD-20251224-3577A604,2025-12-24,Apartment,West End,335.0,1-2 weeks,Lawn Signs,Recently Purchased,SMS,Rain,3.64,45-54,True,Wednesday,Low
+LD-20260222-E9237CAE,2026-02-22,Townhouse,Downtown,950.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,0.82,55-64,False,Sunday,Medium
+LD-20251221-D68CF980,2025-12-21,Apartment,West End,709.0,Flexible,Facebook Ads,Recently Purchased,Email,Rain,5.18,45-54,False,Sunday,Medium
+LD-20260129-CF6D7C6E,2026-01-29,Detached,West End,1867.0,ASAP,Facebook Ads,Own,Email,Snow,2.37,25-34,False,Thursday,
+LD-20260130-88441237,2026-01-30,Semi-Detached,Downtown,1548.0,Flexible,Facebook Ads,Own,SMS,Windy,1.04,25-34,True,Friday,
+LD-20260124-7C931615,2026-01-24,Detached,Sydenham Ward,1996.0,ASAP,Door-to-Door,Own,Email,Sunny,4.14,65+,False,Saturday,Medium
+LD-20260103-C86240F3,2026-01-03,Detached,Sydenham Ward,1576.0,1 month,Facebook Ads,Rent,Email,Snow,6.96,65+,True,Saturday,
+LD-20260217-EDBC60D1,2026-02-17,Detached,Downtown,1517.0,Flexible,Facebook Ads,Own,Email,Sunny,3.02,65+,False,Tuesday,Medium
+LD-20251205-E921C278,2025-12-05,Townhouse,West End,1211.0,1 month,Facebook Ads,Rent,SMS,Snow,2.9,25-34,True,Friday,
+LD-20260116-EDE5F96E,2026-01-16,Semi-Detached,Sydenham Ward,2001.0,1-2 weeks,Lawn Signs,Own,Email,Rain,5.03,65+,False,Friday,
+LD-20260218-94B0B946,2026-02-18,Detached,West End,1975.0,Flexible,Word of Mouth/Referral,Rent,SMS,Sunny,5.34,35-44,False,Wednesday,High
+LD-20260115-D1D5D2E7,2026-01-15,Semi-Detached,West End,1879.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,3.5,45-54,True,Thursday,
+LD-20260127-675AC16A,2026-01-27,Detached,West End,2560.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Cloudy,0.29,18-24,False,Tuesday,High
+LD-20260121-6FFC2658,2026-01-21,Apartment,West End,714.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,6.12,25-34,False,Wednesday,
+LD-20260303-7EE5BF74,2026-03-03,Apartment,West End,606.0,1 month,Facebook Ads,Rent,SMS,Windy,3.03,35-44,False,Tuesday,
+LD-20260125-927EAEC2,2026-01-25,Detached,Calvin Park,1316.0,1-2 weeks,Lawn Signs,Own,SMS,Rain,5.8,35-44,False,Sunday,Medium
+LD-20251211-B0588C54,2025-12-11,Semi-Detached,Sydenham Ward,1519.0,Flexible,Lawn Signs,Own,Email,Rain,6.07,35-44,False,Thursday,Medium
+LD-20260213-69E6949F,2026-02-13,Apartment,West End,736.0,1 month,Facebook Ads,Own,Email,Sunny,7.47,65+,True,Friday,Low
+LD-20260224-595E395A,2026-02-24,Apartment,Strathcona Park,542.0,1 month,Facebook Ads,Own,Phone Call,Sunny,2.33,35-44,False,Tuesday,Low
+LD-20260224-A1A6D083,2026-02-24,Detached,Portsmouth Village,1592.0,Flexible,Facebook Ads,Own,SMS,Cloudy,3.84,35-44,False,Tuesday,Medium
+LD-20251215-0A2B8873,2025-12-15,Apartment,West End,238.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,2.06,65+,False,Monday,
+LD-20251221-1EAF16AE,2025-12-21,Semi-Detached,Portsmouth Village,1287.0,1 month,Lawn Signs,Own,Phone Call,Rain,0.2,35-44,True,Sunday,Low
+LD-20260110-6DFA4A60,2026-01-10,Townhouse,Downtown,1299.0,Flexible,Word of Mouth/Referral,Rent,SMS,Rain,4.86,45-54,True,Saturday,High
+LD-20260215-7BC6484C,2026-02-15,Semi-Detached,West End,1639.0,Flexible,Facebook Ads,Own,Email,Sunny,0.2,25-34,False,Sunday,Medium
+LD-20251215-5A1B054D,2025-12-15,Detached,Strathcona Park,2402.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,1.62,65+,True,Monday,High
+LD-20251212-79744F87,2025-12-12,Apartment,Downtown,396.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Sunny,4.3,25-34,True,Friday,Low
+LD-20260106-2F85685D,2026-01-06,Apartment,Downtown,429.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Sunny,0.64,65+,True,Tuesday,
+LD-20251222-1F5C53F4,2025-12-22,Townhouse,Downtown,1141.0,Flexible,Lawn Signs,Own,Email,Windy,1.57,25-34,False,Monday,
+LD-20260210-0158EB8C,2026-02-10,Semi-Detached,Strathcona Park,908.0,ASAP,Door-to-Door,Own,Email,Rain,3.52,55-64,False,Tuesday,
+LD-20260221-F9A16140,2026-02-21,Detached,West End,2613.0,Flexible,Facebook Ads,Own,Email,Rain,2.01,45-54,True,Saturday,High
+LD-20251218-8312208B,2025-12-18,Townhouse,Downtown,537.0,ASAP,Facebook Ads,Rent,SMS,Cloudy,3.99,45-54,True,Thursday,Low
+LD-20251205-4DFC9A86,2025-12-05,Detached,Downtown,1777.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,1.73,55-64,False,Friday,High
+LD-20251221-0F9B6DA5,2025-12-21,Detached,Downtown,2432.0,1 month,Lawn Signs,Own,SMS,Cloudy,5.99,45-54,True,Sunday,
+LD-20260112-2717D469,2026-01-12,Detached,Downtown,1094.0,ASAP,Door-to-Door,Own,SMS,Windy,4.72,55-64,True,Monday,Low
+LD-20260118-C6F8A058,2026-01-18,Detached,Portsmouth Village,1967.0,1 month,Lawn Signs,Own,Phone Call,Windy,3.525,35-44,False,Sunday,High
+LD-20260304-88829F8E,2026-03-04,Semi-Detached,Portsmouth Village,1142.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,5.46,35-44,True,Wednesday,
+LD-20260109-4B7BBD1F,2026-01-09,Apartment,Sydenham Ward,678.0,ASAP,Facebook Ads,Own,Phone Call,Windy,3.54,25-34,False,Friday,
+LD-20251230-6B5B4BB7,2025-12-30,Apartment,Calvin Park,702.0,1 month,Facebook Ads,Rent,Email,Cloudy,7.72,35-44,True,Tuesday,
+LD-20260202-8AB7AFA2,2026-02-02,Detached,West End,2010.0,Flexible,Facebook Ads,Own,Email,Rain,3.68,35-44,False,Monday,High
+LD-20260211-3AB68885,2026-02-11,Apartment,Strathcona Park,715.0,Flexible,Facebook Ads,Rent,Phone Call,Rain,3.73,45-54,False,Wednesday,
+LD-20251222-5F39484C,2025-12-22,Townhouse,Calvin Park,764.0,1 month,Facebook Ads,Own,SMS,Cloudy,4.61,45-54,True,Monday,
+LD-20251208-F3A6CACC,2025-12-08,Apartment,West End,377.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.85,55-64,True,Monday,Low
+LD-20260210-B9EE71FF,2026-02-10,Detached,West End,2863.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,1.33,35-44,False,Tuesday,
+LD-20251219-610A50BF,2025-12-19,Heritage Home,Downtown,1893.0,1 month,Facebook Ads,Own,Email,Sunny,2.76,25-34,False,Friday,High
+LD-20251212-E4607214,2025-12-12,Apartment,Downtown,701.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,3.46,35-44,True,Friday,
+LD-20260204-7D789AAB,2026-02-04,Apartment,Strathcona Park,268.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.74,35-44,False,Wednesday,Low
+LD-20251221-F8F1DA69,2025-12-21,Detached,West End,2222.0,Flexible,Word of Mouth/Referral,Recently Purchased,SMS,Snow,1.44,35-44,False,Sunday,
+LD-20260303-4F6FFADE,2026-03-03,Apartment,Sydenham Ward,942.0,1 month,Facebook Ads,Own,Phone Call,Rain,1.55,25-34,False,Tuesday,Low
+LD-20251228-FAC9F6B1,2025-12-28,Semi-Detached,West End,1189.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,0.8,55-64,False,Sunday,
+LD-20251223-E7F5CDE7,2025-12-23,Detached,Calvin Park,2581.0,1 month,Facebook Ads,Own,SMS,Sunny,2.37,35-44,False,Tuesday,
+LD-20260203-A703DA97,2026-02-03,Semi-Detached,Portsmouth Village,1376.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Windy,1.54,65+,False,Tuesday,
+LD-20260202-B85FB6AF,2026-02-02,Detached,Downtown,2045.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,5.1,55-64,True,Monday,
+LD-20260106-BD77AE78,2026-01-06,Detached,Sydenham Ward,1429.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Snow,2.46,65+,True,Tuesday,
+LD-20260221-732F68E2,2026-02-21,Semi-Detached,Sydenham Ward,1718.0,1 month,Lawn Signs,Own,Phone Call,Sunny,3.04,55-64,True,Saturday,
+LD-20260107-E9A24B7F,2026-01-07,Detached,Calvin Park,2072.0,ASAP,Lawn Signs,Rent,Email,Rain,2.08,25-34,True,Wednesday,
+LD-20260113-D7145429,2026-01-13,Apartment,Sydenham Ward,251.0,ASAP,Facebook Ads,Rent,SMS,Sunny,3.86,25-34,False,Tuesday,
+LD-20260125-767FBD5E,2026-01-25,Semi-Detached,Downtown,1237.0,Flexible,Facebook Ads,Own,SMS,Cloudy,5.81,65+,True,Sunday,
+LD-20251204-70E3FB59,2025-12-04,Detached,Downtown,1499.0,Flexible,Lawn Signs,Rent,SMS,Sunny,5.42,25-34,True,Thursday,Medium
+LD-20260212-519EFA98,2026-02-12,Apartment,West End,828.0,ASAP,Word of Mouth/Referral,Rent,SMS,Snow,2.94,25-34,True,Thursday,Medium
+LD-20251220-0ACD3AB4,2025-12-20,Townhouse,Strathcona Park,549.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Sunny,4.62,35-44,False,Saturday,
+LD-20260131-53B130CC,2026-01-31,Detached,Calvin Park,1942.0,ASAP,Lawn Signs,Rent,Email,Sunny,1.4,35-44,False,Saturday,High
+LD-20260205-E68BA728,2026-02-05,Semi-Detached,Strathcona Park,731.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,1.76,18-24,True,Thursday,Low
+LD-20251214-C5F19DF3,2025-12-14,Detached,Sydenham Ward,2304.0,ASAP,Facebook Ads,Own,Email,Cloudy,3.69,25-34,False,Sunday,Medium
+LD-20251215-BC50C526,2025-12-15,Apartment,Calvin Park,1060.0,ASAP,Door-to-Door,Own,SMS,Cloudy,3.05,55-64,True,Monday,
+LD-20251229-BD7ACB64,2025-12-29,Semi-Detached,West End,1645.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Sunny,5.44,18-24,True,Monday,High
+LD-20260110-E57193A3,2026-01-10,Apartment,Portsmouth Village,855.0,ASAP,Lawn Signs,Own,SMS,Sunny,2.44,18-24,False,Saturday,Low
+LD-20251211-3983CE40,2025-12-11,Apartment,West End,759.0,Flexible,Lawn Signs,Own,SMS,Sunny,0.94,55-64,False,Thursday,Low
+LD-20260215-F551CC7D,2026-02-15,Apartment,Downtown,724.0,1 month,Facebook Ads,Own,SMS,Sunny,8.19,55-64,False,Sunday,
+LD-20260125-00F26149,2026-01-25,Townhouse,Downtown,1329.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,4.75,55-64,False,Sunday,
+LD-20251213-0F73490E,2025-12-13,Heritage Home,Downtown,1710.0,Flexible,Lawn Signs,Own,Email,Rain,4.04,18-24,False,Saturday,
+LD-20260122-9F47F8A0,2026-01-22,Apartment,West End,806.0,ASAP,Lawn Signs,Own,Phone Call,Windy,2.09,35-44,False,Thursday,
+LD-20260107-CC6FE854,2026-01-07,Detached,Downtown,1818.0,1 month,Word of Mouth/Referral,Rent,Email,Snow,6.22,35-44,False,Wednesday,
+LD-20260208-C1BC204B,2026-02-08,Semi-Detached,Calvin Park,1492.0,1 month,Word of Mouth/Referral,Own,Email,Windy,1.66,35-44,True,Sunday,
+LD-20260101-BA43B78B,2026-01-01,Semi-Detached,Calvin Park,1145.0,1 month,Facebook Ads,Own,Phone Call,Rain,4.73,25-34,False,Thursday,
+LD-20260301-8ABA7E3D,2026-03-01,Semi-Detached,West End,1998.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Rain,4.45,35-44,True,Sunday,High
+LD-20260114-7D632EFE,2026-01-14,Detached,Portsmouth Village,1134.0,1-2 weeks,Facebook Ads,Rent,Email,Rain,3.25,25-34,True,Wednesday,Low
+LD-20260102-036AA58B,2026-01-02,Townhouse,Strathcona Park,2101.0,Flexible,Facebook Ads,Own,SMS,Sunny,0.2,45-54,False,Friday,Medium
+LD-20260111-40F592B8,2026-01-11,Detached,West End,1429.0,1 month,Facebook Ads,Own,Email,Sunny,4.11,18-24,False,Sunday,High
+LD-20251207-CF02A83D,2025-12-07,Townhouse,West End,1041.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Cloudy,7.01,35-44,False,Sunday,Low
+LD-20260210-22E34DCD,2026-02-10,Townhouse,Strathcona Park,667.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,2.75,65+,False,Tuesday,Low
+LD-20260106-040972F2,2026-01-06,Heritage Home,Calvin Park,3218.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,6.33,18-24,True,Tuesday,
+LD-20260120-155D9FF1,2026-01-20,Apartment,West End,570.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,4.69,18-24,False,Tuesday,Low
+LD-20251230-48EF410F,2025-12-30,Townhouse,West End,1139.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,5.29,25-34,False,Tuesday,Medium
+LD-20260226-38AD6F32,2026-02-26,Apartment,Calvin Park,709.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Rain,3.68,25-34,True,Thursday,Low
+LD-20260223-5614F96F,2026-02-23,Townhouse,Sydenham Ward,1304.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,3.6,18-24,True,Monday,Medium
+LD-20251205-EBE965F5,2025-12-05,Semi-Detached,Downtown,2326.0,Flexible,Door-to-Door,Own,Phone Call,Rain,5.07,55-64,False,Friday,High
+LD-20260201-76D49A26,2026-02-01,Semi-Detached,West End,1906.0,ASAP,Door-to-Door,Own,SMS,Rain,3.88,45-54,False,Sunday,High
+LD-20251230-3D758C1F,2025-12-30,Detached,West End,1775.0,Flexible,Lawn Signs,Own,Email,Rain,3.15,25-34,True,Tuesday,Medium
+LD-20251220-8BF94C00,2025-12-20,Semi-Detached,Sydenham Ward,1558.0,1-2 weeks,Lawn Signs,Own,SMS,Rain,3.2,65+,False,Saturday,Medium
+LD-20260107-B9CF1803,2026-01-07,Detached,Downtown,2210.0,Flexible,Lawn Signs,Rent,SMS,Windy,6.4,35-44,False,Wednesday,
+LD-20251225-BA051934,2025-12-25,Semi-Detached,Calvin Park,1357.0,1 month,Facebook Ads,Own,Email,Cloudy,3.34,55-64,True,Thursday,Medium
+LD-20260110-B47767D5,2026-01-10,Townhouse,Downtown,1501.0,1-2 weeks,Door-to-Door,Own,Email,Windy,4.13,45-54,True,Saturday,High
+LD-20260105-9D98948A,2026-01-05,Semi-Detached,West End,2321.0,1 month,Word of Mouth/Referral,Rent,Email,Sunny,1.58,35-44,False,Monday,
+LD-20260201-8857F639,2026-02-01,Detached,West End,1945.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.68,25-34,False,Sunday,
+LD-20251209-65C4A708,2025-12-09,Semi-Detached,West End,1774.0,Flexible,Door-to-Door,Rent,SMS,Snow,4.87,25-34,False,Tuesday,Medium
+LD-20260118-E125B107,2026-01-18,Heritage Home,Strathcona Park,3203.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,1.2,55-64,False,Sunday,
+LD-20251213-16AFE08A,2025-12-13,Apartment,Downtown,876.0,1-2 weeks,Door-to-Door,Own,Phone Call,Cloudy,3.61,25-34,True,Saturday,Low
+LD-20260128-DD00CE0F,2026-01-28,Semi-Detached,Calvin Park,1076.0,ASAP,Facebook Ads,Rent,Phone Call,Sunny,2.84,45-54,False,Wednesday,
+LD-20260107-AFA9DDCB,2026-01-07,Townhouse,Portsmouth Village,1647.0,Flexible,Word of Mouth/Referral,Own,Email,Cloudy,5.96,18-24,True,Wednesday,
+LD-20260221-7B508938,2026-02-21,Townhouse,Downtown,1140.0,1 month,Lawn Signs,Rent,Email,Cloudy,5.33,35-44,False,Saturday,
+LD-20260205-62013F95,2026-02-05,Semi-Detached,Sydenham Ward,1340.0,ASAP,Facebook Ads,Own,SMS,Sunny,2.48,55-64,True,Thursday,
+LD-20260203-50B325C0,2026-02-03,Detached,Portsmouth Village,1792.0,1 month,Facebook Ads,Own,Phone Call,Windy,3.37,25-34,False,Tuesday,High
+LD-20260127-FE5B64DC,2026-01-27,Detached,Downtown,2015.0,Flexible,Facebook Ads,Own,Phone Call,Windy,5.29,35-44,True,Tuesday,
+LD-20260103-A978A7CB,2026-01-03,Detached,West End,3148.0,ASAP,Lawn Signs,Recently Purchased,SMS,Sunny,2.62,35-44,True,Saturday,
+LD-20260220-0ED2D6AE,2026-02-20,Detached,West End,1277.0,ASAP,Lawn Signs,Rent,Phone Call,Rain,5.43,65+,True,Friday,Medium
+LD-20251228-D405BF8C,2025-12-28,Detached,Downtown,2036.0,Flexible,Door-to-Door,Rent,SMS,Windy,3.56,65+,False,Sunday,
+LD-20260119-210AB259,2026-01-19,Townhouse,Sydenham Ward,1876.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,4.27,35-44,False,Monday,
+LD-20260109-F2D9B262,2026-01-09,Semi-Detached,Calvin Park,1339.0,Flexible,Word of Mouth/Referral,Own,SMS,Rain,5.21,55-64,False,Friday,High
+LD-20260105-F138FEFD,2026-01-05,Apartment,West End,429.0,1 month,Lawn Signs,Own,Phone Call,Rain,0.2,35-44,False,Monday,Low
+LD-20260205-7C6B28C6,2026-02-05,Detached,Strathcona Park,1679.0,Flexible,Word of Mouth/Referral,Own,SMS,Cloudy,4.98,18-24,True,Thursday,
+LD-20260110-1B5851C3,2026-01-10,Townhouse,Portsmouth Village,403.0,1 month,Word of Mouth/Referral,Rent,Email,Windy,4.84,18-24,False,Saturday,
+LD-20260201-7CB18480,2026-02-01,Apartment,Sydenham Ward,692.0,ASAP,Facebook Ads,Own,SMS,Rain,0.82,25-34,True,Sunday,
+LD-20251215-611549B7,2025-12-15,Townhouse,Strathcona Park,1435.0,ASAP,Facebook Ads,Own,Email,Cloudy,5.19,55-64,True,Monday,
+LD-20260115-B7EB2B55,2026-01-15,Apartment,Portsmouth Village,391.0,1 month,Word of Mouth/Referral,Rent,SMS,Rain,3.89,45-54,True,Thursday,Low
+LD-20260210-2EEB8CBD,2026-02-10,Townhouse,Strathcona Park,1100.0,ASAP,Word of Mouth/Referral,Rent,Email,Sunny,3.7,25-34,True,Tuesday,
+LD-20251226-5A32DEC6,2025-12-26,Townhouse,Strathcona Park,510.0,ASAP,Lawn Signs,Own,SMS,Cloudy,2.65,55-64,True,Friday,
+LD-20260122-D14DE305,2026-01-22,Detached,West End,862.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,3.75,25-34,False,Thursday,
+LD-20260203-4696D3D4,2026-02-03,Detached,Calvin Park,3190.0,1 month,Facebook Ads,Own,Email,Snow,3.0,65+,False,Tuesday,
+LD-20260110-C859F44A,2026-01-10,Apartment,West End,842.0,Flexible,Facebook Ads,Rent,Email,Cloudy,4.82,55-64,False,Saturday,Low
+LD-20251221-EBFA4736,2025-12-21,Detached,Sydenham Ward,1778.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,4.94,35-44,False,Sunday,Medium
+LD-20251214-61193A12,2025-12-14,Townhouse,Strathcona Park,1173.0,ASAP,Facebook Ads,Rent,Phone Call,Sunny,3.9,18-24,False,Sunday,Low
+LD-20251220-5CE23746,2025-12-20,Apartment,Sydenham Ward,523.0,1-2 weeks,Lawn Signs,Own,Email,Rain,1.51,35-44,False,Saturday,
+LD-20260223-0A1E8FD3,2026-02-23,Heritage Home,Downtown,1137.0,1 month,Facebook Ads,Own,SMS,Sunny,0.2,25-34,False,Monday,Medium
+LD-20260115-795F6629,2026-01-15,Semi-Detached,Strathcona Park,1859.0,Flexible,Lawn Signs,Rent,SMS,Sunny,5.13,65+,True,Thursday,
+LD-20260212-DEB26323,2026-02-12,Detached,West End,1780.0,ASAP,Facebook Ads,Own,Email,Snow,3.7,45-54,True,Thursday,High
+LD-20251226-4E2CBD1D,2025-12-26,Townhouse,Sydenham Ward,1355.0,1 month,Facebook Ads,Own,Email,Snow,2.95,35-44,False,Friday,Medium
+LD-20260106-D8D550C6,2026-01-06,Townhouse,Calvin Park,1286.0,ASAP,Facebook Ads,Own,SMS,Sunny,2.6,35-44,False,Tuesday,
+LD-20251205-44F7EB2D,2025-12-05,Semi-Detached,West End,1310.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.68,35-44,False,Friday,
+LD-20260101-261CC2CC,2026-01-01,Semi-Detached,Downtown,1135.0,1 month,Facebook Ads,Own,Phone Call,Windy,2.69,18-24,False,Thursday,
+LD-20260207-A783BC43,2026-02-07,Apartment,Strathcona Park,471.0,Flexible,Lawn Signs,Own,SMS,Sunny,2.13,55-64,True,Saturday,
+LD-20260224-CA489CF2,2026-02-24,Townhouse,Calvin Park,1400.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,1.8,35-44,False,Tuesday,High
+LD-20260130-D41FF872,2026-01-30,Semi-Detached,Strathcona Park,1351.0,1 month,Door-to-Door,Own,SMS,Cloudy,0.2,45-54,False,Friday,
+LD-20260214-4A6EBDC2,2026-02-14,Detached,Downtown,1765.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,3.52,35-44,False,Saturday,Medium
+LD-20251214-6488F867,2025-12-14,Detached,Portsmouth Village,1604.0,1 month,Word of Mouth/Referral,Own,SMS,Cloudy,3.53,65+,False,Sunday,High
+LD-20260223-F43DBB62,2026-02-23,Townhouse,Strathcona Park,1251.0,1-2 weeks,Lawn Signs,Rent,SMS,Cloudy,6.44,55-64,True,Monday,Medium
+LD-20251205-E31214A4,2025-12-05,Townhouse,Sydenham Ward,764.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,1.5,65+,False,Friday,Low
+LD-20260218-04E85296,2026-02-18,Townhouse,West End,854.0,Flexible,Word of Mouth/Referral,Own,SMS,Sunny,6.74,45-54,False,Wednesday,Medium
+LD-20260105-3567B88D,2026-01-05,Heritage Home,Sydenham Ward,2301.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,4.24,65+,False,Monday,High
+LD-20260118-253820B4,2026-01-18,Townhouse,Downtown,1431.0,ASAP,Door-to-Door,Own,Email,Cloudy,1.82,35-44,False,Sunday,
+LD-20260219-DE0DCB5F,2026-02-19,Detached,Strathcona Park,1101.0,ASAP,Facebook Ads,Rent,Phone Call,Windy,4.74,18-24,False,Thursday,Low
+LD-20260120-6B127C74,2026-01-20,Townhouse,Calvin Park,1230.0,1 month,Facebook Ads,Own,Email,Cloudy,0.2,65+,True,Tuesday,
+LD-20260228-801D3F43,2026-02-28,Detached,Calvin Park,2377.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,3.62,35-44,True,Saturday,
+LD-20260211-62BDF4ED,2026-02-11,Detached,Portsmouth Village,1829.0,Flexible,Door-to-Door,Recently Purchased,SMS,Cloudy,3.78,45-54,False,Wednesday,High
+LD-20260206-278EE983,2026-02-06,Detached,Calvin Park,1899.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,1.1,65+,False,Friday,Medium
+LD-20260303-19AAC081,2026-03-03,Heritage Home,Downtown,1571.0,1 month,Facebook Ads,Own,Phone Call,Rain,4.19,18-24,False,Tuesday,High
+LD-20260206-8046701C,2026-02-06,Apartment,West End,605.0,Flexible,Facebook Ads,Rent,SMS,Sunny,5.42,65+,False,Friday,
+LD-20260114-2C40435D,2026-01-14,Townhouse,West End,1226.0,Flexible,Facebook Ads,Own,Email,Snow,6.13,35-44,False,Wednesday,
+LD-20251216-0E3A2A8C,2025-12-16,Detached,Downtown,3064.0,Flexible,Door-to-Door,Own,SMS,Sunny,2.96,55-64,False,Tuesday,
+LD-20260127-A1FA7275,2026-01-27,Detached,Strathcona Park,1274.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,4.93,35-44,False,Tuesday,
+LD-20260115-B72C9430,2026-01-15,Semi-Detached,Downtown,1687.0,Flexible,Facebook Ads,Rent,Email,Snow,0.38,18-24,False,Thursday,
+LD-20251213-D75FB17C,2025-12-13,Detached,Sydenham Ward,1074.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Sunny,0.74,55-64,False,Saturday,
+LD-20251205-A59B32EF,2025-12-05,Detached,Portsmouth Village,1288.0,Flexible,Word of Mouth/Referral,Rent,Phone Call,Sunny,1.23,18-24,False,Friday,
+LD-20260114-623BF914,2026-01-14,Detached,Portsmouth Village,2138.0,1-2 weeks,Facebook Ads,Own,Email,Rain,3.525,35-44,False,Wednesday,High
+LD-20260226-C317D67D,2026-02-26,Detached,Calvin Park,2088.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,5.84,35-44,False,Thursday,
+LD-20251225-3D5CD85F,2025-12-25,Detached,Sydenham Ward,2582.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,0.84,45-54,True,Thursday,
+LD-20260108-209D72D3,2026-01-08,Semi-Detached,Calvin Park,853.0,ASAP,Door-to-Door,Rent,Phone Call,Cloudy,8.68,55-64,False,Thursday,Low
+LD-20260206-95258868,2026-02-06,Semi-Detached,Portsmouth Village,1385.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,1.31,55-64,True,Friday,
+LD-20260130-7CFAA355,2026-01-30,Detached,Calvin Park,824.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Rain,4.79,35-44,False,Friday,Low
+LD-20251213-D3D17DA7,2025-12-13,Detached,Strathcona Park,1498.0,1 month,Facebook Ads,Own,Email,Windy,4.7,45-54,True,Saturday,Medium
+LD-20260104-4E4BBC7B,2026-01-04,Townhouse,Sydenham Ward,1801.0,1 month,Door-to-Door,Own,Email,Windy,0.3,55-64,False,Sunday,High
+LD-20251205-280DD1EF,2025-12-05,Townhouse,Strathcona Park,1417.0,1-2 weeks,Facebook Ads,Own,Email,Snow,5.16,25-34,False,Friday,Medium
+LD-20260224-C75D16F6,2026-02-24,Apartment,Calvin Park,773.0,ASAP,Door-to-Door,Recently Purchased,SMS,Sunny,2.87,65+,True,Tuesday,Low
+LD-20260303-CCFCCB83,2026-03-03,Semi-Detached,Sydenham Ward,1858.0,Flexible,Lawn Signs,Own,Phone Call,Rain,3.48,25-34,False,Tuesday,
+LD-20260215-C2D780DB,2026-02-15,Detached,Calvin Park,1204.0,1 month,Facebook Ads,Own,SMS,Sunny,3.69,45-54,False,Sunday,Medium
+LD-20251221-7F918A25,2025-12-21,Detached,Sydenham Ward,1923.0,Flexible,Lawn Signs,Own,Phone Call,Cloudy,2.39,25-34,True,Sunday,High
+LD-20260226-8CA13218,2026-02-26,Detached,West End,2832.0,1 month,Facebook Ads,Rent,Phone Call,Sunny,1.47,25-34,False,Thursday,High
+LD-20260123-ABE0DE3D,2026-01-23,Detached,Calvin Park,1461.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,4.41,18-24,False,Friday,
+LD-20260221-51A2092D,2026-02-21,Apartment,Sydenham Ward,586.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,4.01,55-64,True,Saturday,Low
+LD-20251204-4DD70482,2025-12-04,Semi-Detached,Downtown,1118.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,1.67,55-64,False,Thursday,
+LD-20251213-6D38B77D,2025-12-13,Semi-Detached,Calvin Park,1509.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Cloudy,1.64,45-54,True,Saturday,
+LD-20260225-066DEA84,2026-02-25,Townhouse,Portsmouth Village,394.0,1 month,Facebook Ads,Own,Email,Cloudy,2.95,25-34,False,Wednesday,Low
+LD-20251226-95C3976F,2025-12-26,Apartment,Downtown,439.0,1 month,Door-to-Door,Own,Email,Snow,3.58,18-24,True,Friday,Low
+LD-20251214-4503FFE0,2025-12-14,Detached,Sydenham Ward,1221.0,Flexible,Facebook Ads,Own,Email,Cloudy,3.86,35-44,True,Sunday,Medium
+LD-20260222-E3276B58,2026-02-22,Semi-Detached,Portsmouth Village,1240.0,1-2 weeks,Lawn Signs,Own,Email,Windy,1.25,25-34,False,Sunday,
+LD-20260210-167CB867,2026-02-10,Apartment,West End,943.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,3.53,45-54,True,Tuesday,
+LD-20260126-7569BFBB,2026-01-26,Detached,West End,2110.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,4.61,55-64,True,Monday,
+LD-20260106-555FEB73,2026-01-06,Heritage Home,West End,2628.0,1-2 weeks,Door-to-Door,Rent,Email,Cloudy,2.26,25-34,False,Tuesday,High
+LD-20260217-16DBC68C,2026-02-17,Apartment,Sydenham Ward,685.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.12,65+,True,Tuesday,
+LD-20260210-70EC0403,2026-02-10,Semi-Detached,Strathcona Park,994.0,1 month,Facebook Ads,Own,SMS,Cloudy,4.25,35-44,True,Tuesday,Low
+LD-20260102-041B0350,2026-01-02,Townhouse,Downtown,373.0,1 month,Lawn Signs,Rent,Email,Cloudy,3.82,35-44,True,Friday,Low
+LD-20260303-CE7A4841,2026-03-03,Detached,Calvin Park,571.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,6.73,65+,False,Tuesday,Low
+LD-20260211-B45179A5,2026-02-11,Semi-Detached,Portsmouth Village,1473.0,1 month,Facebook Ads,Own,Email,Sunny,3.0,35-44,True,Wednesday,Medium
+LD-20260212-F26A4363,2026-02-12,Detached,Portsmouth Village,758.0,Flexible,Lawn Signs,Own,SMS,Cloudy,2.71,18-24,False,Thursday,Low
+LD-20251219-C9F52CBF,2025-12-19,Detached,West End,1583.0,Flexible,Door-to-Door,Rent,Phone Call,Windy,2.49,45-54,False,Friday,High
+LD-20260104-56BB1CD2,2026-01-04,Semi-Detached,Downtown,1615.0,Flexible,Door-to-Door,Own,SMS,Snow,2.93,25-34,False,Sunday,Medium
+LD-20260126-110C15C3,2026-01-26,Apartment,Sydenham Ward,575.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,4.79,18-24,False,Monday,
+LD-20260127-BBE8C47B,2026-01-27,Apartment,Portsmouth Village,804.0,1 month,Facebook Ads,Rent,Phone Call,Sunny,3.04,55-64,False,Tuesday,Medium
+LD-20260113-2C427982,2026-01-13,Townhouse,Downtown,751.0,1 month,Word of Mouth/Referral,Own,Phone Call,Rain,2.66,18-24,False,Tuesday,Low
+LD-20251222-CAC15062,2025-12-22,Semi-Detached,West End,1674.0,ASAP,Facebook Ads,Own,SMS,Cloudy,5.02,25-34,False,Monday,
+LD-20260227-2506665C,2026-02-27,Apartment,Sydenham Ward,701.0,1-2 weeks,Facebook Ads,Own,Email,Rain,5.87,45-54,False,Friday,Low
+LD-20251224-6B69510E,2025-12-24,Detached,Sydenham Ward,2082.0,1 month,Facebook Ads,Own,Phone Call,Rain,2.21,55-64,True,Wednesday,
+LD-20251207-C6967A89,2025-12-07,Detached,Sydenham Ward,2106.0,1 month,Facebook Ads,Rent,Email,Windy,3.22,25-34,False,Sunday,
+LD-20260304-8659ED56,2026-03-04,Detached,Sydenham Ward,1906.0,1 month,Facebook Ads,Own,SMS,Sunny,3.72,25-34,False,Wednesday,
+LD-20260214-D6C85526,2026-02-14,Detached,Calvin Park,894.0,1 month,Facebook Ads,Own,Email,Sunny,4.35,45-54,False,Saturday,Low
+LD-20260218-8A4C54A0,2026-02-18,Townhouse,Downtown,673.0,ASAP,Door-to-Door,Own,Email,Sunny,2.21,55-64,True,Wednesday,
+LD-20260218-8DBF0A7A,2026-02-18,Apartment,Downtown,728.0,ASAP,Door-to-Door,Own,Phone Call,Rain,3.46,18-24,False,Wednesday,
+LD-20260130-5BE0E5FD,2026-01-30,Detached,Strathcona Park,2559.0,ASAP,Facebook Ads,Own,SMS,Sunny,2.79,45-54,True,Friday,High
+LD-20260203-D4AAC8AA,2026-02-03,Detached,West End,2154.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,0.92,35-44,True,Tuesday,
+LD-20251206-E7C2828C,2025-12-06,Townhouse,Sydenham Ward,1512.0,Flexible,Facebook Ads,Own,SMS,Sunny,7.09,55-64,False,Saturday,Medium
+LD-20260121-CC85E190,2026-01-21,Townhouse,Strathcona Park,1111.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,4.99,45-54,True,Wednesday,Low
+LD-20260101-CC7A80F2,2026-01-01,Detached,Calvin Park,2251.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Snow,0.74,35-44,True,Thursday,High
+LD-20260213-6E982C89,2026-02-13,Detached,Portsmouth Village,866.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.35,18-24,True,Friday,
+LD-20260202-C42B33D6,2026-02-02,Townhouse,Downtown,661.0,1-2 weeks,Lawn Signs,Own,Email,Rain,1.93,45-54,False,Monday,
+LD-20260126-D3122366,2026-01-26,Townhouse,Downtown,1235.0,1 month,Door-to-Door,Own,SMS,Rain,4.02,25-34,False,Monday,Medium
+LD-20260121-EF329C51,2026-01-21,Apartment,Downtown,570.0,1 month,Facebook Ads,Own,SMS,Cloudy,6.73,55-64,False,Wednesday,
+LD-20251208-1AE52E0F,2025-12-08,Detached,West End,1684.0,Flexible,Facebook Ads,Own,Phone Call,Rain,0.2,55-64,False,Monday,High
+LD-20260226-DAC55A3A,2026-02-26,Semi-Detached,Downtown,1498.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,2.65,55-64,False,Thursday,High
+LD-20251216-2847279A,2025-12-16,Detached,West End,2149.0,ASAP,Door-to-Door,Rent,SMS,Sunny,2.79,45-54,True,Tuesday,Medium
+LD-20251213-8879C410,2025-12-13,Semi-Detached,Strathcona Park,1410.0,Flexible,Facebook Ads,Rent,SMS,Sunny,3.22,45-54,False,Saturday,
+LD-20260203-B0FB27A5,2026-02-03,Apartment,Strathcona Park,316.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,4.44,55-64,False,Tuesday,
+LD-20251215-F412F378,2025-12-15,Semi-Detached,Calvin Park,1679.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,2.47,25-34,False,Monday,Medium
+LD-20251222-C3733BE1,2025-12-22,Detached,Calvin Park,414.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,2.97,18-24,True,Monday,
+LD-20251217-B5096873,2025-12-17,Townhouse,West End,535.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.45,18-24,False,Wednesday,Low
+LD-20260119-AC991AB1,2026-01-19,Townhouse,Strathcona Park,1534.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Snow,1.5,55-64,False,Monday,
+LD-20260224-4C344B7C,2026-02-24,Semi-Detached,Strathcona Park,655.0,ASAP,Facebook Ads,Own,Phone Call,Rain,5.11,65+,True,Tuesday,
+LD-20260213-55CD79EC,2026-02-13,Apartment,Sydenham Ward,915.0,Flexible,Door-to-Door,Own,SMS,Windy,1.89,25-34,False,Friday,
+LD-20260206-F84DF0B8,2026-02-06,Apartment,Downtown,762.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,0.2,35-44,False,Friday,Low
+LD-20260207-60865F5E,2026-02-07,Detached,Downtown,2637.0,1-2 weeks,Lawn Signs,Rent,Email,Rain,2.99,55-64,True,Saturday,
+LD-20251213-A6022457,2025-12-13,Detached,West End,2672.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.87,18-24,True,Saturday,
+LD-20260103-70A3C08C,2026-01-03,Townhouse,Downtown,1814.0,1 month,Lawn Signs,Own,Email,Windy,3.56,18-24,True,Saturday,High
+LD-20251231-9639B3C0,2025-12-31,Detached,Strathcona Park,2016.0,1-2 weeks,Door-to-Door,Own,Email,Rain,2.74,25-34,True,Wednesday,High
+LD-20260124-AD4CBB3B,2026-01-24,Apartment,Downtown,588.0,1 month,Lawn Signs,Own,SMS,Windy,4.18,35-44,True,Saturday,Low
+LD-20260202-EA0B2C87,2026-02-02,Detached,West End,2831.0,ASAP,Lawn Signs,Own,SMS,Cloudy,3.82,65+,True,Monday,High
+LD-20260105-BAEA6779,2026-01-05,Apartment,West End,573.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Rain,3.19,55-64,True,Monday,Low
+LD-20260212-4B526F3A,2026-02-12,Detached,Downtown,1964.0,1 month,Facebook Ads,Own,Phone Call,Rain,3.83,35-44,True,Thursday,
+LD-20260227-8BB48E64,2026-02-27,Heritage Home,Strathcona Park,2496.0,1 month,Facebook Ads,Own,SMS,Snow,5.72,65+,False,Friday,
+LD-20251216-D0521925,2025-12-16,Detached,West End,2484.0,1-2 weeks,Door-to-Door,Own,Email,Snow,1.49,35-44,False,Tuesday,High
+LD-20260106-E61460AD,2026-01-06,Detached,Calvin Park,1919.0,1 month,Facebook Ads,Own,SMS,Windy,4.91,35-44,False,Tuesday,Medium
+LD-20260226-D2E5DF77,2026-02-26,Apartment,Strathcona Park,919.0,1 month,Lawn Signs,Own,Email,Windy,3.7199999999999998,45-54,False,Thursday,
+LD-20260219-E5B47DEB,2026-02-19,Apartment,Calvin Park,209.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,5.51,55-64,False,Thursday,Low
+LD-20251229-EE358264,2025-12-29,Detached,Downtown,1786.0,Flexible,Lawn Signs,Recently Purchased,Email,Sunny,1.16,45-54,True,Monday,Medium
+LD-20251218-E0CA192F,2025-12-18,Detached,Strathcona Park,1652.0,Flexible,Lawn Signs,Own,Email,Sunny,1.44,25-34,True,Thursday,
+LD-20260228-CC857F01,2026-02-28,Apartment,Sydenham Ward,533.0,Flexible,Facebook Ads,Own,SMS,Rain,0.83,65+,False,Saturday,
+LD-20251221-91D8DC56,2025-12-21,Detached,Downtown,1800.0,1 month,Facebook Ads,Own,Email,Sunny,2.66,35-44,True,Sunday,
+LD-20260213-B2F13BBF,2026-02-13,Townhouse,West End,1755.0,1-2 weeks,Lawn Signs,Rent,SMS,Cloudy,2.1,35-44,True,Friday,Medium
+LD-20260208-2E17BF04,2026-02-08,Apartment,Downtown,682.0,ASAP,Lawn Signs,Recently Purchased,SMS,Rain,5.15,65+,True,Sunday,
+LD-20251227-3489CCF0,2025-12-27,Semi-Detached,Sydenham Ward,610.0,Flexible,Facebook Ads,Own,SMS,Sunny,0.2,25-34,True,Saturday,
+LD-20260109-589484AB,2026-01-09,Detached,Calvin Park,1969.0,1 month,Lawn Signs,Own,SMS,Sunny,1.38,18-24,False,Friday,
+LD-20260116-2788B6B1,2026-01-16,Semi-Detached,West End,734.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,5.88,65+,False,Friday,
+LD-20251207-B72AB42F,2025-12-07,Heritage Home,West End,1290.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,0.54,35-44,False,Sunday,Medium
+LD-20260131-0240FCD5,2026-01-31,Townhouse,West End,1247.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,0.45,25-34,True,Saturday,
+LD-20260127-C69DB994,2026-01-27,Detached,West End,1380.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Rain,7.15,35-44,False,Tuesday,High
+LD-20260228-0EA9B434,2026-02-28,Semi-Detached,Calvin Park,1313.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Sunny,0.2,25-34,True,Saturday,
+LD-20251207-0B0CD175,2025-12-07,Detached,Downtown,1186.0,1-2 weeks,Facebook Ads,Rent,Email,Cloudy,3.46,55-64,False,Sunday,
+LD-20260114-5C5CAE5D,2026-01-14,Apartment,Calvin Park,451.0,Flexible,Facebook Ads,Recently Purchased,SMS,Rain,2.88,18-24,True,Wednesday,Low
+LD-20260222-00BDC70D,2026-02-22,Apartment,Strathcona Park,451.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,5.11,35-44,False,Sunday,
+LD-20260304-BDCF27C7,2026-03-04,Apartment,Downtown,781.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,1.07,25-34,False,Wednesday,
+LD-20260201-E7CEAD65,2026-02-01,Detached,Sydenham Ward,2416.0,1-2 weeks,Door-to-Door,Rent,SMS,Windy,4.44,25-34,True,Sunday,
+LD-20260105-61C34364,2026-01-05,Apartment,West End,1024.0,1 month,Facebook Ads,Own,SMS,Sunny,3.63,18-24,True,Monday,Low
+LD-20260116-9591D1B3,2026-01-16,Detached,Downtown,1620.0,Flexible,Lawn Signs,Own,SMS,Sunny,3.46,25-34,True,Friday,Medium
+LD-20260201-EAF317F7,2026-02-01,Townhouse,West End,726.0,ASAP,Facebook Ads,Own,Email,Rain,6.3,45-54,True,Sunday,Low
+LD-20251211-B70A61D8,2025-12-11,Heritage Home,West End,1012.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,1.94,45-54,True,Thursday,Medium
+LD-20251218-ADAA416C,2025-12-18,Detached,West End,1878.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,3.53,18-24,False,Thursday,
+LD-20260208-134642D9,2026-02-08,Townhouse,Portsmouth Village,1295.0,Flexible,Door-to-Door,Rent,Email,Sunny,5.2,25-34,True,Sunday,
+LD-20260205-A6392D25,2026-02-05,Detached,Strathcona Park,1318.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,1.25,35-44,True,Thursday,
+LD-20260103-08417DAB,2026-01-03,Townhouse,Calvin Park,1372.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,1.54,35-44,True,Saturday,
+LD-20251220-8CE8BBB2,2025-12-20,Apartment,Portsmouth Village,463.0,Flexible,Facebook Ads,Rent,SMS,Sunny,4.14,25-34,False,Saturday,
+LD-20251219-F242E876,2025-12-19,Detached,Strathcona Park,1534.0,Flexible,Lawn Signs,Own,SMS,Sunny,0.93,35-44,True,Friday,High
+LD-20251222-9D82CD28,2025-12-22,Semi-Detached,Strathcona Park,1140.0,Flexible,Facebook Ads,Rent,Phone Call,Cloudy,3.22,18-24,False,Monday,Low
+LD-20260130-AD281D65,2026-01-30,Apartment,Calvin Park,600.0,1 month,Facebook Ads,Rent,SMS,Sunny,0.86,65+,True,Friday,Low
+LD-20260207-FEF4A779,2026-02-07,Semi-Detached,Calvin Park,150.0,ASAP,Facebook Ads,Recently Purchased,SMS,Cloudy,3.5949999999999998,35-44,False,Saturday,
+LD-20260116-A2E40599,2026-01-16,Detached,West End,1660.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Snow,5.8,25-34,False,Friday,High
+LD-20251208-21CEF16F,2025-12-08,Detached,Strathcona Park,1119.0,Flexible,Word of Mouth/Referral,Own,SMS,Cloudy,6.76,65+,False,Monday,High
+LD-20260212-7516B08B,2026-02-12,Apartment,Downtown,630.0,Flexible,Facebook Ads,Own,Phone Call,Snow,5.42,35-44,False,Thursday,Low
+LD-20260108-9ACD7AE0,2026-01-08,Semi-Detached,West End,993.0,Flexible,Lawn Signs,Own,Phone Call,Rain,0.86,25-34,False,Thursday,
+LD-20260211-50727DA7,2026-02-11,Semi-Detached,Calvin Park,1237.0,Flexible,Facebook Ads,Recently Purchased,Phone Call,Sunny,5.84,45-54,False,Wednesday,
+LD-20260110-D855704F,2026-01-10,Semi-Detached,Calvin Park,1579.0,1 month,Facebook Ads,Own,SMS,Sunny,2.32,35-44,False,Saturday,Medium
+LD-20260102-29FC468B,2026-01-02,Detached,Calvin Park,1602.0,Flexible,Facebook Ads,Rent,SMS,Cloudy,0.2,18-24,False,Friday,
+LD-20251228-D35A54AB,2025-12-28,Detached,Portsmouth Village,1574.0,Flexible,Lawn Signs,Recently Purchased,Email,Cloudy,2.07,55-64,True,Sunday,
+LD-20251216-D4F49B49,2025-12-16,Townhouse,Portsmouth Village,684.0,ASAP,Facebook Ads,Own,SMS,Sunny,5.83,55-64,True,Tuesday,Medium
+LD-20260212-E40EBFFC,2026-02-12,Semi-Detached,Strathcona Park,1464.0,ASAP,Word of Mouth/Referral,Rent,Email,Windy,4.52,18-24,True,Thursday,High
+LD-20260216-8C40A9B5,2026-02-16,Detached,Downtown,1610.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,5.21,18-24,False,Monday,
+LD-20260228-46A00B20,2026-02-28,Detached,Sydenham Ward,2792.0,1 month,Word of Mouth/Referral,Own,Phone Call,Sunny,3.13,25-34,True,Saturday,High
+LD-20260216-92989966,2026-02-16,Apartment,Sydenham Ward,409.0,1 month,Lawn Signs,Own,Phone Call,Sunny,3.6,18-24,False,Monday,
+LD-20260302-9327F7A6,2026-03-02,Detached,West End,1924.0,1 month,Facebook Ads,Own,Email,Sunny,5.42,55-64,False,Monday,High
+LD-20251209-5E9AC821,2025-12-09,Townhouse,Downtown,860.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,2.5,55-64,True,Tuesday,Low
+LD-20260106-A5BEBA82,2026-01-06,Apartment,Calvin Park,628.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,0.28,45-54,True,Tuesday,Low
+LD-20260204-FB3F910B,2026-02-04,Detached,Strathcona Park,1974.0,ASAP,Facebook Ads,Rent,Email,Cloudy,3.03,55-64,False,Wednesday,High
+LD-20251207-5947EA42,2025-12-07,Detached,West End,2466.0,Flexible,Lawn Signs,Own,Phone Call,Sunny,6.18,35-44,True,Sunday,High
+LD-20251211-83B09C9F,2025-12-11,Detached,Portsmouth Village,975.0,ASAP,Facebook Ads,Rent,SMS,Sunny,4.82,35-44,False,Thursday,Low
+LD-20260116-12491FE9,2026-01-16,Semi-Detached,West End,1167.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,4.3,35-44,False,Friday,
+LD-20260110-EEA02E19,2026-01-10,Townhouse,West End,1643.0,ASAP,Door-to-Door,Recently Purchased,Email,Cloudy,2.92,65+,True,Saturday,
+LD-20251216-6930056C,2025-12-16,Apartment,Portsmouth Village,393.0,1 month,Word of Mouth/Referral,Recently Purchased,Phone Call,Cloudy,6.7,55-64,False,Tuesday,
+LD-20260124-8777B602,2026-01-24,Townhouse,Downtown,438.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,1.93,25-34,True,Saturday,
+LD-20260118-1A9E4837,2026-01-18,Townhouse,West End,1165.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Rain,4.41,45-54,False,Sunday,
+LD-20251216-A2E9576D,2025-12-16,Apartment,Downtown,509.0,1-2 weeks,Door-to-Door,Own,Email,Rain,2.39,18-24,True,Tuesday,Low
+LD-20251227-4418B38B,2025-12-27,Semi-Detached,West End,1821.0,Flexible,Lawn Signs,Rent,Phone Call,Windy,4.12,45-54,True,Saturday,Medium
+LD-20260228-FBF40688,2026-02-28,Detached,West End,1647.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,6.0,65+,True,Saturday,High
+LD-20260125-B95B8486,2026-01-25,Detached,West End,3187.0,ASAP,Word of Mouth/Referral,Own,Email,Cloudy,4.7,65+,False,Sunday,
+LD-20260126-D623AB50,2026-01-26,Townhouse,Sydenham Ward,1012.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.72,25-34,False,Monday,
+LD-20260227-3FFC2392,2026-02-27,Townhouse,Calvin Park,926.0,1 month,Facebook Ads,Own,SMS,Rain,1.9,65+,True,Friday,
+LD-20260221-57C1FAF8,2026-02-21,Detached,West End,3156.0,1-2 weeks,Lawn Signs,Own,Email,Windy,1.67,25-34,True,Saturday,High
+LD-20260123-7B596A48,2026-01-23,Detached,Downtown,1033.0,1-2 weeks,Lawn Signs,Own,SMS,Windy,1.28,65+,False,Friday,Medium
+LD-20260228-060CE749,2026-02-28,Detached,Portsmouth Village,1329.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Sunny,0.2,35-44,True,Saturday,
+LD-20260109-2E4BDE7E,2026-01-09,Heritage Home,West End,2906.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,8.48,55-64,True,Friday,
+LD-20251223-DEF34E0C,2025-12-23,Semi-Detached,Portsmouth Village,1946.0,Flexible,Door-to-Door,Recently Purchased,Email,Windy,6.17,55-64,False,Tuesday,
+LD-20251226-10B8829D,2025-12-26,Detached,Calvin Park,2440.0,1 month,Door-to-Door,Own,Phone Call,Rain,1.5,35-44,True,Friday,
+LD-20260224-F0E1997E,2026-02-24,Semi-Detached,West End,424.0,ASAP,Lawn Signs,Rent,SMS,Sunny,3.83,45-54,False,Tuesday,Low
+LD-20251210-2F5BA679,2025-12-10,Heritage Home,Sydenham Ward,1453.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,3.6,55-64,True,Wednesday,Medium
+LD-20260122-EBD1EE64,2026-01-22,Townhouse,Portsmouth Village,848.0,ASAP,Lawn Signs,Own,SMS,Windy,1.82,65+,False,Thursday,Low
+LD-20251225-4D0C7B07,2025-12-25,Semi-Detached,Downtown,378.0,Flexible,Door-to-Door,Own,Phone Call,Cloudy,7.71,45-54,True,Thursday,Low
+LD-20260226-CF261F58,2026-02-26,Detached,Strathcona Park,2088.0,Flexible,Door-to-Door,Own,Email,Sunny,3.64,55-64,True,Thursday,
+LD-20260127-37E04541,2026-01-27,Detached,Downtown,2066.0,1-2 weeks,Door-to-Door,Own,SMS,Windy,5.6,25-34,True,Tuesday,High
+LD-20260111-BBFB05EE,2026-01-11,Detached,Portsmouth Village,2274.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,2.66,35-44,True,Sunday,High
+LD-20251216-0C5E0C68,2025-12-16,Detached,Downtown,1768.0,1-2 weeks,Door-to-Door,Rent,Phone Call,Rain,4.83,55-64,True,Tuesday,
+LD-20260101-1F56C866,2026-01-01,Detached,Calvin Park,1806.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Snow,2.02,25-34,True,Thursday,High
+LD-20260120-282EF6D8,2026-01-20,Apartment,West End,520.0,1 month,Door-to-Door,Rent,Email,Cloudy,4.24,45-54,True,Tuesday,
+LD-20260117-04662221,2026-01-17,Semi-Detached,Calvin Park,1674.0,Flexible,Door-to-Door,Own,Phone Call,Cloudy,2.69,45-54,True,Saturday,Medium
+LD-20260218-EC0EADDF,2026-02-18,Detached,Sydenham Ward,2139.0,Flexible,Lawn Signs,Own,Email,Cloudy,2.61,35-44,False,Wednesday,
+LD-20251221-53781602,2025-12-21,Detached,West End,1971.0,1 month,Door-to-Door,Own,SMS,Rain,3.29,45-54,False,Sunday,
+LD-20251226-0C71EAB3,2025-12-26,Townhouse,Sydenham Ward,1740.0,ASAP,Door-to-Door,Own,Phone Call,Snow,3.66,35-44,False,Friday,
+LD-20260111-959F9AEB,2026-01-11,Detached,West End,1578.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,2.61,18-24,True,Sunday,
+LD-20251215-734BFF44,2025-12-15,Apartment,Sydenham Ward,451.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,0.2,25-34,True,Monday,
+LD-20260111-179FE226,2026-01-11,Townhouse,West End,1203.0,ASAP,Facebook Ads,Recently Purchased,Email,Rain,4.49,55-64,False,Sunday,Medium
+LD-20260201-A0C60752,2026-02-01,Townhouse,West End,548.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,6.48,65+,False,Sunday,Low
+LD-20251229-41D0B5C9,2025-12-29,Townhouse,Strathcona Park,1561.0,Flexible,Facebook Ads,Own,Email,Sunny,3.15,55-64,False,Monday,Medium
+LD-20260215-4909A126,2026-02-15,Heritage Home,West End,3499.0,ASAP,Facebook Ads,Own,SMS,Sunny,1.33,55-64,False,Sunday,High
+LD-20251205-BCE857B1,2025-12-05,Heritage Home,Sydenham Ward,3835.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.48,55-64,False,Friday,
+LD-20260209-644897E1,2026-02-09,Detached,Strathcona Park,1727.0,1-2 weeks,Facebook Ads,Rent,Email,Cloudy,4.82,65+,False,Monday,Medium
+LD-20260121-C5BBDB18,2026-01-21,Townhouse,Portsmouth Village,972.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.525,35-44,True,Wednesday,
+LD-20260114-77FC00F8,2026-01-14,Semi-Detached,Sydenham Ward,1290.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,1.51,65+,False,Wednesday,
+LD-20251223-6A9E42F7,2025-12-23,Townhouse,West End,870.0,1 month,Facebook Ads,Own,SMS,Sunny,6.26,55-64,True,Tuesday,
+LD-20260120-0EE6092E,2026-01-20,Apartment,West End,513.0,1 month,Lawn Signs,Recently Purchased,Email,Cloudy,7.47,35-44,False,Tuesday,
+LD-20251216-E2C028A1,2025-12-16,Apartment,Calvin Park,735.0,Flexible,Facebook Ads,Rent,Email,Cloudy,2.67,35-44,False,Tuesday,
+LD-20260124-78E6A0B8,2026-01-24,Townhouse,Sydenham Ward,1017.0,Flexible,Facebook Ads,Rent,SMS,Cloudy,3.04,65+,True,Saturday,Low
+LD-20260108-CD6DC955,2026-01-08,Townhouse,Downtown,1190.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.52,25-34,False,Thursday,Medium
+LD-20251222-824812AE,2025-12-22,Semi-Detached,Downtown,685.0,1 month,Word of Mouth/Referral,Recently Purchased,SMS,Windy,4.02,45-54,True,Monday,High
+LD-20260123-1A7E44B9,2026-01-23,Detached,West End,2473.0,1 month,Word of Mouth/Referral,Own,Email,Sunny,1.83,25-34,False,Friday,
+LD-20260105-65D28E9F,2026-01-05,Townhouse,Downtown,1335.0,1-2 weeks,Word of Mouth/Referral,Rent,Phone Call,Sunny,0.2,35-44,True,Monday,Medium
+LD-20251214-ADB74ECA,2025-12-14,Townhouse,Sydenham Ward,1164.0,1 month,Word of Mouth/Referral,Rent,Email,Sunny,6.93,55-64,False,Sunday,Medium
+LD-20251230-DA259717,2025-12-30,Detached,Sydenham Ward,1412.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,5.65,35-44,False,Tuesday,
+LD-20260227-4BB384C0,2026-02-27,Heritage Home,Downtown,1777.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,3.05,25-34,True,Friday,Medium
+LD-20260109-3D6159AA,2026-01-09,Detached,Downtown,1338.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,2.66,35-44,False,Friday,
+LD-20260101-B22AC3D6,2026-01-01,Detached,West End,1654.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,2.47,65+,False,Thursday,
+LD-20260302-E7A4851D,2026-03-02,Detached,Strathcona Park,1182.0,Flexible,Lawn Signs,Own,SMS,Cloudy,6.46,25-34,False,Monday,
+LD-20251213-4F056500,2025-12-13,Semi-Detached,Calvin Park,1819.0,1 month,Word of Mouth/Referral,Rent,Phone Call,Sunny,3.31,25-34,False,Saturday,
+LD-20251208-48EB15B0,2025-12-08,Semi-Detached,Sydenham Ward,1354.0,1 month,Door-to-Door,Own,SMS,Rain,1.34,45-54,False,Monday,Medium
+LD-20251210-ADC4D47B,2025-12-10,Townhouse,Calvin Park,893.0,1 month,Door-to-Door,Rent,SMS,Sunny,5.99,65+,False,Wednesday,
+LD-20260120-3055C370,2026-01-20,Detached,Sydenham Ward,1651.0,Flexible,Lawn Signs,Own,Email,Sunny,1.95,45-54,True,Tuesday,
+LD-20260110-E30A73A6,2026-01-10,Detached,West End,2257.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,6.71,55-64,False,Saturday,
+LD-20260128-6C2F5C8E,2026-01-28,Detached,Portsmouth Village,934.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,4.95,35-44,False,Wednesday,
+LD-20260223-9138DD2B,2026-02-23,Apartment,Calvin Park,538.0,ASAP,Facebook Ads,Own,Email,Sunny,6.43,55-64,True,Monday,Low
+LD-20260211-5CAC9EA3,2026-02-11,Detached,West End,1727.0,Flexible,Lawn Signs,Own,SMS,Windy,3.47,18-24,False,Wednesday,
+LD-20260213-15A891F9,2026-02-13,Semi-Detached,Calvin Park,1475.0,Flexible,Door-to-Door,Own,Email,Windy,5.38,35-44,False,Friday,
+LD-20260209-A31216C6,2026-02-09,Heritage Home,Strathcona Park,1380.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,6.34,45-54,False,Monday,Medium
+LD-20260124-0B797486,2026-01-24,Detached,West End,2144.0,Flexible,Facebook Ads,Rent,SMS,Rain,2.02,18-24,True,Saturday,High
+LD-20260304-27485696,2026-03-04,Detached,Strathcona Park,2017.0,ASAP,Lawn Signs,Own,SMS,Sunny,2.93,35-44,True,Wednesday,
+LD-20260222-1CE8D9C2,2026-02-22,Detached,Strathcona Park,955.0,1 month,Facebook Ads,Own,SMS,Sunny,5.3,25-34,True,Sunday,
+LD-20260129-A07998DA,2026-01-29,Detached,West End,2678.0,1-2 weeks,Door-to-Door,Rent,SMS,Sunny,1.09,55-64,False,Thursday,High
+LD-20260211-2661B1D6,2026-02-11,Detached,Portsmouth Village,2692.0,1-2 weeks,Door-to-Door,Own,Email,Rain,3.79,18-24,False,Wednesday,
+LD-20251206-4AA314B6,2025-12-06,Townhouse,Downtown,1348.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.29,25-34,True,Saturday,Medium
+LD-20260216-10F36BAC,2026-02-16,Apartment,Sydenham Ward,767.0,1 month,Lawn Signs,Own,Email,Sunny,4.41,55-64,True,Monday,Medium
+LD-20251225-F6FC03B4,2025-12-25,Apartment,Strathcona Park,774.0,Flexible,Lawn Signs,Own,Phone Call,Cloudy,3.66,18-24,True,Thursday,Medium
+LD-20260110-2B7F4970,2026-01-10,Detached,Sydenham Ward,1808.0,1 month,Lawn Signs,Own,SMS,Cloudy,4.95,45-54,False,Saturday,
+LD-20260120-DD241709,2026-01-20,Semi-Detached,Portsmouth Village,1639.0,1-2 weeks,Facebook Ads,Rent,SMS,Rain,2.88,45-54,True,Tuesday,
+LD-20260123-06B98D11,2026-01-23,Detached,West End,2500.0,ASAP,Word of Mouth/Referral,Rent,SMS,Windy,0.2,35-44,True,Friday,High
+LD-20260206-0989C47C,2026-02-06,Heritage Home,West End,1929.0,Flexible,Facebook Ads,Own,SMS,Rain,3.9,35-44,False,Friday,High
+LD-20251213-CAA32592,2025-12-13,Detached,Downtown,1473.0,Flexible,Facebook Ads,Own,SMS,Cloudy,4.69,25-34,True,Saturday,
+LD-20260129-1D4501F8,2026-01-29,Townhouse,Downtown,1002.0,1 month,Word of Mouth/Referral,Rent,Phone Call,Cloudy,0.2,45-54,False,Thursday,Medium
+LD-20260120-AE73F672,2026-01-20,Detached,Downtown,1094.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Sunny,2.37,45-54,True,Tuesday,
+LD-20260125-E07A0DB4,2026-01-25,Townhouse,Sydenham Ward,887.0,Flexible,Facebook Ads,Recently Purchased,SMS,Rain,3.72,35-44,False,Sunday,Low
+LD-20260121-62297649,2026-01-21,Detached,Calvin Park,1636.0,1 month,Facebook Ads,Own,SMS,Sunny,2.11,18-24,False,Wednesday,Medium
+LD-20251219-DE636F09,2025-12-19,Semi-Detached,West End,1463.0,Flexible,Lawn Signs,Own,SMS,Cloudy,6.33,45-54,True,Friday,Medium
+LD-20251216-1CA69F6F,2025-12-16,Detached,Strathcona Park,2124.0,1-2 weeks,Facebook Ads,Recently Purchased,Phone Call,Rain,2.99,65+,False,Tuesday,
+LD-20260223-EECC48A0,2026-02-23,Townhouse,Strathcona Park,1079.0,Flexible,Facebook Ads,Own,Email,Cloudy,0.32,35-44,False,Monday,Medium
+LD-20260225-92DE138B,2026-02-25,Apartment,Downtown,500.0,ASAP,Facebook Ads,Rent,Phone Call,Sunny,2.74,25-34,False,Wednesday,Low
+LD-20251226-18030982,2025-12-26,Detached,Sydenham Ward,2862.0,1 month,Word of Mouth/Referral,Own,SMS,Cloudy,3.91,55-64,True,Friday,High
+LD-20260227-63BA31F6,2026-02-27,Detached,Downtown,1578.0,ASAP,Door-to-Door,Own,SMS,Rain,4.74,25-34,True,Friday,Medium
+LD-20251228-F6AB4D7C,2025-12-28,Heritage Home,Sydenham Ward,1944.0,ASAP,Facebook Ads,Own,SMS,Cloudy,7.46,55-64,True,Sunday,Medium
+LD-20251207-CE35AF6B,2025-12-07,Semi-Detached,Portsmouth Village,1747.0,1-2 weeks,Lawn Signs,Rent,Email,Rain,5.29,35-44,True,Sunday,Medium
+LD-20251226-3E710AA2,2025-12-26,Townhouse,Downtown,1389.0,1 month,Lawn Signs,Own,Email,Sunny,0.2,35-44,True,Friday,
+LD-20251208-4A71954B,2025-12-08,Apartment,West End,490.0,Flexible,Facebook Ads,Own,Email,Rain,2.25,55-64,False,Monday,
+LD-20260117-28D51F72,2026-01-17,Detached,Downtown,1942.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,0.2,25-34,True,Saturday,
+LD-20251205-740C91E0,2025-12-05,Apartment,Sydenham Ward,521.0,Flexible,Facebook Ads,Own,Email,Sunny,3.95,55-64,True,Friday,
+LD-20260126-751267FA,2026-01-26,Detached,Portsmouth Village,2116.0,Flexible,Facebook Ads,Rent,Email,Sunny,0.2,45-54,False,Monday,Medium
+LD-20260202-13524D2C,2026-02-02,Detached,Calvin Park,1562.0,1 month,Door-to-Door,Recently Purchased,Phone Call,Sunny,7.07,25-34,False,Monday,
+LD-20260218-C2F1009A,2026-02-18,Detached,West End,2499.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,0.2,18-24,True,Wednesday,
+LD-20260214-494F8B6C,2026-02-14,Townhouse,Downtown,1643.0,1 month,Lawn Signs,Own,Phone Call,Cloudy,1.62,45-54,False,Saturday,Medium
+LD-20260116-6C1C657B,2026-01-16,Apartment,Strathcona Park,150.0,1 month,Door-to-Door,Rent,Email,Snow,3.12,45-54,False,Friday,Low
+LD-20251222-4A4CB0CE,2025-12-22,Heritage Home,West End,2988.0,Flexible,Door-to-Door,Own,Email,Sunny,4.44,55-64,False,Monday,High
+LD-20260114-DF445C1F,2026-01-14,Townhouse,West End,995.0,ASAP,Lawn Signs,Own,Phone Call,Snow,4.02,45-54,False,Wednesday,
+LD-20260225-9E334900,2026-02-25,Apartment,Downtown,586.0,Flexible,Facebook Ads,Rent,Phone Call,Sunny,4.77,55-64,False,Wednesday,Low
+LD-20260303-7B155A2F,2026-03-03,Semi-Detached,West End,1805.0,Flexible,Facebook Ads,Own,SMS,Cloudy,3.68,25-34,False,Tuesday,
+LD-20251204-37120301,2025-12-04,Semi-Detached,Strathcona Park,1156.0,Flexible,Lawn Signs,Own,SMS,Cloudy,1.63,65+,True,Thursday,Medium
+LD-20260222-C930DD84,2026-02-22,Townhouse,Calvin Park,811.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.59,45-54,False,Sunday,
+LD-20260208-F7B01587,2026-02-08,Detached,Downtown,1456.0,1-2 weeks,Facebook Ads,Own,Email,Rain,2.33,65+,False,Sunday,
+LD-20260215-86F8D339,2026-02-15,Townhouse,Strathcona Park,531.0,ASAP,Door-to-Door,Rent,Email,Rain,5.55,45-54,True,Sunday,Low
+LD-20260228-CD1954B2,2026-02-28,Townhouse,Sydenham Ward,856.0,1 month,Lawn Signs,Own,Email,Windy,2.02,25-34,False,Saturday,
+LD-20251216-A4F7B548,2025-12-16,Apartment,Sydenham Ward,746.0,Flexible,Word of Mouth/Referral,Rent,Phone Call,Sunny,4.9,35-44,False,Tuesday,
+LD-20260202-4672C760,2026-02-02,Detached,Downtown,2330.0,Flexible,Facebook Ads,Own,Email,Rain,3.43,55-64,True,Monday,
+LD-20260117-321D024E,2026-01-17,Apartment,Downtown,646.0,Flexible,Facebook Ads,Rent,SMS,Rain,5.12,35-44,False,Saturday,
+LD-20260110-D085ED3A,2026-01-10,Apartment,Calvin Park,202.0,Flexible,Facebook Ads,Recently Purchased,Email,Sunny,3.38,18-24,True,Saturday,Low
+LD-20251206-8BF72001,2025-12-06,Townhouse,Downtown,1609.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,2.69,45-54,True,Saturday,Medium
+LD-20260216-1E6E00E0,2026-02-16,Semi-Detached,Strathcona Park,1234.0,ASAP,Door-to-Door,Own,SMS,Sunny,4.36,35-44,False,Monday,Medium
+LD-20260107-78840EDE,2026-01-07,Detached,Portsmouth Village,1390.0,1 month,Facebook Ads,Own,Email,Snow,2.72,45-54,False,Wednesday,Medium
+LD-20251209-736EA3AF,2025-12-09,Detached,West End,1632.0,ASAP,Word of Mouth/Referral,Rent,Phone Call,Windy,0.2,65+,False,Tuesday,
+LD-20251211-D55604CE,2025-12-11,Townhouse,Downtown,1164.0,ASAP,Door-to-Door,Own,Phone Call,Rain,3.95,25-34,False,Thursday,
+LD-20260119-1DD47A23,2026-01-19,Detached,Strathcona Park,2417.0,ASAP,Facebook Ads,Recently Purchased,SMS,Windy,4.29,25-34,False,Monday,High
+LD-20251206-8A08B53C,2025-12-06,Semi-Detached,Strathcona Park,1437.0,Flexible,Lawn Signs,Own,Phone Call,Windy,6.45,45-54,True,Saturday,Medium
+LD-20260224-FE82E39F,2026-02-24,Detached,Calvin Park,1153.0,ASAP,Facebook Ads,Rent,Phone Call,Sunny,0.2,35-44,False,Tuesday,Medium
+LD-20260119-567EC158,2026-01-19,Apartment,Calvin Park,1168.0,ASAP,Facebook Ads,Recently Purchased,Email,Sunny,2.95,45-54,False,Monday,Low
+LD-20251216-12A04484,2025-12-16,Detached,West End,2230.0,ASAP,Door-to-Door,Own,SMS,Snow,2.69,35-44,True,Tuesday,
+LD-20260219-15F31396,2026-02-19,Detached,Strathcona Park,1425.0,1 month,Door-to-Door,Own,Email,Windy,5.76,65+,False,Thursday,
+LD-20260219-03440125,2026-02-19,Semi-Detached,Strathcona Park,1614.0,Flexible,Facebook Ads,Rent,Email,Snow,1.82,65+,False,Thursday,Medium
+LD-20251204-666D621B,2025-12-04,Apartment,Sydenham Ward,825.0,ASAP,Lawn Signs,Recently Purchased,SMS,Cloudy,1.65,55-64,False,Thursday,Medium
+LD-20251214-BE92CB6B,2025-12-14,Townhouse,West End,1296.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,5.74,65+,False,Sunday,
+LD-20251221-1754AAC2,2025-12-21,Detached,West End,2171.0,1-2 weeks,Facebook Ads,Own,Phone Call,Windy,3.01,18-24,False,Sunday,High
+LD-20260122-F99289C3,2026-01-22,Townhouse,West End,620.0,1-2 weeks,Door-to-Door,Recently Purchased,Email,Rain,2.43,35-44,False,Thursday,
+LD-20251215-CC7CB579,2025-12-15,Detached,Downtown,2139.0,Flexible,Door-to-Door,Own,SMS,Sunny,2.52,45-54,False,Monday,High
+LD-20251222-1E232DEE,2025-12-22,Detached,West End,3007.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,5.27,45-54,False,Monday,
+LD-20260114-97BC38C0,2026-01-14,Detached,Strathcona Park,2339.0,1 month,Facebook Ads,Own,SMS,Sunny,3.89,65+,True,Wednesday,
+LD-20260217-3143905E,2026-02-17,Detached,Sydenham Ward,1414.0,1 month,Door-to-Door,Own,Email,Windy,3.6,45-54,False,Tuesday,High
+LD-20260209-4153D79A,2026-02-09,Semi-Detached,Calvin Park,1538.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,5.2,45-54,False,Monday,
+LD-20260216-A4E1C779,2026-02-16,Detached,Strathcona Park,1928.0,1 month,Lawn Signs,Rent,Phone Call,Rain,2.18,35-44,True,Monday,High
+LD-20260106-7722B0EC,2026-01-06,Detached,Downtown,1487.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,6.38,18-24,False,Tuesday,Medium
+LD-20260112-DC185550,2026-01-12,Detached,Downtown,1279.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,3.31,45-54,True,Monday,
+LD-20251220-C3E4C1C3,2025-12-20,Semi-Detached,West End,1425.0,Flexible,Lawn Signs,Own,SMS,Rain,3.68,45-54,False,Saturday,Medium
+LD-20251212-DD6F6D8F,2025-12-12,Detached,West End,3616.0,Flexible,Lawn Signs,Rent,Phone Call,Cloudy,4.73,55-64,True,Friday,High
+LD-20260204-B815D6EB,2026-02-04,Semi-Detached,Sydenham Ward,1140.0,1 month,Facebook Ads,Recently Purchased,SMS,Rain,2.84,55-64,True,Wednesday,
+LD-20251228-E8AA3297,2025-12-28,Detached,West End,2448.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,3.67,25-34,True,Sunday,High
+LD-20251217-398AA013,2025-12-17,Apartment,West End,750.0,1 month,Door-to-Door,Rent,Phone Call,Sunny,3.53,65+,False,Wednesday,
+LD-20260220-43B1BAA7,2026-02-20,Apartment,West End,1017.0,ASAP,Facebook Ads,Own,Email,Windy,4.71,25-34,False,Friday,
+LD-20251222-C8022DD3,2025-12-22,Townhouse,Downtown,605.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.58,65+,True,Monday,
+LD-20251208-325AB212,2025-12-08,Townhouse,Calvin Park,1278.0,1 month,Door-to-Door,Own,Phone Call,Windy,4.09,25-34,False,Monday,Medium
+LD-20260130-78E12D7E,2026-01-30,Detached,Sydenham Ward,2550.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,4.81,18-24,True,Friday,
+LD-20260222-A4472F29,2026-02-22,Semi-Detached,West End,1410.0,Flexible,Facebook Ads,Own,Email,Sunny,5.33,45-54,False,Sunday,Medium
+LD-20251215-6BDB1925,2025-12-15,Townhouse,Downtown,1502.0,ASAP,Lawn Signs,Own,SMS,Cloudy,3.43,55-64,False,Monday,Medium
+LD-20251209-C5B552D7,2025-12-09,Detached,West End,2420.0,1-2 weeks,Word of Mouth/Referral,Rent,Email,Snow,1.83,45-54,True,Tuesday,High
+LD-20251221-DBF19993,2025-12-21,Semi-Detached,Downtown,1750.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Rain,2.02,45-54,True,Sunday,
+LD-20260228-7A0AAB95,2026-02-28,Apartment,Downtown,501.0,ASAP,Facebook Ads,Own,Email,Windy,6.95,25-34,False,Saturday,Low
+LD-20260222-5B5D5493,2026-02-22,Semi-Detached,Sydenham Ward,1622.0,1 month,Facebook Ads,Own,SMS,Sunny,6.34,55-64,False,Sunday,
+LD-20260103-05333DBE,2026-01-03,Apartment,Calvin Park,556.0,ASAP,Facebook Ads,Own,Phone Call,Snow,1.53,35-44,True,Saturday,Low
+LD-20260219-5D77C76D,2026-02-19,Detached,West End,2488.0,1 month,Door-to-Door,Own,Email,Sunny,4.4,25-34,False,Thursday,
+LD-20251229-4494E137,2025-12-29,Detached,Calvin Park,1741.0,1 month,Lawn Signs,Own,SMS,Cloudy,1.2,65+,False,Monday,
+LD-20260129-2111D869,2026-01-29,Detached,West End,2099.0,1 month,Facebook Ads,Own,Phone Call,Windy,4.97,65+,False,Thursday,
+LD-20260226-F4682710,2026-02-26,Townhouse,Portsmouth Village,1003.0,Flexible,Facebook Ads,Rent,Phone Call,Snow,4.81,55-64,False,Thursday,Low
+LD-20251219-2B11BABB,2025-12-19,Detached,Sydenham Ward,1475.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,2.88,25-34,True,Friday,High
+LD-20260111-F6EF321F,2026-01-11,Detached,Downtown,2206.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,1.8,35-44,False,Sunday,
+LD-20260209-451AFE91,2026-02-09,Apartment,Portsmouth Village,376.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,0.2,25-34,True,Monday,
+LD-20251229-14CB476A,2025-12-29,Detached,Strathcona Park,657.0,1 month,Facebook Ads,Own,SMS,Windy,6.28,45-54,False,Monday,
+LD-20260216-21074C36,2026-02-16,Detached,West End,2552.0,Flexible,Door-to-Door,Own,SMS,Sunny,4.95,25-34,False,Monday,High
+LD-20260223-B9A8FCBE,2026-02-23,Detached,Calvin Park,1793.0,ASAP,Facebook Ads,Own,SMS,Sunny,9.47,25-34,True,Monday,
+LD-20251231-688DC965,2025-12-31,Townhouse,Strathcona Park,1474.0,ASAP,Facebook Ads,Own,Email,Sunny,1.69,35-44,False,Wednesday,
+LD-20260216-B0D7F909,2026-02-16,Apartment,Strathcona Park,858.0,1-2 weeks,Door-to-Door,Own,Email,Cloudy,3.6,35-44,False,Monday,Medium
+LD-20260212-D025E7CE,2026-02-12,Apartment,Calvin Park,424.0,1 month,Lawn Signs,Rent,Email,Cloudy,6.1,65+,False,Thursday,Low
+LD-20260107-C9D6D36A,2026-01-07,Detached,Downtown,1022.0,1 month,Word of Mouth/Referral,Own,Phone Call,Windy,2.4,65+,True,Wednesday,
+LD-20260114-5B2B82B1,2026-01-14,Detached,West End,2481.0,1 month,Lawn Signs,Rent,Phone Call,Windy,3.96,55-64,False,Wednesday,High
+LD-20260129-AA79BEC1,2026-01-29,Townhouse,West End,1207.0,1 month,Facebook Ads,Own,SMS,Sunny,0.97,45-54,False,Thursday,Low
+LD-20260108-CB5A2ED6,2026-01-08,Detached,West End,2167.0,Flexible,Facebook Ads,Own,SMS,Cloudy,3.2,35-44,False,Thursday,
+LD-20260129-5E2AB7D4,2026-01-29,Townhouse,Downtown,1285.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,4.58,25-34,True,Thursday,Low
+LD-20251214-317C1070,2025-12-14,Apartment,West End,604.0,1 month,Door-to-Door,Own,Email,Snow,6.87,65+,False,Sunday,Low
+LD-20251213-57FCAE24,2025-12-13,Detached,Portsmouth Village,1406.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,5.84,45-54,False,Saturday,Medium
+LD-20251230-BAF20871,2025-12-30,Detached,Strathcona Park,1241.0,Flexible,Facebook Ads,Own,Email,Windy,4.7,25-34,True,Tuesday,Medium
+LD-20260102-0EE7F281,2026-01-02,Apartment,West End,794.0,ASAP,Door-to-Door,Own,Phone Call,Snow,0.54,45-54,True,Friday,Low
+LD-20260115-DBE9EEDE,2026-01-15,Apartment,Calvin Park,404.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,3.32,35-44,False,Thursday,
+LD-20251223-F421AA47,2025-12-23,Detached,Portsmouth Village,841.0,1 month,Door-to-Door,Own,Email,Sunny,2.93,45-54,True,Tuesday,
+LD-20260106-22906EAE,2026-01-06,Detached,Downtown,1944.0,Flexible,Word of Mouth/Referral,Rent,SMS,Sunny,4.23,35-44,False,Tuesday,High
+LD-20260122-94D2B6F7,2026-01-22,Townhouse,Downtown,857.0,Flexible,Lawn Signs,Own,SMS,Snow,5.73,25-34,True,Thursday,
+LD-20251216-B6F15029,2025-12-16,Townhouse,Downtown,1286.0,Flexible,Facebook Ads,Own,Email,Rain,2.76,55-64,False,Tuesday,
+LD-20260106-6599DDE6,2026-01-06,Detached,Sydenham Ward,1496.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,4.15,45-54,True,Tuesday,
+LD-20260217-E7291F81,2026-02-17,Townhouse,West End,1248.0,Flexible,Lawn Signs,Own,Phone Call,Windy,1.52,25-34,False,Tuesday,
+LD-20251224-3605F80C,2025-12-24,Detached,West End,2316.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Windy,6.06,35-44,False,Wednesday,
+LD-20260126-95E8AE23,2026-01-26,Detached,Portsmouth Village,1256.0,Flexible,Door-to-Door,Recently Purchased,SMS,Snow,4.81,45-54,True,Monday,Medium
+LD-20260111-3DA253C7,2026-01-11,Semi-Detached,Portsmouth Village,1234.0,Flexible,Door-to-Door,Rent,Phone Call,Sunny,2.76,25-34,False,Sunday,
+LD-20260208-738F711E,2026-02-08,Townhouse,Portsmouth Village,674.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,4.4,65+,True,Sunday,
+LD-20260228-8B6EC8FE,2026-02-28,Detached,Portsmouth Village,1685.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,4.08,35-44,False,Saturday,
+LD-20260128-A741BFC8,2026-01-28,Detached,Downtown,2079.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,2.76,65+,True,Wednesday,
+LD-20260123-E9FBE7BA,2026-01-23,Detached,Calvin Park,3238.0,ASAP,Word of Mouth/Referral,Own,SMS,Cloudy,4.54,55-64,False,Friday,High
+LD-20260209-4841655D,2026-02-09,Heritage Home,Downtown,2501.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,1.87,25-34,False,Monday,High
+LD-20260117-575A9BDD,2026-01-17,Detached,Downtown,2646.0,ASAP,Door-to-Door,Rent,Phone Call,Sunny,3.77,65+,False,Saturday,
+LD-20260225-EBFAACBF,2026-02-25,Heritage Home,Sydenham Ward,1102.0,Flexible,Lawn Signs,Own,SMS,Sunny,5.6,25-34,False,Wednesday,
+LD-20251207-663DB851,2025-12-07,Townhouse,Downtown,897.0,Flexible,Facebook Ads,Own,Email,Cloudy,4.25,65+,True,Sunday,
+LD-20260119-24935292,2026-01-19,Townhouse,West End,989.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Cloudy,3.27,55-64,False,Monday,
+LD-20260303-9EC8772D,2026-03-03,Townhouse,Strathcona Park,1254.0,Flexible,Facebook Ads,Own,SMS,Sunny,5.88,18-24,False,Tuesday,Medium
+LD-20260124-F7750AC0,2026-01-24,Apartment,Sydenham Ward,765.0,1 month,Word of Mouth/Referral,Own,Phone Call,Rain,3.6,18-24,False,Saturday,
+LD-20260125-CD8237B4,2026-01-25,Apartment,Sydenham Ward,654.0,Flexible,Door-to-Door,Own,Email,Rain,2.73,65+,False,Sunday,
+LD-20251207-880766B4,2025-12-07,Detached,West End,1477.0,1 month,Facebook Ads,Own,Email,Rain,5.24,65+,True,Sunday,
+LD-20260125-CBAAE0D9,2026-01-25,Detached,Portsmouth Village,2242.0,Flexible,Word of Mouth/Referral,Rent,SMS,Cloudy,2.43,25-34,True,Sunday,
+LD-20260210-75CA949D,2026-02-10,Apartment,Portsmouth Village,644.0,ASAP,Facebook Ads,Own,Email,Sunny,5.85,65+,True,Tuesday,Low
+LD-20260227-B320053B,2026-02-27,Apartment,Downtown,595.0,1 month,Facebook Ads,Own,SMS,Windy,1.27,25-34,False,Friday,Low
+LD-20260204-3956A2C9,2026-02-04,Apartment,Sydenham Ward,1147.0,1 month,Lawn Signs,Own,Email,Sunny,2.85,25-34,True,Wednesday,Low
+LD-20260108-B4DB11D6,2026-01-08,Detached,Downtown,2850.0,1 month,Facebook Ads,Own,SMS,Rain,3.09,65+,True,Thursday,
+LD-20260216-9B4728FC,2026-02-16,Townhouse,Strathcona Park,1324.0,1 month,Word of Mouth/Referral,Own,Email,Sunny,4.47,65+,False,Monday,
+LD-20260215-549CF536,2026-02-15,Semi-Detached,Downtown,1202.0,1-2 weeks,Facebook Ads,Rent,SMS,Rain,5.73,45-54,False,Sunday,Low
+LD-20260117-0314D3AD,2026-01-17,Detached,Calvin Park,2042.0,ASAP,Word of Mouth/Referral,Recently Purchased,Phone Call,Sunny,1.65,25-34,True,Saturday,
+LD-20260103-38E754B1,2026-01-03,Heritage Home,West End,2783.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,0.2,35-44,False,Saturday,High
+LD-20260124-4A99D668,2026-01-24,Townhouse,West End,425.0,Flexible,Facebook Ads,Own,SMS,Sunny,5.66,35-44,False,Saturday,Low
+LD-20260207-3FCBFBA1,2026-02-07,Semi-Detached,Sydenham Ward,1320.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,5.44,25-34,False,Saturday,Low
+LD-20251228-9B8356C8,2025-12-28,Apartment,West End,660.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,1.68,55-64,False,Sunday,Low
+LD-20251229-82B1A53F,2025-12-29,Detached,Calvin Park,1894.0,1 month,Word of Mouth/Referral,Rent,Email,Snow,1.07,45-54,False,Monday,High
+LD-20260103-6D45C4BB,2026-01-03,Apartment,Calvin Park,580.0,ASAP,Door-to-Door,Own,SMS,Cloudy,4.44,18-24,True,Saturday,
+LD-20260107-0FF738ED,2026-01-07,Detached,Sydenham Ward,1323.0,Flexible,Facebook Ads,Rent,SMS,Windy,2.67,65+,False,Wednesday,Low
+LD-20251216-E18B833A,2025-12-16,Townhouse,Strathcona Park,1333.0,Flexible,Lawn Signs,Rent,Phone Call,Rain,6.85,25-34,False,Tuesday,Low
+LD-20260129-7FB9B652,2026-01-29,Heritage Home,West End,2707.0,ASAP,Facebook Ads,Own,SMS,Sunny,1.27,45-54,False,Thursday,High
+LD-20260109-6D536382,2026-01-09,Semi-Detached,Portsmouth Village,914.0,ASAP,Facebook Ads,Own,SMS,Sunny,5.75,45-54,False,Friday,Low
+LD-20251214-981AFFBE,2025-12-14,Apartment,Strathcona Park,486.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,0.2,45-54,True,Sunday,Low
+LD-20251224-028E6A68,2025-12-24,Detached,West End,1675.0,ASAP,Lawn Signs,Own,Phone Call,Cloudy,5.03,18-24,False,Wednesday,High
+LD-20260201-62129D29,2026-02-01,Detached,Sydenham Ward,774.0,ASAP,Word of Mouth/Referral,Rent,Email,Sunny,1.48,35-44,False,Sunday,
+LD-20260117-33366B32,2026-01-17,Detached,West End,2807.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,3.76,55-64,False,Saturday,High
+LD-20260221-AADE4974,2026-02-21,Semi-Detached,Portsmouth Village,1445.0,1-2 weeks,Door-to-Door,Own,Phone Call,Rain,5.28,18-24,False,Saturday,
+LD-20251226-FD046233,2025-12-26,Semi-Detached,Strathcona Park,1222.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Sunny,0.38,45-54,False,Friday,Medium
+LD-20260221-1964C39D,2026-02-21,Apartment,Strathcona Park,954.0,Flexible,Door-to-Door,Recently Purchased,SMS,Snow,3.64,35-44,False,Saturday,High
+LD-20260114-BE79C1DC,2026-01-14,Semi-Detached,West End,991.0,Flexible,Word of Mouth/Referral,Recently Purchased,Phone Call,Rain,1.37,25-34,False,Wednesday,
+LD-20251229-94CB4971,2025-12-29,Detached,West End,1104.0,Flexible,Facebook Ads,Recently Purchased,SMS,Rain,5.52,55-64,True,Monday,
+LD-20251227-721A48E1,2025-12-27,Detached,West End,2593.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,4.88,25-34,False,Saturday,High
+LD-20260214-E9668C5B,2026-02-14,Townhouse,Sydenham Ward,1541.0,1-2 weeks,Door-to-Door,Rent,Phone Call,Sunny,0.43,65+,False,Saturday,Medium
+LD-20260303-02F99DB2,2026-03-03,Semi-Detached,West End,847.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,4.11,65+,False,Tuesday,
+LD-20260207-290A3605,2026-02-07,Semi-Detached,Sydenham Ward,948.0,Flexible,Facebook Ads,Rent,Email,Cloudy,6.43,25-34,False,Saturday,
+LD-20260202-4C9A53D9,2026-02-02,Detached,West End,2151.0,Flexible,Door-to-Door,Own,Email,Cloudy,2.88,65+,True,Monday,
+LD-20260226-7786EB58,2026-02-26,Semi-Detached,Portsmouth Village,1147.0,Flexible,Lawn Signs,Own,SMS,Sunny,1.9,45-54,False,Thursday,Medium
+LD-20251225-F7EBCD33,2025-12-25,Apartment,Portsmouth Village,490.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,4.86,35-44,True,Thursday,Low
+LD-20260215-F5BC2884,2026-02-15,Detached,Downtown,1295.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,4.39,45-54,False,Sunday,Medium
+LD-20251221-9DE76974,2025-12-21,Detached,Strathcona Park,1494.0,1 month,Lawn Signs,Own,Email,Cloudy,7.51,35-44,False,Sunday,Medium
+LD-20260220-DCDE1C7D,2026-02-20,Detached,Calvin Park,1602.0,1 month,Lawn Signs,Own,SMS,Cloudy,6.59,55-64,False,Friday,High
+LD-20251216-734C568B,2025-12-16,Apartment,Sydenham Ward,682.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,5.23,35-44,False,Tuesday,Low
+LD-20260302-3BB845D3,2026-03-02,Apartment,Sydenham Ward,584.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,6.33,55-64,True,Monday,
+LD-20251223-5A78CF08,2025-12-23,Townhouse,Downtown,268.0,Flexible,Facebook Ads,Own,Phone Call,Windy,3.43,25-34,True,Tuesday,
+LD-20251226-318C2DA6,2025-12-26,Semi-Detached,Calvin Park,1939.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.83,45-54,True,Friday,
+LD-20260116-F1BDF6E3,2026-01-16,Semi-Detached,West End,1374.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,1.89,18-24,False,Friday,High
+LD-20260304-764D9251,2026-03-04,Townhouse,West End,1056.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,1.37,25-34,True,Wednesday,
+LD-20251210-BF113947,2025-12-10,Townhouse,West End,1743.0,1-2 weeks,Lawn Signs,Rent,Email,Rain,4.92,18-24,False,Wednesday,High
+LD-20260227-8C18A2D9,2026-02-27,Detached,Calvin Park,1603.0,1 month,Door-to-Door,Own,Email,Cloudy,2.98,55-64,False,Friday,
+LD-20260216-DB379373,2026-02-16,Semi-Detached,West End,1622.0,1 month,Lawn Signs,Rent,SMS,Sunny,4.78,35-44,True,Monday,Medium
+LD-20251228-F2D13E58,2025-12-28,Townhouse,Sydenham Ward,1227.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,2.65,25-34,False,Sunday,
+LD-20260127-61AFDB1C,2026-01-27,Detached,Downtown,2099.0,ASAP,Lawn Signs,Own,Email,Rain,3.74,65+,False,Tuesday,
+LD-20251210-109027C2,2025-12-10,Apartment,Downtown,150.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,6.61,25-34,False,Wednesday,
+LD-20260103-7422664E,2026-01-03,Townhouse,Strathcona Park,718.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,1.83,25-34,False,Saturday,Low
+LD-20251223-8A6F1136,2025-12-23,Detached,Portsmouth Village,1565.0,1 month,Lawn Signs,Own,SMS,Cloudy,0.2,35-44,True,Tuesday,High
+LD-20260227-19D4AC2D,2026-02-27,Semi-Detached,West End,1421.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,4.06,55-64,True,Friday,Medium
+LD-20251208-68EE028A,2025-12-08,Detached,Sydenham Ward,1976.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Sunny,3.24,25-34,False,Monday,
+LD-20260210-A4F84C40,2026-02-10,Apartment,Sydenham Ward,634.0,1 month,Facebook Ads,Own,Phone Call,Windy,0.75,18-24,False,Tuesday,
+LD-20260301-9F9C3A6F,2026-03-01,Semi-Detached,Downtown,564.0,1 month,Lawn Signs,Own,SMS,Rain,7.68,45-54,False,Sunday,Low
+LD-20260121-800B806E,2026-01-21,Detached,Calvin Park,1569.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,0.66,35-44,False,Wednesday,High
+LD-20251214-0D21F473,2025-12-14,Detached,West End,618.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Cloudy,5.62,18-24,True,Sunday,
+LD-20260213-4180DA79,2026-02-13,Detached,Sydenham Ward,1877.0,Flexible,Facebook Ads,Own,SMS,Cloudy,0.2,35-44,False,Friday,
+LD-20260228-76283169,2026-02-28,Heritage Home,West End,1640.0,1-2 weeks,Facebook Ads,Own,Email,Rain,4.98,55-64,True,Saturday,
+LD-20260102-8B7865D3,2026-01-02,Heritage Home,Strathcona Park,2013.0,1-2 weeks,Facebook Ads,Rent,Email,Sunny,4.89,25-34,False,Friday,
+LD-20260206-A35E0B84,2026-02-06,Detached,Calvin Park,2073.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,4.99,18-24,False,Friday,
+LD-20260210-EC1E7390,2026-02-10,Townhouse,Portsmouth Village,973.0,1 month,Word of Mouth/Referral,Recently Purchased,Email,Sunny,2.86,35-44,False,Tuesday,
+LD-20251204-2CD1130D,2025-12-04,Detached,Downtown,1462.0,ASAP,Door-to-Door,Own,Email,Sunny,4.24,55-64,False,Thursday,
+LD-20251217-9B41447B,2025-12-17,Detached,Sydenham Ward,2471.0,ASAP,Facebook Ads,Own,SMS,Rain,4.67,65+,False,Wednesday,
+LD-20260216-6478F0CA,2026-02-16,Semi-Detached,Downtown,2149.0,1 month,Facebook Ads,Own,SMS,Cloudy,2.94,35-44,True,Monday,High
+LD-20260227-5E9E7269,2026-02-27,Apartment,Strathcona Park,357.0,1 month,Facebook Ads,Own,SMS,Snow,2.0,45-54,True,Friday,Low
+LD-20251218-2BAD0D6F,2025-12-18,Detached,Portsmouth Village,2125.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,4.84,35-44,False,Thursday,
+LD-20251210-CBA3592A,2025-12-10,Detached,West End,1213.0,1 month,Door-to-Door,Own,SMS,Cloudy,5.89,45-54,False,Wednesday,Medium
+LD-20251206-59B7BD2A,2025-12-06,Townhouse,West End,1831.0,1-2 weeks,Word of Mouth/Referral,Rent,SMS,Rain,2.99,45-54,True,Saturday,
+LD-20260112-1DC106F7,2026-01-12,Semi-Detached,Downtown,1611.0,ASAP,Facebook Ads,Own,Phone Call,Rain,5.16,25-34,False,Monday,Medium
+LD-20260127-A7A01D20,2026-01-27,Apartment,West End,150.0,1 month,Lawn Signs,Own,Email,Snow,4.23,55-64,False,Tuesday,
+LD-20260107-E33A9D4E,2026-01-07,Detached,West End,3161.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Snow,4.95,18-24,True,Wednesday,High
+LD-20251215-04D66E99,2025-12-15,Semi-Detached,West End,1711.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Snow,3.64,55-64,True,Monday,
+LD-20260117-06B0E5A9,2026-01-17,Semi-Detached,West End,893.0,Flexible,Lawn Signs,Own,SMS,Sunny,4.51,45-54,True,Saturday,
+LD-20260126-F496F71D,2026-01-26,Semi-Detached,West End,2345.0,ASAP,Door-to-Door,Own,SMS,Cloudy,2.69,55-64,False,Monday,High
+LD-20260224-9FAA82C4,2026-02-24,Detached,Sydenham Ward,1742.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Sunny,1.79,65+,False,Tuesday,High
+LD-20251209-AE28E24E,2025-12-09,Apartment,Sydenham Ward,613.0,Flexible,Lawn Signs,Rent,Phone Call,Cloudy,4.33,55-64,False,Tuesday,Low
+LD-20260210-C40ADB97,2026-02-10,Semi-Detached,West End,1462.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,5.96,25-34,False,Tuesday,
+LD-20251224-D5EE157F,2025-12-24,Detached,Downtown,1590.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Cloudy,5.51,55-64,False,Wednesday,Medium
+LD-20260203-8B163EC9,2026-02-03,Townhouse,Portsmouth Village,631.0,1 month,Facebook Ads,Rent,SMS,Sunny,3.47,45-54,True,Tuesday,
+LD-20260119-09CD1A2F,2026-01-19,Apartment,West End,731.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,4.25,25-34,False,Monday,
+LD-20260215-95B4C08C,2026-02-15,Detached,Sydenham Ward,2688.0,1 month,Door-to-Door,Rent,Phone Call,Rain,4.99,18-24,True,Sunday,High
+LD-20260216-4408FA33,2026-02-16,Apartment,Calvin Park,918.0,1 month,Facebook Ads,Own,SMS,Rain,4.17,55-64,False,Monday,
+LD-20260224-CDB8E524,2026-02-24,Detached,Strathcona Park,1773.0,Flexible,Facebook Ads,Own,Email,Cloudy,4.97,45-54,True,Tuesday,
+LD-20251213-59A49A4F,2025-12-13,Detached,West End,2172.0,1 month,Lawn Signs,Own,Phone Call,Windy,4.7,55-64,False,Saturday,High
+LD-20251231-7FBAA308,2025-12-31,Detached,Downtown,1360.0,1-2 weeks,Facebook Ads,Own,Phone Call,Snow,5.64,25-34,False,Wednesday,
+LD-20260302-FB15D221,2026-03-02,Semi-Detached,Portsmouth Village,1025.0,1-2 weeks,Lawn Signs,Rent,Email,Cloudy,0.2,55-64,True,Monday,
+LD-20251210-0753D029,2025-12-10,Detached,Downtown,1304.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,3.71,55-64,True,Wednesday,High
+LD-20260227-380A1F39,2026-02-27,Detached,Sydenham Ward,1549.0,Flexible,Lawn Signs,Recently Purchased,Email,Sunny,7.78,45-54,False,Friday,High
+LD-20260116-03F576D9,2026-01-16,Apartment,Strathcona Park,827.0,1-2 weeks,Word of Mouth/Referral,Recently Purchased,SMS,Rain,2.68,45-54,True,Friday,
+LD-20260122-2BC72F92,2026-01-22,Apartment,Sydenham Ward,777.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,5.77,25-34,False,Thursday,
+LD-20260303-6F037929,2026-03-03,Townhouse,Strathcona Park,1252.0,1 month,Lawn Signs,Own,Phone Call,Windy,2.4,45-54,False,Tuesday,Medium
+LD-20260227-470DCD37,2026-02-27,Detached,Strathcona Park,732.0,1-2 weeks,Door-to-Door,Recently Purchased,Phone Call,Rain,2.74,45-54,True,Friday,
+LD-20260101-2958E890,2026-01-01,Detached,Strathcona Park,2413.0,Flexible,Facebook Ads,Own,Email,Sunny,1.97,35-44,False,Thursday,
+LD-20251225-6BCB80F9,2025-12-25,Detached,West End,1034.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,3.05,35-44,False,Thursday,Medium
+LD-20260103-A605CD8F,2026-01-03,Apartment,Sydenham Ward,795.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Rain,4.5,55-64,False,Saturday,Medium
+LD-20251208-E820025F,2025-12-08,Apartment,West End,374.0,Flexible,Facebook Ads,Own,SMS,Cloudy,0.81,45-54,True,Monday,Low
+LD-20260102-E60F773F,2026-01-02,Semi-Detached,West End,1862.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Sunny,5.77,35-44,False,Friday,
+LD-20260122-1DA1E588,2026-01-22,Semi-Detached,Downtown,586.0,ASAP,Door-to-Door,Own,Email,Sunny,0.96,65+,True,Thursday,Low
+LD-20260206-97D2AB57,2026-02-06,Apartment,Downtown,890.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.13,25-34,True,Friday,Low
+LD-20260112-35D20668,2026-01-12,Detached,West End,978.0,ASAP,Door-to-Door,Recently Purchased,Email,Rain,3.63,35-44,False,Monday,Low
+LD-20260108-7352D2E9,2026-01-08,Detached,Calvin Park,2499.0,Flexible,Door-to-Door,Own,SMS,Cloudy,3.5949999999999998,45-54,True,Thursday,High
+LD-20260105-E9E286A9,2026-01-05,Townhouse,Portsmouth Village,596.0,Flexible,Lawn Signs,Own,Email,Rain,8.42,35-44,False,Monday,
+LD-20260116-F765CBDC,2026-01-16,Apartment,Downtown,339.0,1 month,Facebook Ads,Own,SMS,Cloudy,6.79,25-34,True,Friday,
+LD-20260206-B1E72531,2026-02-06,Detached,Calvin Park,1692.0,Flexible,Lawn Signs,Own,Email,Sunny,4.04,55-64,True,Friday,
+LD-20260227-95ABAAE9,2026-02-27,Detached,Calvin Park,1943.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,5.85,35-44,False,Friday,
+LD-20260228-6D973D03,2026-02-28,Detached,Downtown,1219.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,6.14,65+,True,Saturday,
+LD-20260111-3599E7EF,2026-01-11,Detached,West End,2056.0,ASAP,Word of Mouth/Referral,Own,SMS,Cloudy,5.79,45-54,True,Sunday,High
+LD-20260215-BF9DAAC2,2026-02-15,Detached,Portsmouth Village,1792.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Cloudy,3.08,45-54,True,Sunday,
+LD-20260303-498FF5FE,2026-03-03,Heritage Home,Sydenham Ward,2408.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,3.6,18-24,False,Tuesday,
+LD-20260210-40375706,2026-02-10,Apartment,West End,749.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,0.52,65+,False,Tuesday,
+LD-20260116-836F7A0B,2026-01-16,Heritage Home,Downtown,1912.0,Flexible,Facebook Ads,Own,Phone Call,Windy,6.47,35-44,True,Friday,
+LD-20251210-53BEC350,2025-12-10,Detached,Portsmouth Village,878.0,ASAP,Word of Mouth/Referral,Rent,Phone Call,Sunny,4.86,55-64,False,Wednesday,
+LD-20260208-54E3272C,2026-02-08,Detached,Portsmouth Village,960.0,1 month,Facebook Ads,Own,SMS,Cloudy,2.95,55-64,True,Sunday,Low
+LD-20251222-2095555D,2025-12-22,Townhouse,Downtown,1112.0,1 month,Lawn Signs,Own,Phone Call,Rain,4.2,35-44,True,Monday,Medium
+LD-20260105-D088F164,2026-01-05,Semi-Detached,Sydenham Ward,1481.0,ASAP,Facebook Ads,Own,SMS,Windy,4.31,45-54,False,Monday,
+LD-20260126-5802DB52,2026-01-26,Detached,Downtown,2134.0,1 month,Facebook Ads,Rent,SMS,Rain,3.35,45-54,True,Monday,
+LD-20260110-11359769,2026-01-10,Semi-Detached,Strathcona Park,1117.0,Flexible,Word of Mouth/Referral,Own,SMS,Cloudy,3.1,65+,False,Saturday,High
+LD-20260301-4D6E2428,2026-03-01,Detached,Sydenham Ward,1855.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,3.99,35-44,False,Sunday,
+LD-20260111-242991A8,2026-01-11,Detached,Portsmouth Village,1547.0,1 month,Lawn Signs,Own,Phone Call,Sunny,0.2,25-34,True,Sunday,
+LD-20260128-92298AEE,2026-01-28,Apartment,Strathcona Park,626.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.38,25-34,False,Wednesday,Low
+LD-20260213-3DAAC1F8,2026-02-13,Semi-Detached,Downtown,1528.0,ASAP,Facebook Ads,Recently Purchased,SMS,Sunny,2.38,25-34,True,Friday,
+LD-20260113-14471B4F,2026-01-13,Detached,Strathcona Park,1646.0,1-2 weeks,Facebook Ads,Rent,Email,Sunny,4.15,25-34,True,Tuesday,Low
+LD-20251217-73BF0AE4,2025-12-17,Semi-Detached,West End,1631.0,Flexible,Word of Mouth/Referral,Own,SMS,Rain,5.06,18-24,False,Wednesday,Medium
+LD-20260111-9323D1B4,2026-01-11,Townhouse,West End,1129.0,Flexible,Door-to-Door,Rent,Email,Cloudy,4.24,45-54,False,Sunday,Medium
+LD-20260202-4F447419,2026-02-02,Detached,Downtown,1817.0,Flexible,Word of Mouth/Referral,Rent,Email,Cloudy,1.13,25-34,True,Monday,High
+LD-20260131-CAAE5571,2026-01-31,Detached,Downtown,1134.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,9.08,25-34,True,Saturday,High
+LD-20251214-F21623A1,2025-12-14,Apartment,Downtown,446.0,ASAP,Facebook Ads,Recently Purchased,SMS,Rain,2.13,45-54,True,Sunday,
+LD-20260302-995E042D,2026-03-02,Detached,Strathcona Park,623.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Sunny,2.1,25-34,False,Monday,Medium
+LD-20260207-5CEF2354,2026-02-07,Detached,Calvin Park,1687.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,1.38,65+,False,Saturday,
+LD-20260113-FB2BDF9A,2026-01-13,Detached,West End,1920.0,1 month,Door-to-Door,Own,SMS,Sunny,2.76,18-24,True,Tuesday,High
+LD-20260220-1CC4E97A,2026-02-20,Apartment,West End,1044.0,Flexible,Door-to-Door,Own,SMS,Cloudy,6.33,65+,False,Friday,Medium
+LD-20260304-9F216F3B,2026-03-04,Detached,Calvin Park,1521.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,2.1,25-34,True,Wednesday,
+LD-20260224-92E1E847,2026-02-24,Apartment,Portsmouth Village,695.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.04,55-64,False,Tuesday,
+LD-20260202-C056CECF,2026-02-02,Semi-Detached,Calvin Park,754.0,1 month,Door-to-Door,Recently Purchased,Email,Rain,6.17,65+,True,Monday,Low
+LD-20260113-5BB7415C,2026-01-13,Detached,West End,1543.0,Flexible,Facebook Ads,Own,Email,Sunny,3.07,18-24,False,Tuesday,
+LD-20251225-AB7C4625,2025-12-25,Detached,Sydenham Ward,1817.0,1 month,Lawn Signs,Own,SMS,Rain,3.42,55-64,True,Thursday,High
+LD-20260102-110FF3B3,2026-01-02,Apartment,Sydenham Ward,477.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,2.22,45-54,True,Friday,
+LD-20260128-3C8780CB,2026-01-28,Semi-Detached,Calvin Park,921.0,1-2 weeks,Facebook Ads,Rent,SMS,Snow,3.99,65+,False,Wednesday,
+LD-20260115-834E2662,2026-01-15,Apartment,Calvin Park,618.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.66,35-44,False,Thursday,
+LD-20260219-11BDB210,2026-02-19,Townhouse,Portsmouth Village,1263.0,1 month,Lawn Signs,Own,SMS,Cloudy,5.03,35-44,False,Thursday,Medium
+LD-20260219-CD44298C,2026-02-19,Semi-Detached,Portsmouth Village,1019.0,Flexible,Door-to-Door,Rent,SMS,Cloudy,3.01,65+,True,Thursday,Low
+LD-20260103-ADECCA62,2026-01-03,Apartment,Strathcona Park,306.0,Flexible,Door-to-Door,Own,SMS,Rain,4.17,35-44,True,Saturday,
+LD-20260304-79BC7118,2026-03-04,Detached,Downtown,1280.0,Flexible,Lawn Signs,Own,Phone Call,Snow,5.29,35-44,False,Wednesday,
+LD-20260117-622CF971,2026-01-17,Detached,West End,1702.0,1-2 weeks,Door-to-Door,Own,Email,Rain,1.94,35-44,True,Saturday,
+LD-20260104-0CE484F7,2026-01-04,Apartment,Sydenham Ward,284.0,1 month,Lawn Signs,Own,SMS,Sunny,5.45,25-34,False,Sunday,Low
+LD-20251216-25C7F8DA,2025-12-16,Apartment,Calvin Park,831.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.42,25-34,True,Tuesday,Low
+LD-20260202-4B565DCE,2026-02-02,Heritage Home,Strathcona Park,2985.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,5.42,25-34,False,Monday,
+LD-20260224-856BD441,2026-02-24,Townhouse,Calvin Park,944.0,1-2 weeks,Door-to-Door,Rent,SMS,Rain,4.08,35-44,True,Tuesday,Medium
+LD-20251231-175FC2DD,2025-12-31,Semi-Detached,West End,1741.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,2.92,45-54,False,Wednesday,
+LD-20260110-5FE6B331,2026-01-10,Semi-Detached,Downtown,1282.0,Flexible,Door-to-Door,Own,SMS,Snow,1.56,45-54,False,Saturday,Medium
+LD-20260113-3937F909,2026-01-13,Semi-Detached,Downtown,956.0,ASAP,Door-to-Door,Rent,Phone Call,Sunny,3.81,25-34,False,Tuesday,
+LD-20260123-7D8D5E5C,2026-01-23,Detached,West End,2419.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,1.81,35-44,True,Friday,High
+LD-20251211-C9FBB7B0,2025-12-11,Heritage Home,West End,2752.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,4.95,65+,True,Thursday,
+LD-20260123-C864821C,2026-01-23,Apartment,Portsmouth Village,517.0,ASAP,Door-to-Door,Own,Email,Snow,3.23,45-54,False,Friday,
+LD-20260129-5BDC12E9,2026-01-29,Detached,Sydenham Ward,1558.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.71,25-34,True,Thursday,
+LD-20260105-1B45F7BC,2026-01-05,Townhouse,West End,901.0,1 month,Lawn Signs,Own,Email,Rain,2.27,25-34,False,Monday,Low
+LD-20260114-C6C83FF1,2026-01-14,Semi-Detached,Downtown,1268.0,Flexible,Word of Mouth/Referral,Own,Email,Rain,3.8,18-24,False,Wednesday,
+LD-20251225-EF10DF38,2025-12-25,Detached,West End,1820.0,Flexible,Lawn Signs,Rent,SMS,Cloudy,2.99,18-24,True,Thursday,
+LD-20260101-5CB99FC7,2026-01-01,Detached,Strathcona Park,2475.0,1-2 weeks,Lawn Signs,Rent,SMS,Windy,3.92,45-54,False,Thursday,
+LD-20260201-0ED9A096,2026-02-01,Apartment,West End,840.0,ASAP,Facebook Ads,Own,Phone Call,Rain,1.93,35-44,False,Sunday,
+LD-20260214-C4DF20D4,2026-02-14,Detached,Sydenham Ward,3254.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.6,65+,False,Saturday,
+LD-20251216-8D1CEBE7,2025-12-16,Apartment,West End,507.0,Flexible,Facebook Ads,Own,SMS,Sunny,2.76,35-44,True,Tuesday,
+LD-20251228-01BA9519,2025-12-28,Semi-Detached,Strathcona Park,1285.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Cloudy,6.47,45-54,False,Sunday,Medium
+LD-20251205-B9FA4E89,2025-12-05,Detached,Calvin Park,1334.0,Flexible,Lawn Signs,Own,Email,Rain,4.01,25-34,False,Friday,
+LD-20260117-169C9131,2026-01-17,Detached,Downtown,2119.0,Flexible,Facebook Ads,Rent,Email,Sunny,2.71,65+,False,Saturday,
+LD-20260125-7E4C7F45,2026-01-25,Heritage Home,West End,957.0,Flexible,Facebook Ads,Own,SMS,Snow,1.75,45-54,True,Sunday,
+LD-20251213-64E6E2B6,2025-12-13,Semi-Detached,West End,983.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Rain,4.25,65+,True,Saturday,
+LD-20260101-4B6BC507,2026-01-01,Detached,West End,1897.0,Flexible,Word of Mouth/Referral,Rent,Email,Sunny,3.33,65+,True,Thursday,Medium
+LD-20260106-6466A9CD,2026-01-06,Detached,Downtown,1793.0,Flexible,Lawn Signs,Rent,Phone Call,Sunny,2.69,55-64,False,Tuesday,Medium
+LD-20251215-6EF082D0,2025-12-15,Townhouse,West End,966.0,Flexible,Lawn Signs,Own,Phone Call,Cloudy,2.85,25-34,True,Monday,Low
+LD-20260104-B2B9CE25,2026-01-04,Detached,Strathcona Park,2590.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,1.66,55-64,True,Sunday,High
+LD-20260227-410AFE65,2026-02-27,Townhouse,Downtown,1347.0,Flexible,Facebook Ads,Own,SMS,Sunny,5.17,55-64,False,Friday,
+LD-20260214-743EE571,2026-02-14,Detached,Strathcona Park,1392.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,1.96,35-44,False,Saturday,
+LD-20251222-27ABF116,2025-12-22,Detached,Portsmouth Village,809.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Cloudy,5.39,18-24,False,Monday,Medium
+LD-20251221-BB607781,2025-12-21,Semi-Detached,Downtown,1665.0,ASAP,Lawn Signs,Rent,Email,Sunny,3.43,35-44,True,Sunday,
+LD-20251231-246D726B,2025-12-31,Apartment,West End,392.0,Flexible,Door-to-Door,Own,SMS,Cloudy,1.52,25-34,False,Wednesday,
+LD-20260103-5BED7545,2026-01-03,Semi-Detached,West End,1044.0,Flexible,Door-to-Door,Own,Email,Sunny,5.71,35-44,False,Saturday,
+LD-20260210-78D68E41,2026-02-10,Detached,Portsmouth Village,1971.0,Flexible,Lawn Signs,Own,Phone Call,Rain,4.37,35-44,False,Tuesday,
+LD-20260201-EEABA671,2026-02-01,Heritage Home,Strathcona Park,1279.0,1 month,Facebook Ads,Own,SMS,Sunny,0.2,18-24,True,Sunday,
+LD-20260228-203B0391,2026-02-28,Semi-Detached,Downtown,996.0,Flexible,Lawn Signs,Own,Email,Sunny,3.13,18-24,False,Saturday,
+LD-20260226-7649DEDB,2026-02-26,Detached,West End,2056.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,7.06,35-44,True,Thursday,
+LD-20260105-BF0AFEDE,2026-01-05,Detached,Strathcona Park,1552.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,4.59,35-44,True,Monday,
+LD-20251204-A858B6C9,2025-12-04,Apartment,Portsmouth Village,572.0,1-2 weeks,Door-to-Door,Recently Purchased,Email,Cloudy,4.49,25-34,False,Thursday,Medium
+LD-20260210-27C5410A,2026-02-10,Detached,West End,2586.0,1 month,Door-to-Door,Own,Email,Rain,2.88,18-24,True,Tuesday,
+LD-20251211-D6F0C8E1,2025-12-11,Apartment,West End,187.0,1-2 weeks,Door-to-Door,Own,Email,Rain,5.61,55-64,True,Thursday,
+LD-20260210-AB937FE0,2026-02-10,Detached,Sydenham Ward,2756.0,1 month,Door-to-Door,Rent,Email,Cloudy,5.04,55-64,False,Tuesday,
+LD-20251204-F1569C4B,2025-12-04,Detached,Downtown,1259.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,5.95,35-44,False,Thursday,Medium
+LD-20251206-C5FB395C,2025-12-06,Townhouse,Strathcona Park,791.0,Flexible,Lawn Signs,Own,SMS,Cloudy,1.54,18-24,False,Saturday,Low
+LD-20260210-942319F3,2026-02-10,Detached,Downtown,1162.0,1 month,Facebook Ads,Own,SMS,Cloudy,3.08,55-64,False,Tuesday,Medium
+LD-20251220-112A294C,2025-12-20,Detached,Sydenham Ward,595.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,2.41,55-64,False,Saturday,
+LD-20260210-1E58B293,2026-02-10,Townhouse,Strathcona Park,592.0,1 month,Word of Mouth/Referral,Own,SMS,Rain,5.38,25-34,False,Tuesday,Low
+LD-20251230-27C96D8E,2025-12-30,Detached,Calvin Park,1641.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.68,25-34,False,Tuesday,
+LD-20260117-AE6D2D5E,2026-01-17,Townhouse,Portsmouth Village,1418.0,Flexible,Facebook Ads,Own,SMS,Cloudy,1.23,65+,False,Saturday,Medium
+LD-20260101-75F1DBA4,2026-01-01,Semi-Detached,Sydenham Ward,1032.0,Flexible,Facebook Ads,Own,SMS,Snow,4.94,18-24,False,Thursday,Low
+LD-20260228-5B7BE693,2026-02-28,Apartment,Strathcona Park,518.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Sunny,0.2,65+,False,Saturday,
+LD-20251226-80B34A93,2025-12-26,Heritage Home,Downtown,1537.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,2.61,55-64,True,Friday,
+LD-20260124-D921A136,2026-01-24,Apartment,Calvin Park,396.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,2.55,35-44,False,Saturday,
+LD-20260116-C872B28B,2026-01-16,Apartment,Sydenham Ward,362.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Sunny,3.62,18-24,False,Friday,Low
+LD-20260201-CB4770DB,2026-02-01,Townhouse,West End,598.0,Flexible,Facebook Ads,Own,SMS,Rain,6.42,25-34,False,Sunday,
+LD-20251204-E165333F,2025-12-04,Apartment,Strathcona Park,428.0,1 month,Facebook Ads,Recently Purchased,SMS,Cloudy,9.76,35-44,True,Thursday,
+LD-20251210-1078DC43,2025-12-10,Apartment,West End,791.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,2.25,35-44,True,Wednesday,
+LD-20251218-C575FBF9,2025-12-18,Apartment,West End,465.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Rain,4.33,45-54,True,Thursday,Medium
+LD-20260202-9FD99EE1,2026-02-02,Townhouse,Strathcona Park,1156.0,1 month,Facebook Ads,Own,Phone Call,Windy,0.2,55-64,False,Monday,
+LD-20251211-6FF4648B,2025-12-11,Detached,Sydenham Ward,1233.0,ASAP,Door-to-Door,Own,Phone Call,Snow,5.32,45-54,True,Thursday,
+LD-20251230-523A3141,2025-12-30,Heritage Home,Downtown,2013.0,Flexible,Word of Mouth/Referral,Recently Purchased,SMS,Sunny,1.39,25-34,False,Tuesday,
+LD-20260217-FD3148D4,2026-02-17,Detached,Portsmouth Village,1051.0,Flexible,Facebook Ads,Own,SMS,Sunny,0.2,25-34,True,Tuesday,Low
+LD-20260302-BFC9A7E6,2026-03-02,Detached,Downtown,1680.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,2.99,65+,True,Monday,
+LD-20260203-03ACD542,2026-02-03,Detached,Calvin Park,2291.0,1 month,Word of Mouth/Referral,Own,Email,Cloudy,3.64,45-54,False,Tuesday,High
+LD-20260122-07CC83F9,2026-01-22,Townhouse,Portsmouth Village,1071.0,ASAP,Door-to-Door,Own,SMS,Snow,0.98,35-44,True,Thursday,Low
+LD-20251218-C1B785F1,2025-12-18,Semi-Detached,Sydenham Ward,2202.0,1 month,Facebook Ads,Rent,Email,Rain,4.7,25-34,False,Thursday,
+LD-20260227-9538A2A7,2026-02-27,Heritage Home,West End,2593.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Rain,0.31,35-44,False,Friday,
+LD-20260214-A556358A,2026-02-14,Townhouse,West End,1331.0,Flexible,Facebook Ads,Own,Email,Sunny,0.48,35-44,True,Saturday,
+LD-20260125-7E44007C,2026-01-25,Detached,Downtown,1821.0,ASAP,Facebook Ads,Own,SMS,Sunny,0.2,35-44,True,Sunday,Medium
