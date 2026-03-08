@@ -1,0 +1,568 @@
+property_type,neighbourhood,estimated_job_size_sqft,requested_timeline,referral_source,homeowner_status,preferred_contact,lead_capture_weather,distance_to_queens_km,customer_age_bracket,has_pets,lead_weekday,lead_month_sin,lead_month_cos
+Apartment,Sydenham Ward,477.0,Flexible,Door-to-Door,Own,SMS,Windy,0.2,35-44,True,Friday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1075.0,ASAP,Door-to-Door,Own,SMS,Windy,2.23,45-54,False,Sunday,-2.4492935982947064e-16,1.0
+Apartment,Sydenham Ward,391.0,1 month,Door-to-Door,Own,SMS,Rain,2.95,25-34,False,Tuesday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1340.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,3.28,18-24,True,Monday,-2.4492935982947064e-16,1.0
+Townhouse,Strathcona Park,1431.0,Flexible,Door-to-Door,Own,SMS,Cloudy,4.53,35-44,False,Wednesday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1148.0,Flexible,Facebook Ads,Own,SMS,Snow,1.78,25-34,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Strathcona Park,1129.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Snow,2.92,45-54,True,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,1203.0,Flexible,Facebook Ads,Rent,Email,Cloudy,2.36,65+,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,1061.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,3.51,45-54,False,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,Portsmouth Village,445.0,1 month,Facebook Ads,Own,Email,Sunny,2.16,35-44,False,Sunday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,2352.0,Flexible,Word of Mouth/Referral,Own,SMS,Sunny,7.88,65+,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,612.0,ASAP,Door-to-Door,Rent,Email,Windy,5.25,45-54,True,Friday,-2.4492935982947064e-16,1.0
+Apartment,Strathcona Park,848.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Windy,5.84,55-64,False,Saturday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1065.0,Flexible,Facebook Ads,Rent,Email,Sunny,2.03,55-64,True,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,West End,475.0,1 month,Door-to-Door,Own,SMS,Sunny,4.93,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1046.0,1 month,Lawn Signs,Own,Phone Call,Rain,1.13,45-54,True,Friday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,2044.0,1-2 weeks,Lawn Signs,Rent,SMS,Cloudy,4.44,45-54,True,Monday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,1213.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,5.24,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,1004.0,Flexible,Facebook Ads,Own,SMS,Rain,2.63,55-64,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1726.0,1 month,Lawn Signs,Own,SMS,Cloudy,2.83,18-24,True,Tuesday,1.0,6.123233995736766e-17
+Detached,West End,1268.0,Flexible,Facebook Ads,Own,SMS,Cloudy,1.87,65+,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,731.0,ASAP,Facebook Ads,Own,Email,Windy,4.56,35-44,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,West End,2738.0,1 month,Facebook Ads,Rent,Phone Call,Rain,0.2,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Heritage Home,Calvin Park,2373.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.92,55-64,True,Monday,-2.4492935982947064e-16,1.0
+Apartment,West End,866.0,Flexible,Door-to-Door,Own,Phone Call,Windy,1.85,25-34,False,Thursday,-2.4492935982947064e-16,1.0
+Detached,Downtown,670.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.46,55-64,False,Saturday,-2.4492935982947064e-16,1.0
+Townhouse,Strathcona Park,1194.0,1 month,Facebook Ads,Rent,SMS,Rain,5.4,25-34,True,Friday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,863.0,1 month,Lawn Signs,Recently Purchased,Email,Cloudy,4.97,45-54,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1925.0,Flexible,Lawn Signs,Recently Purchased,Phone Call,Rain,1.95,25-34,True,Saturday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,1495.0,1 month,Word of Mouth/Referral,Own,Email,Rain,2.1,35-44,True,Tuesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Strathcona Park,948.0,ASAP,Facebook Ads,Rent,Email,Rain,0.51,25-34,False,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,West End,2077.0,Flexible,Lawn Signs,Own,Email,Sunny,1.25,45-54,False,Thursday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,1208.0,Flexible,Facebook Ads,Own,Email,Rain,2.72,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,1326.0,Flexible,Facebook Ads,Own,Email,Snow,0.2,55-64,False,Wednesday,-2.4492935982947064e-16,1.0
+Apartment,West End,655.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,3.96,45-54,False,Sunday,1.0,6.123233995736766e-17
+Detached,Downtown,1096.0,1 month,Facebook Ads,Recently Purchased,SMS,Cloudy,5.33,25-34,True,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Portsmouth Village,1380.0,Flexible,Facebook Ads,Own,Email,Sunny,4.21,45-54,False,Sunday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,949.0,1 month,Door-to-Door,Own,Phone Call,Rain,3.06,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,801.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,4.61,35-44,True,Sunday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,1179.0,1-2 weeks,Door-to-Door,Rent,Phone Call,Cloudy,1.23,55-64,True,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,1983.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Cloudy,4.63,35-44,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Strathcona Park,360.0,1 month,Lawn Signs,Own,SMS,Rain,4.87,25-34,True,Tuesday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,1465.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.35,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1945.0,ASAP,Facebook Ads,Own,SMS,Rain,4.59,18-24,True,Tuesday,0.8660254037844386,0.5000000000000001
+Heritage Home,Portsmouth Village,1510.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,6.92,55-64,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,West End,1140.0,ASAP,Facebook Ads,Own,Email,Sunny,4.02,65+,False,Friday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1975.0,ASAP,Door-to-Door,Rent,Email,Rain,8.37,55-64,True,Wednesday,0.8660254037844386,0.5000000000000001
+Apartment,West End,607.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,0.92,25-34,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2139.0,Flexible,Facebook Ads,Own,Email,Sunny,7.92,35-44,True,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,West End,309.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,5.15,25-34,True,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,713.0,1 month,Door-to-Door,Own,SMS,Sunny,1.74,25-34,False,Thursday,0.8660254037844386,0.5000000000000001
+Townhouse,Calvin Park,1169.0,1 month,Lawn Signs,Own,SMS,Rain,8.04,25-34,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1636.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,7.18,35-44,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1654.0,Flexible,Facebook Ads,Rent,SMS,Sunny,1.54,65+,False,Sunday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,2906.0,Flexible,Door-to-Door,Own,Phone Call,Cloudy,3.13,45-54,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1366.0,ASAP,Door-to-Door,Own,Phone Call,Snow,2.72,45-54,False,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,511.0,1 month,Facebook Ads,Own,Phone Call,Rain,2.1,35-44,False,Friday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,387.0,1-2 weeks,Door-to-Door,Rent,Email,Snow,3.53,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1903.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,3.68,65+,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,West End,1423.0,ASAP,Facebook Ads,Own,Phone Call,Rain,6.43,55-64,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Calvin Park,507.0,ASAP,Word of Mouth/Referral,Rent,Email,Rain,4.39,25-34,True,Thursday,-2.4492935982947064e-16,1.0
+Apartment,West End,883.0,ASAP,Door-to-Door,Own,SMS,Sunny,1.63,25-34,False,Friday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,875.0,Flexible,Lawn Signs,Own,Email,Sunny,1.87,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Townhouse,Portsmouth Village,924.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.53,45-54,False,Friday,-2.4492935982947064e-16,1.0
+Apartment,West End,204.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,3.44,18-24,False,Friday,-2.4492935982947064e-16,1.0
+Detached,West End,2963.0,1 month,Door-to-Door,Rent,SMS,Sunny,5.61,45-54,False,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,2503.0,ASAP,Facebook Ads,Recently Purchased,Email,Windy,3.75,45-54,True,Saturday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,982.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,4.66,65+,True,Monday,0.49999999999999994,0.8660254037844387
+Townhouse,Downtown,998.0,1-2 weeks,Door-to-Door,Own,Email,Cloudy,2.94,45-54,True,Monday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1731.0,Flexible,Lawn Signs,Own,SMS,Sunny,5.36,65+,False,Sunday,1.0,6.123233995736766e-17
+Apartment,Downtown,583.0,1 month,Facebook Ads,Recently Purchased,Email,Windy,2.43,18-24,True,Monday,-2.4492935982947064e-16,1.0
+Detached,Portsmouth Village,1699.0,1-2 weeks,Door-to-Door,Own,Phone Call,Snow,5.61,55-64,True,Saturday,-2.4492935982947064e-16,1.0
+Townhouse,West End,998.0,ASAP,Facebook Ads,Own,Email,Sunny,5.08,65+,True,Tuesday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1375.0,1 month,Door-to-Door,Own,Phone Call,Sunny,6.09,18-24,False,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,987.0,Flexible,Facebook Ads,Own,Email,Rain,2.54,25-34,False,Saturday,-2.4492935982947064e-16,1.0
+Townhouse,Calvin Park,998.0,1 month,Door-to-Door,Rent,Phone Call,Sunny,4.07,35-44,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,3174.0,Flexible,Lawn Signs,Recently Purchased,SMS,Cloudy,6.41,18-24,False,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,West End,669.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.5,65+,False,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1268.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Sunny,2.84,35-44,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1426.0,ASAP,Lawn Signs,Recently Purchased,Phone Call,Rain,4.64,45-54,False,Tuesday,1.0,6.123233995736766e-17
+Townhouse,Portsmouth Village,780.0,1 month,Lawn Signs,Rent,SMS,Rain,5.6,18-24,False,Friday,-2.4492935982947064e-16,1.0
+Apartment,Calvin Park,564.0,1-2 weeks,Door-to-Door,Rent,Email,Rain,3.96,45-54,True,Friday,-2.4492935982947064e-16,1.0
+Detached,West End,1816.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Sunny,3.58,55-64,True,Sunday,1.0,6.123233995736766e-17
+Apartment,Downtown,882.0,1-2 weeks,Facebook Ads,Rent,SMS,Cloudy,1.24,25-34,False,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Strathcona Park,575.0,Flexible,Word of Mouth/Referral,Own,SMS,Windy,3.18,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1458.0,Flexible,Facebook Ads,Own,Phone Call,Windy,0.2,65+,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Strathcona Park,308.0,ASAP,Facebook Ads,Own,Email,Sunny,4.85,25-34,False,Wednesday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,1189.0,ASAP,Facebook Ads,Own,SMS,Sunny,7.32,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,Downtown,1566.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.72,45-54,True,Sunday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,2453.0,1 month,Lawn Signs,Own,Email,Cloudy,1.21,45-54,False,Monday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,943.0,1 month,Door-to-Door,Own,Email,Cloudy,0.2,18-24,False,Friday,0.8660254037844386,0.5000000000000001
+Apartment,West End,483.0,1-2 weeks,Door-to-Door,Rent,Email,Sunny,4.48,35-44,True,Thursday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,388.0,ASAP,Word of Mouth/Referral,Own,Email,Rain,4.13,55-64,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2863.0,1 month,Door-to-Door,Own,Phone Call,Cloudy,3.55,25-34,True,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,856.0,1 month,Facebook Ads,Rent,Phone Call,Sunny,1.29,45-54,False,Friday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,2866.0,ASAP,Lawn Signs,Own,SMS,Sunny,4.65,65+,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,West End,612.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Rain,4.22,55-64,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Portsmouth Village,1353.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,6.12,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Apartment,West End,1026.0,Flexible,Lawn Signs,Own,SMS,Sunny,4.43,45-54,False,Wednesday,-2.4492935982947064e-16,1.0
+Heritage Home,West End,2094.0,1 month,Lawn Signs,Rent,SMS,Windy,2.35,18-24,False,Sunday,-2.4492935982947064e-16,1.0
+Apartment,West End,929.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,4.19,35-44,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1912.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,4.29,35-44,True,Saturday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1943.0,ASAP,Door-to-Door,Own,Phone Call,Windy,3.4,25-34,True,Friday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,1745.0,ASAP,Facebook Ads,Own,Email,Rain,2.96,45-54,False,Monday,-2.4492935982947064e-16,1.0
+Detached,West End,1890.0,Flexible,Facebook Ads,Rent,SMS,Sunny,1.43,65+,False,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1603.0,1-2 weeks,Door-to-Door,Own,SMS,Rain,4.19,55-64,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,651.0,ASAP,Facebook Ads,Own,Phone Call,Windy,5.46,18-24,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,500.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,2.43,55-64,True,Thursday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Calvin Park,1005.0,ASAP,Lawn Signs,Own,Email,Sunny,2.72,18-24,False,Monday,1.0,6.123233995736766e-17
+Apartment,West End,563.0,Flexible,Facebook Ads,Own,SMS,Snow,1.0,25-34,True,Monday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,748.0,1-2 weeks,Door-to-Door,Own,SMS,Windy,1.71,65+,True,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,591.0,1-2 weeks,Lawn Signs,Recently Purchased,SMS,Sunny,3.15,65+,False,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Calvin Park,843.0,1 month,Lawn Signs,Own,Email,Rain,4.52,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,West End,1189.0,ASAP,Word of Mouth/Referral,Recently Purchased,Phone Call,Cloudy,1.24,35-44,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,879.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,1.27,25-34,True,Monday,0.49999999999999994,0.8660254037844387
+Townhouse,Portsmouth Village,1428.0,1-2 weeks,Door-to-Door,Own,SMS,Snow,1.77,25-34,False,Sunday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Strathcona Park,1332.0,ASAP,Lawn Signs,Own,Email,Rain,2.37,45-54,False,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,948.0,1 month,Facebook Ads,Rent,Email,Snow,3.52,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Semi-Detached,Calvin Park,933.0,ASAP,Door-to-Door,Own,Email,Cloudy,2.22,45-54,False,Friday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Portsmouth Village,1179.0,1 month,Door-to-Door,Recently Purchased,SMS,Sunny,2.92,45-54,True,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1010.0,Flexible,Lawn Signs,Own,Phone Call,Cloudy,6.27,55-64,False,Friday,0.8660254037844386,0.5000000000000001
+Apartment,Calvin Park,590.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,0.93,35-44,False,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Strathcona Park,1762.0,ASAP,Word of Mouth/Referral,Rent,Email,Rain,6.75,25-34,False,Sunday,-2.4492935982947064e-16,1.0
+Apartment,West End,941.0,1 month,Facebook Ads,Own,SMS,Cloudy,0.2,45-54,True,Thursday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,1177.0,ASAP,Facebook Ads,Own,Email,Cloudy,5.12,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2362.0,Flexible,Lawn Signs,Own,Email,Rain,5.6,35-44,True,Wednesday,1.0,6.123233995736766e-17
+Detached,Downtown,2210.0,1 month,Word of Mouth/Referral,Own,Email,Rain,3.66,55-64,False,Saturday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1349.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,6.38,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Heritage Home,West End,2689.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,4.01,35-44,False,Thursday,0.8660254037844386,0.5000000000000001
+Semi-Detached,West End,2159.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,2.2,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1827.0,1 month,Facebook Ads,Rent,Phone Call,Windy,5.22,45-54,True,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,2358.0,ASAP,Door-to-Door,Own,Email,Windy,4.41,18-24,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,962.0,1 month,Lawn Signs,Rent,SMS,Cloudy,3.71,35-44,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1619.0,1 month,Door-to-Door,Own,Email,Rain,3.46,25-34,False,Thursday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,606.0,1 month,Door-to-Door,Own,SMS,Sunny,6.36,55-64,False,Wednesday,0.49999999999999994,0.8660254037844387
+Heritage Home,West End,3803.0,1 month,Facebook Ads,Own,SMS,Sunny,5.59,65+,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1042.0,ASAP,Lawn Signs,Own,Email,Snow,3.82,25-34,False,Monday,0.8660254037844386,0.5000000000000001
+Heritage Home,Sydenham Ward,2803.0,ASAP,Facebook Ads,Own,Phone Call,Rain,3.81,45-54,True,Monday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,1586.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,2.53,45-54,False,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,2352.0,1 month,Facebook Ads,Rent,Phone Call,Rain,4.5,45-54,True,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,449.0,1 month,Facebook Ads,Own,Phone Call,Rain,1.89,65+,True,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,West End,1732.0,ASAP,Lawn Signs,Recently Purchased,Email,Sunny,0.4,18-24,False,Sunday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,791.0,Flexible,Facebook Ads,Own,Phone Call,Rain,5.6,25-34,False,Sunday,1.0,6.123233995736766e-17
+Apartment,West End,682.0,1 month,Word of Mouth/Referral,Own,Email,Snow,1.49,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Detached,West End,1674.0,1 month,Facebook Ads,Own,Email,Cloudy,1.83,35-44,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1019.0,1 month,Door-to-Door,Own,Phone Call,Sunny,2.49,18-24,False,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,508.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,2.95,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,West End,819.0,ASAP,Door-to-Door,Rent,Phone Call,Cloudy,6.95,35-44,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,291.0,1 month,Lawn Signs,Own,Email,Snow,4.07,55-64,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1179.0,1 month,Lawn Signs,Own,Phone Call,Sunny,5.23,18-24,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Downtown,992.0,Flexible,Door-to-Door,Own,Email,Cloudy,5.17,35-44,False,Sunday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,1233.0,ASAP,Lawn Signs,Recently Purchased,Email,Rain,1.51,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Portsmouth Village,319.0,Flexible,Lawn Signs,Own,Phone Call,Rain,4.0,45-54,True,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,2284.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.71,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1344.0,Flexible,Facebook Ads,Own,Email,Sunny,1.76,25-34,False,Saturday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,886.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,1.68,55-64,True,Saturday,0.8660254037844386,0.5000000000000001
+Heritage Home,Downtown,2597.0,1-2 weeks,Door-to-Door,Own,Email,Rain,3.17,65+,True,Thursday,0.8660254037844386,0.5000000000000001
+Apartment,Calvin Park,701.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,2.56,55-64,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,Calvin Park,827.0,ASAP,Lawn Signs,Own,Email,Sunny,4.57,65+,True,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,1706.0,Flexible,Lawn Signs,Recently Purchased,SMS,Rain,2.53,25-34,True,Tuesday,1.0,6.123233995736766e-17
+Detached,West End,2641.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,3.04,25-34,False,Sunday,0.8660254037844386,0.5000000000000001
+Apartment,Strathcona Park,443.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.53,25-34,False,Sunday,-2.4492935982947064e-16,1.0
+Heritage Home,Portsmouth Village,2542.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,1.29,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,2391.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,6.25,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1275.0,ASAP,Door-to-Door,Recently Purchased,SMS,Rain,6.0,35-44,True,Wednesday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,1006.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,0.2,45-54,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1154.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Cloudy,3.05,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,325.0,1-2 weeks,Facebook Ads,Own,Phone Call,Snow,5.01,18-24,False,Monday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,1212.0,ASAP,Lawn Signs,Rent,Phone Call,Sunny,4.39,65+,False,Friday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,558.0,Flexible,Facebook Ads,Own,Email,Rain,2.46,25-34,True,Thursday,-2.4492935982947064e-16,1.0
+Townhouse,Portsmouth Village,1378.0,ASAP,Facebook Ads,Recently Purchased,SMS,Rain,2.18,45-54,False,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,694.0,1 month,Facebook Ads,Own,Email,Sunny,2.24,45-54,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,2348.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.89,25-34,True,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2635.0,1 month,Door-to-Door,Own,Email,Cloudy,7.41,55-64,True,Saturday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,606.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,3.54,45-54,True,Tuesday,-2.4492935982947064e-16,1.0
+Townhouse,Sydenham Ward,1699.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,0.2,65+,True,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1457.0,1-2 weeks,Door-to-Door,Own,SMS,Snow,1.44,35-44,False,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Strathcona Park,1424.0,1 month,Facebook Ads,Own,SMS,Rain,4.98,25-34,True,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,892.0,1 month,Facebook Ads,Own,Phone Call,Rain,3.53,55-64,True,Tuesday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,1282.0,1-2 weeks,Facebook Ads,Rent,Email,Windy,2.96,18-24,False,Tuesday,1.0,6.123233995736766e-17
+Townhouse,Strathcona Park,612.0,Flexible,Lawn Signs,Own,Email,Windy,4.24,45-54,True,Friday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,788.0,ASAP,Facebook Ads,Rent,SMS,Rain,7.19,18-24,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,2695.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,4.41,45-54,False,Wednesday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,607.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,3.01,65+,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,West End,1062.0,1-2 weeks,Lawn Signs,Rent,SMS,Rain,4.18,35-44,False,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,Downtown,1623.0,Flexible,Door-to-Door,Own,SMS,Sunny,5.86,65+,True,Friday,0.8660254037844386,0.5000000000000001
+Detached,West End,2472.0,ASAP,Door-to-Door,Own,SMS,Sunny,0.2,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,2511.0,1 month,Facebook Ads,Rent,Email,Cloudy,4.92,25-34,True,Monday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,1132.0,Flexible,Facebook Ads,Own,Email,Snow,1.59,45-54,True,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,West End,920.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Rain,4.59,35-44,False,Sunday,1.0,6.123233995736766e-17
+Apartment,Sydenham Ward,481.0,ASAP,Facebook Ads,Rent,Email,Sunny,2.96,45-54,True,Saturday,-2.4492935982947064e-16,1.0
+Detached,Downtown,2068.0,ASAP,Lawn Signs,Rent,Phone Call,Cloudy,2.95,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1484.0,1 month,Facebook Ads,Own,Phone Call,Windy,3.42,45-54,False,Tuesday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1763.0,1-2 weeks,Facebook Ads,Own,SMS,Windy,1.76,35-44,True,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1029.0,Flexible,Facebook Ads,Recently Purchased,Email,Windy,5.7,25-34,True,Thursday,0.8660254037844386,0.5000000000000001
+Apartment,Portsmouth Village,317.0,ASAP,Word of Mouth/Referral,Recently Purchased,Email,Snow,6.37,55-64,True,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1481.0,Flexible,Word of Mouth/Referral,Own,Email,Snow,4.08,55-64,False,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,2486.0,1 month,Lawn Signs,Rent,SMS,Cloudy,6.21,45-54,True,Saturday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,1050.0,1 month,Facebook Ads,Own,SMS,Sunny,8.14,25-34,False,Tuesday,1.0,6.123233995736766e-17
+Semi-Detached,Calvin Park,1410.0,Flexible,Lawn Signs,Own,SMS,Cloudy,3.46,65+,False,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,2860.0,1 month,Facebook Ads,Own,SMS,Sunny,3.77,65+,False,Sunday,0.49999999999999994,0.8660254037844387
+Heritage Home,Downtown,2849.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Sunny,3.2,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1555.0,Flexible,Facebook Ads,Rent,Email,Rain,4.89,18-24,True,Monday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1655.0,1-2 weeks,Door-to-Door,Own,Phone Call,Windy,5.52,18-24,True,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,1153.0,1-2 weeks,Door-to-Door,Rent,SMS,Sunny,4.49,65+,True,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Sydenham Ward,1096.0,Flexible,Door-to-Door,Recently Purchased,SMS,Rain,0.2,45-54,True,Thursday,0.49999999999999994,0.8660254037844387
+Heritage Home,West End,2294.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,4.88,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,West End,484.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,6.89,25-34,False,Tuesday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,524.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,4.37,45-54,False,Thursday,-2.4492935982947064e-16,1.0
+Apartment,Sydenham Ward,655.0,1 month,Facebook Ads,Own,SMS,Cloudy,5.81,45-54,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,West End,1867.0,ASAP,Facebook Ads,Own,Email,Snow,2.37,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1548.0,Flexible,Facebook Ads,Own,SMS,Windy,1.04,25-34,True,Friday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1576.0,1 month,Facebook Ads,Rent,Email,Snow,6.96,65+,True,Saturday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1211.0,1 month,Facebook Ads,Rent,SMS,Snow,2.9,25-34,True,Friday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,2001.0,1-2 weeks,Lawn Signs,Own,Email,Rain,5.03,65+,False,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1879.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,3.5,45-54,True,Thursday,0.49999999999999994,0.8660254037844387
+Apartment,West End,714.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,6.12,25-34,False,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,West End,606.0,1 month,Facebook Ads,Rent,SMS,Windy,3.03,35-44,False,Tuesday,1.0,6.123233995736766e-17
+Apartment,West End,238.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,2.06,65+,False,Monday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,429.0,1 month,Facebook Ads,Recently Purchased,Phone Call,Sunny,0.64,65+,True,Tuesday,0.49999999999999994,0.8660254037844387
+Townhouse,Downtown,1141.0,Flexible,Lawn Signs,Own,Email,Windy,1.57,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Semi-Detached,Strathcona Park,908.0,ASAP,Door-to-Door,Own,Email,Rain,3.52,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2432.0,1 month,Lawn Signs,Own,SMS,Cloudy,5.99,45-54,True,Sunday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1142.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,5.46,35-44,True,Wednesday,1.0,6.123233995736766e-17
+Apartment,Sydenham Ward,678.0,ASAP,Facebook Ads,Own,Phone Call,Windy,3.54,25-34,False,Friday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,702.0,1 month,Facebook Ads,Rent,Email,Cloudy,7.72,35-44,True,Tuesday,-2.4492935982947064e-16,1.0
+Apartment,Strathcona Park,715.0,Flexible,Facebook Ads,Rent,Phone Call,Rain,3.73,45-54,False,Wednesday,0.8660254037844386,0.5000000000000001
+Townhouse,Calvin Park,764.0,1 month,Facebook Ads,Own,SMS,Cloudy,4.61,45-54,True,Monday,-2.4492935982947064e-16,1.0
+Detached,West End,2863.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,1.33,35-44,False,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,701.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,3.46,35-44,True,Friday,-2.4492935982947064e-16,1.0
+Detached,West End,2222.0,Flexible,Word of Mouth/Referral,Recently Purchased,SMS,Snow,1.44,35-44,False,Sunday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1189.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,0.8,55-64,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,2581.0,1 month,Facebook Ads,Own,SMS,Sunny,2.37,35-44,False,Tuesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1376.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Windy,1.54,65+,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2045.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,5.1,55-64,True,Monday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,1429.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Snow,2.46,65+,True,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Sydenham Ward,1718.0,1 month,Lawn Signs,Own,Phone Call,Sunny,3.04,55-64,True,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,2072.0,ASAP,Lawn Signs,Rent,Email,Rain,2.08,25-34,True,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,251.0,ASAP,Facebook Ads,Rent,SMS,Sunny,3.86,25-34,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1237.0,Flexible,Facebook Ads,Own,SMS,Cloudy,5.81,65+,True,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,549.0,1-2 weeks,Word of Mouth/Referral,Own,Email,Sunny,4.62,35-44,False,Saturday,-2.4492935982947064e-16,1.0
+Apartment,Calvin Park,1060.0,ASAP,Door-to-Door,Own,SMS,Cloudy,3.05,55-64,True,Monday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,724.0,1 month,Facebook Ads,Own,SMS,Sunny,8.19,55-64,False,Sunday,0.8660254037844386,0.5000000000000001
+Townhouse,Downtown,1329.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,4.75,55-64,False,Sunday,0.49999999999999994,0.8660254037844387
+Heritage Home,Downtown,1710.0,Flexible,Lawn Signs,Own,Email,Rain,4.04,18-24,False,Saturday,-2.4492935982947064e-16,1.0
+Apartment,West End,806.0,ASAP,Lawn Signs,Own,Phone Call,Windy,2.09,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1818.0,1 month,Word of Mouth/Referral,Rent,Email,Snow,6.22,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1492.0,1 month,Word of Mouth/Referral,Own,Email,Windy,1.66,35-44,True,Sunday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Calvin Park,1145.0,1 month,Facebook Ads,Own,Phone Call,Rain,4.73,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Heritage Home,Calvin Park,3218.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,6.33,18-24,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2210.0,Flexible,Lawn Signs,Rent,SMS,Windy,6.4,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,2321.0,1 month,Word of Mouth/Referral,Rent,Email,Sunny,1.58,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,West End,1945.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,3.68,25-34,False,Sunday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,3203.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,1.2,55-64,False,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1076.0,ASAP,Facebook Ads,Rent,Phone Call,Sunny,2.84,45-54,False,Wednesday,0.49999999999999994,0.8660254037844387
+Townhouse,Portsmouth Village,1647.0,Flexible,Word of Mouth/Referral,Own,Email,Cloudy,5.96,18-24,True,Wednesday,0.49999999999999994,0.8660254037844387
+Townhouse,Downtown,1140.0,1 month,Lawn Signs,Rent,Email,Cloudy,5.33,35-44,False,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Sydenham Ward,1340.0,ASAP,Facebook Ads,Own,SMS,Sunny,2.48,55-64,True,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2015.0,Flexible,Facebook Ads,Own,Phone Call,Windy,5.29,35-44,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,West End,3148.0,ASAP,Lawn Signs,Recently Purchased,SMS,Sunny,2.62,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2036.0,Flexible,Door-to-Door,Rent,SMS,Windy,3.56,65+,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,Sydenham Ward,1876.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,4.27,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,1679.0,Flexible,Word of Mouth/Referral,Own,SMS,Cloudy,4.98,18-24,True,Thursday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,403.0,1 month,Word of Mouth/Referral,Rent,Email,Windy,4.84,18-24,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,692.0,ASAP,Facebook Ads,Own,SMS,Rain,0.82,25-34,True,Sunday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,1435.0,ASAP,Facebook Ads,Own,Email,Cloudy,5.19,55-64,True,Monday,-2.4492935982947064e-16,1.0
+Townhouse,Strathcona Park,1100.0,ASAP,Word of Mouth/Referral,Rent,Email,Sunny,3.7,25-34,True,Tuesday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,510.0,ASAP,Lawn Signs,Own,SMS,Cloudy,2.65,55-64,True,Friday,-2.4492935982947064e-16,1.0
+Detached,West End,862.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,3.75,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,3190.0,1 month,Facebook Ads,Own,Email,Snow,3.0,65+,False,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,523.0,1-2 weeks,Lawn Signs,Own,Email,Rain,1.51,35-44,False,Saturday,-2.4492935982947064e-16,1.0
+Semi-Detached,Strathcona Park,1859.0,Flexible,Lawn Signs,Rent,SMS,Sunny,5.13,65+,True,Thursday,0.49999999999999994,0.8660254037844387
+Townhouse,Calvin Park,1286.0,ASAP,Facebook Ads,Own,SMS,Sunny,2.6,35-44,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1310.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.68,35-44,False,Friday,-2.4492935982947064e-16,1.0
+Semi-Detached,Downtown,1135.0,1 month,Facebook Ads,Own,Phone Call,Windy,2.69,18-24,False,Thursday,0.49999999999999994,0.8660254037844387
+Apartment,Strathcona Park,471.0,Flexible,Lawn Signs,Own,SMS,Sunny,2.13,55-64,True,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Strathcona Park,1351.0,1 month,Door-to-Door,Own,SMS,Cloudy,0.2,45-54,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,Downtown,1431.0,ASAP,Door-to-Door,Own,Email,Cloudy,1.82,35-44,False,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Calvin Park,1230.0,1 month,Facebook Ads,Own,Email,Cloudy,0.2,65+,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,2377.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,3.62,35-44,True,Saturday,0.8660254037844386,0.5000000000000001
+Apartment,West End,605.0,Flexible,Facebook Ads,Rent,SMS,Sunny,5.42,65+,False,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,1226.0,Flexible,Facebook Ads,Own,Email,Snow,6.13,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,3064.0,Flexible,Door-to-Door,Own,SMS,Sunny,2.96,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,1274.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,4.93,35-44,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1687.0,Flexible,Facebook Ads,Rent,Email,Snow,0.38,18-24,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1074.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Sunny,0.74,55-64,False,Saturday,-2.4492935982947064e-16,1.0
+Detached,Portsmouth Village,1288.0,Flexible,Word of Mouth/Referral,Rent,Phone Call,Sunny,1.23,18-24,False,Friday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,2088.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,5.84,35-44,False,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,2582.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,0.84,45-54,True,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1385.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,1.31,55-64,True,Friday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Sydenham Ward,1858.0,Flexible,Lawn Signs,Own,Phone Call,Rain,3.48,25-34,False,Tuesday,1.0,6.123233995736766e-17
+Detached,Calvin Park,1461.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,4.41,18-24,False,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1118.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,1.67,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Semi-Detached,Calvin Park,1509.0,1-2 weeks,Facebook Ads,Recently Purchased,Email,Cloudy,1.64,45-54,True,Saturday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1240.0,1-2 weeks,Lawn Signs,Own,Email,Windy,1.25,25-34,False,Sunday,0.8660254037844386,0.5000000000000001
+Apartment,West End,943.0,1-2 weeks,Lawn Signs,Own,SMS,Cloudy,3.53,45-54,True,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,West End,2110.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,4.61,55-64,True,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,685.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,3.12,65+,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,575.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,4.79,18-24,False,Monday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1674.0,ASAP,Facebook Ads,Own,SMS,Cloudy,5.02,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2082.0,1 month,Facebook Ads,Own,Phone Call,Rain,2.21,55-64,True,Wednesday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2106.0,1 month,Facebook Ads,Rent,Email,Windy,3.22,25-34,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1906.0,1 month,Facebook Ads,Own,SMS,Sunny,3.72,25-34,False,Wednesday,1.0,6.123233995736766e-17
+Townhouse,Downtown,673.0,ASAP,Door-to-Door,Own,Email,Sunny,2.21,55-64,True,Wednesday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,728.0,ASAP,Door-to-Door,Own,Phone Call,Rain,3.46,18-24,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,West End,2154.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,0.92,35-44,True,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,866.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.35,18-24,True,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,Downtown,661.0,1-2 weeks,Lawn Signs,Own,Email,Rain,1.93,45-54,False,Monday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,570.0,1 month,Facebook Ads,Own,SMS,Cloudy,6.73,55-64,False,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Strathcona Park,1410.0,Flexible,Facebook Ads,Rent,SMS,Sunny,3.22,45-54,False,Saturday,-2.4492935982947064e-16,1.0
+Apartment,Strathcona Park,316.0,1-2 weeks,Lawn Signs,Own,Email,Cloudy,4.44,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,414.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,2.97,18-24,True,Monday,-2.4492935982947064e-16,1.0
+Townhouse,Strathcona Park,1534.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Snow,1.5,55-64,False,Monday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Strathcona Park,655.0,ASAP,Facebook Ads,Own,Phone Call,Rain,5.11,65+,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,915.0,Flexible,Door-to-Door,Own,SMS,Windy,1.89,25-34,False,Friday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2637.0,1-2 weeks,Lawn Signs,Rent,Email,Rain,2.99,55-64,True,Saturday,0.8660254037844386,0.5000000000000001
+Detached,West End,2672.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.87,18-24,True,Saturday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1964.0,1 month,Facebook Ads,Own,Phone Call,Rain,3.83,35-44,True,Thursday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,2496.0,1 month,Facebook Ads,Own,SMS,Snow,5.72,65+,False,Friday,0.8660254037844386,0.5000000000000001
+Apartment,Strathcona Park,919.0,1 month,Lawn Signs,Own,Email,Windy,3.72,45-54,False,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1652.0,Flexible,Lawn Signs,Own,Email,Sunny,1.44,25-34,True,Thursday,-2.4492935982947064e-16,1.0
+Apartment,Sydenham Ward,533.0,Flexible,Facebook Ads,Own,SMS,Rain,0.83,65+,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1800.0,1 month,Facebook Ads,Own,Email,Sunny,2.66,35-44,True,Sunday,-2.4492935982947064e-16,1.0
+Apartment,Downtown,682.0,ASAP,Lawn Signs,Recently Purchased,SMS,Rain,5.15,65+,True,Sunday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Sydenham Ward,610.0,Flexible,Facebook Ads,Own,SMS,Sunny,0.2,25-34,True,Saturday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1969.0,1 month,Lawn Signs,Own,SMS,Sunny,1.38,18-24,False,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,734.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,5.88,65+,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1247.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,0.45,25-34,True,Saturday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1313.0,1-2 weeks,Lawn Signs,Rent,Phone Call,Sunny,0.2,25-34,True,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1186.0,1-2 weeks,Facebook Ads,Rent,Email,Cloudy,3.46,55-64,False,Sunday,-2.4492935982947064e-16,1.0
+Apartment,Strathcona Park,451.0,1-2 weeks,Door-to-Door,Own,Phone Call,Sunny,5.11,35-44,False,Sunday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,781.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,1.07,25-34,False,Wednesday,1.0,6.123233995736766e-17
+Detached,Sydenham Ward,2416.0,1-2 weeks,Door-to-Door,Rent,SMS,Windy,4.44,25-34,True,Sunday,0.8660254037844386,0.5000000000000001
+Detached,West End,1878.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,3.53,18-24,False,Thursday,-2.4492935982947064e-16,1.0
+Townhouse,Portsmouth Village,1295.0,Flexible,Door-to-Door,Rent,Email,Sunny,5.2,25-34,True,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1318.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,1.25,35-44,True,Thursday,0.8660254037844386,0.5000000000000001
+Townhouse,Calvin Park,1372.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,1.54,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Portsmouth Village,463.0,Flexible,Facebook Ads,Rent,SMS,Sunny,4.14,25-34,False,Saturday,-2.4492935982947064e-16,1.0
+Semi-Detached,Calvin Park,150.0,ASAP,Facebook Ads,Recently Purchased,SMS,Cloudy,3.595,35-44,False,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,West End,993.0,Flexible,Lawn Signs,Own,Phone Call,Rain,0.86,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1237.0,Flexible,Facebook Ads,Recently Purchased,Phone Call,Sunny,5.84,45-54,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,1602.0,Flexible,Facebook Ads,Rent,SMS,Cloudy,0.2,18-24,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,1574.0,Flexible,Lawn Signs,Recently Purchased,Email,Cloudy,2.07,55-64,True,Sunday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1610.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,5.21,18-24,False,Monday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,409.0,1 month,Lawn Signs,Own,Phone Call,Sunny,3.6,18-24,False,Monday,0.8660254037844386,0.5000000000000001
+Semi-Detached,West End,1167.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,4.3,35-44,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1643.0,ASAP,Door-to-Door,Recently Purchased,Email,Cloudy,2.92,65+,True,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Portsmouth Village,393.0,1 month,Word of Mouth/Referral,Recently Purchased,Phone Call,Cloudy,6.7,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,438.0,1-2 weeks,Facebook Ads,Own,Phone Call,Cloudy,1.93,25-34,True,Saturday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1165.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Rain,4.41,45-54,False,Sunday,0.49999999999999994,0.8660254037844387
+Detached,West End,3187.0,ASAP,Word of Mouth/Referral,Own,Email,Cloudy,4.7,65+,False,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Sydenham Ward,1012.0,Flexible,Facebook Ads,Own,SMS,Sunny,4.72,25-34,False,Monday,0.49999999999999994,0.8660254037844387
+Townhouse,Calvin Park,926.0,1 month,Facebook Ads,Own,SMS,Rain,1.9,65+,True,Friday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,1329.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Sunny,0.2,35-44,True,Saturday,0.8660254037844386,0.5000000000000001
+Heritage Home,West End,2906.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,8.48,55-64,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Portsmouth Village,1946.0,Flexible,Door-to-Door,Recently Purchased,Email,Windy,6.17,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,2440.0,1 month,Door-to-Door,Own,Phone Call,Rain,1.5,35-44,True,Friday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,2088.0,Flexible,Door-to-Door,Own,Email,Sunny,3.64,55-64,True,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1768.0,1-2 weeks,Door-to-Door,Rent,Phone Call,Rain,4.83,55-64,True,Tuesday,-2.4492935982947064e-16,1.0
+Apartment,West End,520.0,1 month,Door-to-Door,Rent,Email,Cloudy,4.24,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,2139.0,Flexible,Lawn Signs,Own,Email,Cloudy,2.61,35-44,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,West End,1971.0,1 month,Door-to-Door,Own,SMS,Rain,3.29,45-54,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,Sydenham Ward,1740.0,ASAP,Door-to-Door,Own,Phone Call,Snow,3.66,35-44,False,Friday,-2.4492935982947064e-16,1.0
+Detached,West End,1578.0,1-2 weeks,Door-to-Door,Rent,SMS,Cloudy,2.61,18-24,True,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,451.0,1-2 weeks,Lawn Signs,Own,Phone Call,Cloudy,0.2,25-34,True,Monday,-2.4492935982947064e-16,1.0
+Heritage Home,Sydenham Ward,3835.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.48,55-64,False,Friday,-2.4492935982947064e-16,1.0
+Townhouse,Portsmouth Village,972.0,1-2 weeks,Facebook Ads,Own,SMS,Snow,3.525,35-44,True,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Sydenham Ward,1290.0,Flexible,Facebook Ads,Recently Purchased,SMS,Sunny,1.51,65+,False,Wednesday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,870.0,1 month,Facebook Ads,Own,SMS,Sunny,6.26,55-64,True,Tuesday,-2.4492935982947064e-16,1.0
+Apartment,West End,513.0,1 month,Lawn Signs,Recently Purchased,Email,Cloudy,7.47,35-44,False,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,735.0,Flexible,Facebook Ads,Rent,Email,Cloudy,2.67,35-44,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,West End,2473.0,1 month,Word of Mouth/Referral,Own,Email,Sunny,1.83,25-34,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1412.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,5.65,35-44,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1338.0,1-2 weeks,Facebook Ads,Own,SMS,Cloudy,2.66,35-44,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,West End,1654.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,2.47,65+,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,1182.0,Flexible,Lawn Signs,Own,SMS,Cloudy,6.46,25-34,False,Monday,1.0,6.123233995736766e-17
+Semi-Detached,Calvin Park,1819.0,1 month,Word of Mouth/Referral,Rent,Phone Call,Sunny,3.31,25-34,False,Saturday,-2.4492935982947064e-16,1.0
+Townhouse,Calvin Park,893.0,1 month,Door-to-Door,Rent,SMS,Sunny,5.99,65+,False,Wednesday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1651.0,Flexible,Lawn Signs,Own,Email,Sunny,1.95,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,West End,2257.0,Flexible,Facebook Ads,Own,Phone Call,Sunny,6.71,55-64,False,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,934.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,4.95,35-44,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,West End,1727.0,Flexible,Lawn Signs,Own,SMS,Windy,3.47,18-24,False,Wednesday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Calvin Park,1475.0,Flexible,Door-to-Door,Own,Email,Windy,5.38,35-44,False,Friday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,2017.0,ASAP,Lawn Signs,Own,SMS,Sunny,2.93,35-44,True,Wednesday,1.0,6.123233995736766e-17
+Detached,Strathcona Park,955.0,1 month,Facebook Ads,Own,SMS,Sunny,5.3,25-34,True,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,2692.0,1-2 weeks,Door-to-Door,Own,Email,Rain,3.79,18-24,False,Wednesday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,1808.0,1 month,Lawn Signs,Own,SMS,Cloudy,4.95,45-54,False,Saturday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Portsmouth Village,1639.0,1-2 weeks,Facebook Ads,Rent,SMS,Rain,2.88,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1473.0,Flexible,Facebook Ads,Own,SMS,Cloudy,4.69,25-34,True,Saturday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1094.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Sunny,2.37,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,2124.0,1-2 weeks,Facebook Ads,Recently Purchased,Phone Call,Rain,2.99,65+,False,Tuesday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,1389.0,1 month,Lawn Signs,Own,Email,Sunny,0.2,35-44,True,Friday,-2.4492935982947064e-16,1.0
+Apartment,West End,490.0,Flexible,Facebook Ads,Own,Email,Rain,2.25,55-64,False,Monday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1942.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,0.2,25-34,True,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,521.0,Flexible,Facebook Ads,Own,Email,Sunny,3.95,55-64,True,Friday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1562.0,1 month,Door-to-Door,Recently Purchased,Phone Call,Sunny,7.07,25-34,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,West End,2499.0,ASAP,Door-to-Door,Own,Phone Call,Cloudy,0.2,18-24,True,Wednesday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,995.0,ASAP,Lawn Signs,Own,Phone Call,Snow,4.02,45-54,False,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1805.0,Flexible,Facebook Ads,Own,SMS,Cloudy,3.68,25-34,False,Tuesday,1.0,6.123233995736766e-17
+Townhouse,Calvin Park,811.0,1 month,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.59,45-54,False,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1456.0,1-2 weeks,Facebook Ads,Own,Email,Rain,2.33,65+,False,Sunday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,856.0,1 month,Lawn Signs,Own,Email,Windy,2.02,25-34,False,Saturday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,746.0,Flexible,Word of Mouth/Referral,Rent,Phone Call,Sunny,4.9,35-44,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,2330.0,Flexible,Facebook Ads,Own,Email,Rain,3.43,55-64,True,Monday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,646.0,Flexible,Facebook Ads,Rent,SMS,Rain,5.12,35-44,False,Saturday,0.49999999999999994,0.8660254037844387
+Detached,West End,1632.0,ASAP,Word of Mouth/Referral,Rent,Phone Call,Windy,0.2,65+,False,Tuesday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,1164.0,ASAP,Door-to-Door,Own,Phone Call,Rain,3.95,25-34,False,Thursday,-2.4492935982947064e-16,1.0
+Detached,West End,2230.0,ASAP,Door-to-Door,Own,SMS,Snow,2.69,35-44,True,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,1425.0,1 month,Door-to-Door,Own,Email,Windy,5.76,65+,False,Thursday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,1296.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,5.74,65+,False,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,West End,620.0,1-2 weeks,Door-to-Door,Recently Purchased,Email,Rain,2.43,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,West End,3007.0,1-2 weeks,Facebook Ads,Own,Email,Sunny,5.27,45-54,False,Monday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,2339.0,1 month,Facebook Ads,Own,SMS,Sunny,3.89,65+,True,Wednesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,1538.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Cloudy,5.2,45-54,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1279.0,Flexible,Facebook Ads,Own,Phone Call,Cloudy,3.31,45-54,True,Monday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Sydenham Ward,1140.0,1 month,Facebook Ads,Recently Purchased,SMS,Rain,2.84,55-64,True,Wednesday,0.8660254037844386,0.5000000000000001
+Apartment,West End,750.0,1 month,Door-to-Door,Rent,Phone Call,Sunny,3.53,65+,False,Wednesday,-2.4492935982947064e-16,1.0
+Apartment,West End,1017.0,ASAP,Facebook Ads,Own,Email,Windy,4.71,25-34,False,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,Downtown,605.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Sunny,1.58,65+,True,Monday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2550.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,4.81,18-24,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1750.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Rain,2.02,45-54,True,Sunday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,1622.0,1 month,Facebook Ads,Own,SMS,Sunny,6.34,55-64,False,Sunday,0.8660254037844386,0.5000000000000001
+Detached,West End,2488.0,1 month,Door-to-Door,Own,Email,Sunny,4.4,25-34,False,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,1741.0,1 month,Lawn Signs,Own,SMS,Cloudy,1.2,65+,False,Monday,-2.4492935982947064e-16,1.0
+Detached,West End,2099.0,1 month,Facebook Ads,Own,Phone Call,Windy,4.97,65+,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2206.0,1 month,Facebook Ads,Own,Phone Call,Cloudy,1.8,35-44,False,Sunday,0.49999999999999994,0.8660254037844387
+Apartment,Portsmouth Village,376.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,0.2,25-34,True,Monday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,657.0,1 month,Facebook Ads,Own,SMS,Windy,6.28,45-54,False,Monday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1793.0,ASAP,Facebook Ads,Own,SMS,Sunny,9.47,25-34,True,Monday,0.8660254037844386,0.5000000000000001
+Townhouse,Strathcona Park,1474.0,ASAP,Facebook Ads,Own,Email,Sunny,1.69,35-44,False,Wednesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1022.0,1 month,Word of Mouth/Referral,Own,Phone Call,Windy,2.4,65+,True,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,West End,2167.0,Flexible,Facebook Ads,Own,SMS,Cloudy,3.2,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,404.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Cloudy,3.32,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,841.0,1 month,Door-to-Door,Own,Email,Sunny,2.93,45-54,True,Tuesday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,857.0,Flexible,Lawn Signs,Own,SMS,Snow,5.73,25-34,True,Thursday,0.49999999999999994,0.8660254037844387
+Townhouse,Downtown,1286.0,Flexible,Facebook Ads,Own,Email,Rain,2.76,55-64,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1496.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,4.15,45-54,True,Tuesday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,1248.0,Flexible,Lawn Signs,Own,Phone Call,Windy,1.52,25-34,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,West End,2316.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Windy,6.06,35-44,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1234.0,Flexible,Door-to-Door,Rent,Phone Call,Sunny,2.76,25-34,False,Sunday,0.49999999999999994,0.8660254037844387
+Townhouse,Portsmouth Village,674.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,4.4,65+,True,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,1685.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,4.08,35-44,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,2079.0,ASAP,Lawn Signs,Own,Phone Call,Sunny,2.76,65+,True,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2646.0,ASAP,Door-to-Door,Rent,Phone Call,Sunny,3.77,65+,False,Saturday,0.49999999999999994,0.8660254037844387
+Heritage Home,Sydenham Ward,1102.0,Flexible,Lawn Signs,Own,SMS,Sunny,5.6,25-34,False,Wednesday,0.8660254037844386,0.5000000000000001
+Townhouse,Downtown,897.0,Flexible,Facebook Ads,Own,Email,Cloudy,4.25,65+,True,Sunday,-2.4492935982947064e-16,1.0
+Townhouse,West End,989.0,1-2 weeks,Word of Mouth/Referral,Own,SMS,Cloudy,3.27,55-64,False,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,765.0,1 month,Word of Mouth/Referral,Own,Phone Call,Rain,3.6,18-24,False,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,654.0,Flexible,Door-to-Door,Own,Email,Rain,2.73,65+,False,Sunday,0.49999999999999994,0.8660254037844387
+Detached,West End,1477.0,1 month,Facebook Ads,Own,Email,Rain,5.24,65+,True,Sunday,-2.4492935982947064e-16,1.0
+Detached,Portsmouth Village,2242.0,Flexible,Word of Mouth/Referral,Rent,SMS,Cloudy,2.43,25-34,True,Sunday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2850.0,1 month,Facebook Ads,Own,SMS,Rain,3.09,65+,True,Thursday,0.49999999999999994,0.8660254037844387
+Townhouse,Strathcona Park,1324.0,1 month,Word of Mouth/Referral,Own,Email,Sunny,4.47,65+,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,2042.0,ASAP,Word of Mouth/Referral,Recently Purchased,Phone Call,Sunny,1.65,25-34,True,Saturday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,580.0,ASAP,Door-to-Door,Own,SMS,Cloudy,4.44,18-24,True,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,774.0,ASAP,Word of Mouth/Referral,Rent,Email,Sunny,1.48,35-44,False,Sunday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Portsmouth Village,1445.0,1-2 weeks,Door-to-Door,Own,Phone Call,Rain,5.28,18-24,False,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,West End,991.0,Flexible,Word of Mouth/Referral,Recently Purchased,Phone Call,Rain,1.37,25-34,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,West End,1104.0,Flexible,Facebook Ads,Recently Purchased,SMS,Rain,5.52,55-64,True,Monday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,847.0,1-2 weeks,Lawn Signs,Own,Email,Sunny,4.11,65+,False,Tuesday,1.0,6.123233995736766e-17
+Semi-Detached,Sydenham Ward,948.0,Flexible,Facebook Ads,Rent,Email,Cloudy,6.43,25-34,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,West End,2151.0,Flexible,Door-to-Door,Own,Email,Cloudy,2.88,65+,True,Monday,0.8660254037844386,0.5000000000000001
+Apartment,Sydenham Ward,584.0,1-2 weeks,Door-to-Door,Own,SMS,Sunny,6.33,55-64,True,Monday,1.0,6.123233995736766e-17
+Townhouse,Downtown,268.0,Flexible,Facebook Ads,Own,Phone Call,Windy,3.43,25-34,True,Tuesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Calvin Park,1939.0,1-2 weeks,Lawn Signs,Own,Phone Call,Sunny,5.83,45-54,True,Friday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1056.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,1.37,25-34,True,Wednesday,1.0,6.123233995736766e-17
+Detached,Calvin Park,1603.0,1 month,Door-to-Door,Own,Email,Cloudy,2.98,55-64,False,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,Sydenham Ward,1227.0,ASAP,Door-to-Door,Own,Phone Call,Sunny,2.65,25-34,False,Sunday,-2.4492935982947064e-16,1.0
+Detached,Downtown,2099.0,ASAP,Lawn Signs,Own,Email,Rain,3.74,65+,False,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,150.0,1-2 weeks,Facebook Ads,Own,SMS,Rain,6.61,25-34,False,Wednesday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1976.0,Flexible,Word of Mouth/Referral,Own,Phone Call,Sunny,3.24,25-34,False,Monday,-2.4492935982947064e-16,1.0
+Apartment,Sydenham Ward,634.0,1 month,Facebook Ads,Own,Phone Call,Windy,0.75,18-24,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,West End,618.0,1-2 weeks,Facebook Ads,Recently Purchased,SMS,Cloudy,5.62,18-24,True,Sunday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,1877.0,Flexible,Facebook Ads,Own,SMS,Cloudy,0.2,35-44,False,Friday,0.8660254037844386,0.5000000000000001
+Heritage Home,West End,1640.0,1-2 weeks,Facebook Ads,Own,Email,Rain,4.98,55-64,True,Saturday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,2013.0,1-2 weeks,Facebook Ads,Rent,Email,Sunny,4.89,25-34,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,2073.0,1-2 weeks,Lawn Signs,Own,SMS,Sunny,4.99,18-24,False,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,973.0,1 month,Word of Mouth/Referral,Recently Purchased,Email,Sunny,2.86,35-44,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1462.0,ASAP,Door-to-Door,Own,Email,Sunny,4.24,55-64,False,Thursday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2471.0,ASAP,Facebook Ads,Own,SMS,Rain,4.67,65+,False,Wednesday,-2.4492935982947064e-16,1.0
+Detached,Portsmouth Village,2125.0,1-2 weeks,Lawn Signs,Own,Phone Call,Rain,4.84,35-44,False,Thursday,-2.4492935982947064e-16,1.0
+Townhouse,West End,1831.0,1-2 weeks,Word of Mouth/Referral,Rent,SMS,Rain,2.99,45-54,True,Saturday,-2.4492935982947064e-16,1.0
+Apartment,West End,150.0,1 month,Lawn Signs,Own,Email,Snow,4.23,55-64,False,Tuesday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1711.0,1 month,Lawn Signs,Recently Purchased,Phone Call,Snow,3.64,55-64,True,Monday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,893.0,Flexible,Lawn Signs,Own,SMS,Sunny,4.51,45-54,True,Saturday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1462.0,1-2 weeks,Facebook Ads,Rent,Phone Call,Cloudy,5.96,25-34,False,Tuesday,0.8660254037844386,0.5000000000000001
+Townhouse,Portsmouth Village,631.0,1 month,Facebook Ads,Rent,SMS,Sunny,3.47,45-54,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,West End,731.0,Flexible,Word of Mouth/Referral,Own,Email,Sunny,4.25,25-34,False,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,918.0,1 month,Facebook Ads,Own,SMS,Rain,4.17,55-64,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1773.0,Flexible,Facebook Ads,Own,Email,Cloudy,4.97,45-54,True,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1360.0,1-2 weeks,Facebook Ads,Own,Phone Call,Snow,5.64,25-34,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Portsmouth Village,1025.0,1-2 weeks,Lawn Signs,Rent,Email,Cloudy,0.2,55-64,True,Monday,1.0,6.123233995736766e-17
+Apartment,Strathcona Park,827.0,1-2 weeks,Word of Mouth/Referral,Recently Purchased,SMS,Rain,2.68,45-54,True,Friday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,777.0,ASAP,Facebook Ads,Own,Phone Call,Cloudy,5.77,25-34,False,Thursday,0.49999999999999994,0.8660254037844387
+Detached,Strathcona Park,732.0,1-2 weeks,Door-to-Door,Recently Purchased,Phone Call,Rain,2.74,45-54,True,Friday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,2413.0,Flexible,Facebook Ads,Own,Email,Sunny,1.97,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,1862.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Sunny,5.77,35-44,False,Friday,0.49999999999999994,0.8660254037844387
+Townhouse,Portsmouth Village,596.0,Flexible,Lawn Signs,Own,Email,Rain,8.42,35-44,False,Monday,0.49999999999999994,0.8660254037844387
+Apartment,Downtown,339.0,1 month,Facebook Ads,Own,SMS,Cloudy,6.79,25-34,True,Friday,0.49999999999999994,0.8660254037844387
+Detached,Calvin Park,1692.0,Flexible,Lawn Signs,Own,Email,Sunny,4.04,55-64,True,Friday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,1943.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,5.85,35-44,False,Friday,0.8660254037844386,0.5000000000000001
+Detached,Downtown,1219.0,ASAP,Facebook Ads,Own,Phone Call,Sunny,6.14,65+,True,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Portsmouth Village,1792.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Cloudy,3.08,45-54,True,Sunday,0.8660254037844386,0.5000000000000001
+Heritage Home,Sydenham Ward,2408.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,3.6,18-24,False,Tuesday,1.0,6.123233995736766e-17
+Apartment,West End,749.0,1-2 weeks,Facebook Ads,Own,Phone Call,Sunny,0.52,65+,False,Tuesday,0.8660254037844386,0.5000000000000001
+Heritage Home,Downtown,1912.0,Flexible,Facebook Ads,Own,Phone Call,Windy,6.47,35-44,True,Friday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,878.0,ASAP,Word of Mouth/Referral,Rent,Phone Call,Sunny,4.86,55-64,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Sydenham Ward,1481.0,ASAP,Facebook Ads,Own,SMS,Windy,4.31,45-54,False,Monday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,2134.0,1 month,Facebook Ads,Rent,SMS,Rain,3.35,45-54,True,Monday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1855.0,1-2 weeks,Door-to-Door,Own,Email,Sunny,3.99,35-44,False,Sunday,1.0,6.123233995736766e-17
+Detached,Portsmouth Village,1547.0,1 month,Lawn Signs,Own,Phone Call,Sunny,0.2,25-34,True,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1528.0,ASAP,Facebook Ads,Recently Purchased,SMS,Sunny,2.38,25-34,True,Friday,0.8660254037844386,0.5000000000000001
+Apartment,Downtown,446.0,ASAP,Facebook Ads,Recently Purchased,SMS,Rain,2.13,45-54,True,Sunday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1687.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,1.38,65+,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,Calvin Park,1521.0,1-2 weeks,Facebook Ads,Own,Phone Call,Rain,2.1,25-34,True,Wednesday,1.0,6.123233995736766e-17
+Apartment,Portsmouth Village,695.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.04,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,West End,1543.0,Flexible,Facebook Ads,Own,Email,Sunny,3.07,18-24,False,Tuesday,0.49999999999999994,0.8660254037844387
+Apartment,Sydenham Ward,477.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,2.22,45-54,True,Friday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Calvin Park,921.0,1-2 weeks,Facebook Ads,Rent,SMS,Snow,3.99,65+,False,Wednesday,0.49999999999999994,0.8660254037844387
+Apartment,Calvin Park,618.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.66,35-44,False,Thursday,0.49999999999999994,0.8660254037844387
+Apartment,Strathcona Park,306.0,Flexible,Door-to-Door,Own,SMS,Rain,4.17,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Downtown,1280.0,Flexible,Lawn Signs,Own,Phone Call,Snow,5.29,35-44,False,Wednesday,1.0,6.123233995736766e-17
+Detached,West End,1702.0,1-2 weeks,Door-to-Door,Own,Email,Rain,1.94,35-44,True,Saturday,0.49999999999999994,0.8660254037844387
+Heritage Home,Strathcona Park,2985.0,1-2 weeks,Door-to-Door,Own,SMS,Cloudy,5.42,25-34,False,Monday,0.8660254037844386,0.5000000000000001
+Semi-Detached,West End,1741.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,2.92,45-54,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,Downtown,956.0,ASAP,Door-to-Door,Rent,Phone Call,Sunny,3.81,25-34,False,Tuesday,0.49999999999999994,0.8660254037844387
+Heritage Home,West End,2752.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,4.95,65+,True,Thursday,-2.4492935982947064e-16,1.0
+Apartment,Portsmouth Village,517.0,ASAP,Door-to-Door,Own,Email,Snow,3.23,45-54,False,Friday,0.49999999999999994,0.8660254037844387
+Detached,Sydenham Ward,1558.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,4.71,25-34,True,Thursday,0.49999999999999994,0.8660254037844387
+Semi-Detached,Downtown,1268.0,Flexible,Word of Mouth/Referral,Own,Email,Rain,3.8,18-24,False,Wednesday,0.49999999999999994,0.8660254037844387
+Detached,West End,1820.0,Flexible,Lawn Signs,Rent,SMS,Cloudy,2.99,18-24,True,Thursday,-2.4492935982947064e-16,1.0
+Detached,Strathcona Park,2475.0,1-2 weeks,Lawn Signs,Rent,SMS,Windy,3.92,45-54,False,Thursday,0.49999999999999994,0.8660254037844387
+Apartment,West End,840.0,ASAP,Facebook Ads,Own,Phone Call,Rain,1.93,35-44,False,Sunday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,3254.0,1 month,Facebook Ads,Own,Phone Call,Sunny,3.6,65+,False,Saturday,0.8660254037844386,0.5000000000000001
+Apartment,West End,507.0,Flexible,Facebook Ads,Own,SMS,Sunny,2.76,35-44,True,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1334.0,Flexible,Lawn Signs,Own,Email,Rain,4.01,25-34,False,Friday,-2.4492935982947064e-16,1.0
+Detached,Downtown,2119.0,Flexible,Facebook Ads,Rent,Email,Sunny,2.71,65+,False,Saturday,0.49999999999999994,0.8660254037844387
+Heritage Home,West End,957.0,Flexible,Facebook Ads,Own,SMS,Snow,1.75,45-54,True,Sunday,0.49999999999999994,0.8660254037844387
+Semi-Detached,West End,983.0,1-2 weeks,Door-to-Door,Recently Purchased,SMS,Rain,4.25,65+,True,Saturday,-2.4492935982947064e-16,1.0
+Townhouse,Downtown,1347.0,Flexible,Facebook Ads,Own,SMS,Sunny,5.17,55-64,False,Friday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1392.0,1-2 weeks,Word of Mouth/Referral,Own,Phone Call,Cloudy,1.96,35-44,False,Saturday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Downtown,1665.0,ASAP,Lawn Signs,Rent,Email,Sunny,3.43,35-44,True,Sunday,-2.4492935982947064e-16,1.0
+Apartment,West End,392.0,Flexible,Door-to-Door,Own,SMS,Cloudy,1.52,25-34,False,Wednesday,-2.4492935982947064e-16,1.0
+Semi-Detached,West End,1044.0,Flexible,Door-to-Door,Own,Email,Sunny,5.71,35-44,False,Saturday,0.49999999999999994,0.8660254037844387
+Detached,Portsmouth Village,1971.0,Flexible,Lawn Signs,Own,Phone Call,Rain,4.37,35-44,False,Tuesday,0.8660254037844386,0.5000000000000001
+Heritage Home,Strathcona Park,1279.0,1 month,Facebook Ads,Own,SMS,Sunny,0.2,18-24,True,Sunday,0.8660254037844386,0.5000000000000001
+Semi-Detached,Downtown,996.0,Flexible,Lawn Signs,Own,Email,Sunny,3.13,18-24,False,Saturday,0.8660254037844386,0.5000000000000001
+Detached,West End,2056.0,1-2 weeks,Lawn Signs,Recently Purchased,Phone Call,Sunny,7.06,35-44,True,Thursday,0.8660254037844386,0.5000000000000001
+Detached,Strathcona Park,1552.0,1-2 weeks,Facebook Ads,Own,SMS,Sunny,4.59,35-44,True,Monday,0.49999999999999994,0.8660254037844387
+Detached,West End,2586.0,1 month,Door-to-Door,Own,Email,Rain,2.88,18-24,True,Tuesday,0.8660254037844386,0.5000000000000001
+Apartment,West End,187.0,1-2 weeks,Door-to-Door,Own,Email,Rain,5.61,55-64,True,Thursday,-2.4492935982947064e-16,1.0
+Detached,Sydenham Ward,2756.0,1 month,Door-to-Door,Rent,Email,Cloudy,5.04,55-64,False,Tuesday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,595.0,ASAP,Word of Mouth/Referral,Own,SMS,Rain,2.41,55-64,False,Saturday,-2.4492935982947064e-16,1.0
+Detached,Calvin Park,1641.0,Flexible,Facebook Ads,Own,SMS,Sunny,3.68,25-34,False,Tuesday,-2.4492935982947064e-16,1.0
+Apartment,Strathcona Park,518.0,Flexible,Door-to-Door,Recently Purchased,Phone Call,Sunny,0.2,65+,False,Saturday,0.8660254037844386,0.5000000000000001
+Heritage Home,Downtown,1537.0,1 month,Word of Mouth/Referral,Own,SMS,Sunny,2.61,55-64,True,Friday,-2.4492935982947064e-16,1.0
+Apartment,Calvin Park,396.0,1-2 weeks,Facebook Ads,Rent,SMS,Sunny,2.55,35-44,False,Saturday,0.49999999999999994,0.8660254037844387
+Townhouse,West End,598.0,Flexible,Facebook Ads,Own,SMS,Rain,6.42,25-34,False,Sunday,0.8660254037844386,0.5000000000000001
+Apartment,Strathcona Park,428.0,1 month,Facebook Ads,Recently Purchased,SMS,Cloudy,9.76,35-44,True,Thursday,-2.4492935982947064e-16,1.0
+Apartment,West End,791.0,1-2 weeks,Facebook Ads,Own,Email,Cloudy,2.25,35-44,True,Wednesday,-2.4492935982947064e-16,1.0
+Townhouse,Strathcona Park,1156.0,1 month,Facebook Ads,Own,Phone Call,Windy,0.2,55-64,False,Monday,0.8660254037844386,0.5000000000000001
+Detached,Sydenham Ward,1233.0,ASAP,Door-to-Door,Own,Phone Call,Snow,5.32,45-54,True,Thursday,-2.4492935982947064e-16,1.0
+Heritage Home,Downtown,2013.0,Flexible,Word of Mouth/Referral,Recently Purchased,SMS,Sunny,1.39,25-34,False,Tuesday,-2.4492935982947064e-16,1.0
+Detached,Downtown,1680.0,Flexible,Door-to-Door,Own,Phone Call,Sunny,2.99,65+,True,Monday,1.0,6.123233995736766e-17
+Semi-Detached,Sydenham Ward,2202.0,1 month,Facebook Ads,Rent,Email,Rain,4.7,25-34,False,Thursday,-2.4492935982947064e-16,1.0
+Heritage Home,West End,2593.0,ASAP,Word of Mouth/Referral,Own,Phone Call,Rain,0.31,35-44,False,Friday,0.8660254037844386,0.5000000000000001
+Townhouse,West End,1331.0,Flexible,Facebook Ads,Own,Email,Sunny,0.48,35-44,True,Saturday,0.8660254037844386,0.5000000000000001
