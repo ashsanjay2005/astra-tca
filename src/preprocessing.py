@@ -194,10 +194,17 @@ class DataCleaner:
                     n_missing,
                 )
 
-        # Drop preferred_contact column (noise — spread ≤ 5pp)
+        # Fill missing preferred_contact with default value (model requires it)
         if "preferred_contact" in df.columns:
-            df = df.drop(columns=["preferred_contact"])
-            logger.debug("Dropped column: preferred_contact (noise)")
+            n_missing = df["preferred_contact"].isna().sum()
+            if n_missing > 0:
+                df["preferred_contact"] = df["preferred_contact"].fillna("Email")
+                logger.debug(
+                    "Filled %d missing preferred_contact with 'Email'", n_missing
+                )
+        else:
+            df["preferred_contact"] = "Email"
+            logger.debug("Added preferred_contact column with default 'Email'")
 
         # Drop rows missing customer_age_bracket
         if "customer_age_bracket" in df.columns:

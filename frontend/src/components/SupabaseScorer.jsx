@@ -4,246 +4,174 @@ import SummaryBar from "./SummaryBar";
 import FilterPanel from "./FilterPanel";
 import LeadCard from "./LeadCard";
 
-const STATUS = {
-    IDLE: "idle",
-    FETCHING: "fetching",
-    SCORING: "scoring",
-    DONE: "done",
-    EMPTY: "empty",
-    ERROR: "error",
-};
-
 export default function SupabaseScorer({ disabled }) {
-    const [status, setStatus] = useState(STATUS.IDLE);
+    const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
-    const [result, setResult] = useState(null);
+    const [data, setData] = useState(null);
+    const [lastPulled, setLastPulled] = useState(null);
 
-    // Filters (same as BatchUploader)
     const [bandFilter, setBandFilter] = useState([]);
     const [neighbourhoodFilter, setNeighbourhoodFilter] = useState("");
     const [referralFilter, setReferralFilter] = useState("");
     const [sortAsc, setSortAsc] = useState(false);
+    const [scoreRange, setScoreRange] = useState([0, 100]);
 
-    const isLoading = status === STATUS.FETCHING || status === STATUS.SCORING;
-
-    const handlePullAndScore = async () => {
-        setStatus(STATUS.FETCHING);
+    const handlePull = async () => {
+        setLoading(true);
         setError(null);
-        setResult(null);
-
+        setData(null);
         try {
-            const res = await scoreFromSupabase();
-            if (res.summary.total === 0) {
-                setStatus(STATUS.EMPTY);
-            } else {
-                setResult(res);
-                setStatus(STATUS.DONE);
-            }
-            // Reset filters
-            setBandFilter([]);
-            setNeighbourhoodFilter("");
-            setReferralFilter("");
-            setSortAsc(false);
+            const result = await scoreFromSupabase();
+            setData(result);
+            setLastPulled(new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }));
         } catch (err) {
-            if (err.message?.includes("No unscored leads")) {
-                setStatus(STATUS.EMPTY);
-            } else {
-                setError(err.message);
-                setStatus(STATUS.ERROR);
-            }
+            setError(err.message);
+        } finally {
+            setLoading(false);
         }
     };
 
-    const handleReset = () => {
-        setStatus(STATUS.IDLE);
-        setResult(null);
-        setError(null);
-    };
-
-    // Filter + sort leads
     const filteredLeads = useMemo(() => {
-        if (!result?.leads) return [];
-        let leads = [...result.leads];
+        if (!data?.leads) return [];
+        let list = [...data.leads];
+        if (bandFilter.length) list = list.filter((l) => bandFilter.includes(l.profit_band));
+        if (neighbourhoodFilter) list = list.filter((l) => l.input_summary?.neighbourhood === neighbourhoodFilter);
+        if (referralFilter) list = list.filter((l) => l.input_summary?.referral_source === referralFilter);
+        if (scoreRange[0] > 0 || scoreRange[1] < 100)
+            list = list.filter((l) => l.priority_score >= scoreRange[0] && l.priority_score <= scoreRange[1]);
+        list.sort((a, b) => sortAsc ? a.priority_score - b.priority_score : b.priority_score - a.priority_score);
+        return list;
+    }, [data, bandFilter, neighbourhoodFilter, referralFilter, sortAsc, scoreRange]);
 
-        if (bandFilter.length > 0) {
-            leads = leads.filter((l) => bandFilter.includes(l.profit_band));
-        }
-        if (neighbourhoodFilter) {
-            leads = leads.filter((l) => l.input_summary?.neighbourhood === neighbourhoodFilter);
-        }
-        if (referralFilter) {
-            leads = leads.filter((l) => l.input_summary?.referral_source === referralFilter);
-        }
-
-        leads.sort((a, b) =>
-            sortAsc
-                ? a.priority_score - b.priority_score
-                : b.priority_score - a.priority_score
-        );
-
-        return leads;
-    }, [result, bandFilter, neighbourhoodFilter, referralFilter, sortAsc]);
-
-    const handleExport = () => {
+    const exportCSV = () => {
         if (!filteredLeads.length) return;
-        const headers = ["rank", "profit_band", "priority_score", "confidence", "neighbourhood", "sqft", "timeline", "referral_source"];
+        const headers = ["rank", "band", "score", "confidence", "neighbourhood", "sqft", "timeline", "referral"];
         const rows = filteredLeads.map((l, i) => [
-            i + 1,
-            l.profit_band,
-            l.priority_score,
-            l.confidence,
-            l.input_summary?.neighbourhood || "",
-            l.input_summary?.estimated_job_size_sqft || "",
-            l.input_summary?.requested_timeline || "",
-            l.input_summary?.referral_source || "",
+            i + 1, l.profit_band, l.priority_score, l.confidence.toFixed(4),
+            l.input_summary?.neighbourhood || "", l.input_summary?.estimated_job_size_sqft || "",
+            l.input_summary?.requested_timeline || "", l.input_summary?.referral_source || "",
         ]);
         const csv = [headers.join(","), ...rows.map((r) => r.join(","))].join("\n");
         const blob = new Blob([csv], { type: "text/csv" });
         const url = URL.createObjectURL(blob);
         const a = document.createElement("a");
         a.href = url;
-        a.download = "scored_leads.csv";
+        a.download = `astra-leads-${new Date().toISOString().split("T")[0]}.csv`;
         a.click();
         URL.revokeObjectURL(url);
     };
 
+    /* ── Empty state ─────────────────────────────────────── */
+    if (!data && !loading && !error) {
+        return (
+            <div>
+                <h2
+                    className="text-xl font-semibold mb-6"
+                    style={{ fontFamily: "var(--font-heading)", color: "var(--color-text)" }}
+                >
+                    Score New Leads
+                </h2>
+                <div className="bg-white border rounded-lg p-10 text-center" style={{ borderColor: "var(--color-border)" }}>
+                    <p className="text-sm mb-1" style={{ color: "var(--color-text)" }}>
+                        Pull & Score from Supabase
+                    </p>
+                    <p className="text-xs mb-5" style={{ color: "var(--color-text-muted)" }}>
+                        Fetches all unscored leads, cleans, and scores with the ASTRA model.
+                    </p>
+                    <button
+                        onClick={handlePull}
+                        disabled={disabled}
+                        className="px-8 py-2.5 rounded-md text-sm font-semibold text-white disabled:opacity-35 disabled:cursor-not-allowed transition-all hover:opacity-90"
+                        style={{ backgroundColor: "var(--color-brand)" }}
+                    >
+                        Pull & Score
+                    </button>
+                </div>
+            </div>
+        );
+    }
+
     return (
         <div>
-            {/* Initial / loading state */}
-            {!result && status !== STATUS.EMPTY && (
-                <div className="bg-white border border-[var(--color-border)] rounded-lg p-12 text-center">
-                    {status === STATUS.IDLE && (
-                        <>
-                            <div className="text-4xl mb-4">⚡</div>
-                            <p className="text-[var(--color-text)] font-medium mb-2">
-                                Pull & Score Leads from Supabase
-                            </p>
-                            <p className="text-sm text-[var(--color-text-muted)] mb-6">
-                                Fetches all unscored leads, cleans data, and scores them automatically
-                            </p>
-                            <button
-                                onClick={handlePullAndScore}
-                                disabled={disabled}
-                                className="px-6 py-3 rounded-lg text-sm font-medium text-white bg-[var(--color-brand)] hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
-                            >
-                                Pull &amp; Score from Supabase
-                            </button>
-                        </>
-                    )}
-
-                    {isLoading && (
-                        <div className="flex flex-col items-center gap-3">
-                            <span className="w-8 h-8 border-3 border-[var(--color-brand)] border-t-transparent rounded-full animate-spin" />
-                            <p className="text-[var(--color-text)] font-medium">
-                                {status === STATUS.FETCHING
-                                    ? "Fetching unscored leads from Supabase…"
-                                    : "Scoring leads…"}
-                            </p>
-                            <p className="text-sm text-[var(--color-text-muted)]">
-                                This may take a moment
-                            </p>
-                        </div>
-                    )}
-
-                    {status === STATUS.ERROR && (
-                        <div className="flex flex-col items-center gap-3">
-                            <div className="text-4xl">⚠️</div>
-                            <p className="text-[var(--color-text)] font-medium">
-                                Something went wrong
-                            </p>
-                        </div>
-                    )}
+            {/* Loading */}
+            {loading && (
+                <div className="flex flex-col items-center py-16">
+                    <div
+                        className="w-8 h-8 border-2 border-t-transparent rounded-full animate-spin mb-3"
+                        style={{ borderColor: "var(--color-brand)", borderTopColor: "transparent" }}
+                    />
+                    <p className="text-xs" style={{ color: "var(--color-text-muted)" }}>
+                        Fetching and scoring leads…
+                    </p>
                 </div>
             )}
 
-            {/* Empty state */}
-            {status === STATUS.EMPTY && (
-                <div className="bg-white border border-[var(--color-border)] rounded-lg p-12 text-center">
-                    <div className="text-4xl mb-4">✅</div>
-                    <p className="text-[var(--color-text)] font-medium mb-2">
-                        No unscored leads found in Supabase
-                    </p>
-                    <p className="text-sm text-[var(--color-text-muted)] mb-6">
-                        All leads in the database already have scores assigned
-                    </p>
-                    <button
-                        onClick={handleReset}
-                        className="text-sm text-[var(--color-brand)] hover:underline"
-                    >
-                        Try again
-                    </button>
-                </div>
-            )}
-
-            {/* Error message */}
+            {/* Error */}
             {error && (
-                <div className="mt-4 bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg text-sm flex items-center justify-between">
+                <div className="bg-[var(--color-low-bg)] text-[var(--color-low)] px-4 py-3 rounded text-xs mb-5 flex items-center justify-between">
                     <span>{error}</span>
-                    <button
-                        onClick={handleReset}
-                        className="text-red-700 hover:text-red-900 font-medium ml-4"
-                    >
-                        Try again
-                    </button>
+                    <button onClick={handlePull} className="text-xs font-medium underline">Try again</button>
                 </div>
             )}
 
             {/* Results */}
-            {result && (
-                <div>
+            {data && !loading && (
+                <>
                     <div className="flex items-center justify-between mb-4">
-                        <h3 className="text-sm font-medium text-[var(--color-text-muted)] uppercase tracking-wider">
+                        <h2
+                            className="text-xl font-semibold"
+                            style={{ fontFamily: "var(--font-heading)", color: "var(--color-text)" }}
+                        >
                             Results
-                        </h3>
+                        </h2>
                         <button
-                            onClick={handleReset}
-                            className="text-sm text-[var(--color-brand)] hover:underline"
+                            onClick={handlePull}
+                            className="text-xs font-medium hover:underline"
+                            style={{ color: "var(--color-brand)" }}
                         >
                             Pull again
                         </button>
                     </div>
 
-                    <SummaryBar
-                        high={result.summary.high}
-                        medium={result.summary.medium}
-                        low={result.summary.low}
-                        total={result.summary.total}
-                        droppedRows={result.summary.dropped_rows || 0}
-                    />
-
-                    <FilterPanel
-                        leads={result.leads}
-                        bandFilter={bandFilter}
-                        setBandFilter={setBandFilter}
-                        neighbourhoodFilter={neighbourhoodFilter}
-                        setNeighbourhoodFilter={setNeighbourhoodFilter}
-                        referralFilter={referralFilter}
-                        setReferralFilter={setReferralFilter}
-                        sortAsc={sortAsc}
-                        setSortAsc={setSortAsc}
-                        onExport={handleExport}
-                        filteredCount={filteredLeads.length}
-                    />
-
-                    <div className="flex flex-col gap-3">
-                        {filteredLeads.map((lead, i) => (
-                            <LeadCard
-                                key={i}
-                                rank={i + 1}
-                                profitBand={lead.profit_band}
-                                priorityScore={lead.priority_score}
-                                confidence={lead.confidence}
-                                topReasons={lead.top_reasons}
-                                inputSummary={lead.input_summary}
+                    {data.summary.total === 0 ? (
+                        <div className="bg-white border rounded-lg p-10 text-center" style={{ borderColor: "var(--color-border)" }}>
+                            <p style={{ color: "var(--color-text-muted)" }}>No unscored leads found</p>
+                        </div>
+                    ) : (
+                        <>
+                            <SummaryBar
+                                high={data.summary.high} medium={data.summary.medium} low={data.summary.low}
+                                total={data.summary.total} droppedRows={data.summary.dropped_rows}
+                                lastPulled={lastPulled}
                             />
-                        ))}
-                        {filteredLeads.length === 0 && (
-                            <div className="text-center text-[var(--color-text-muted)] py-12">
-                                No leads match the current filters.
+
+                            <FilterPanel
+                                leads={data.leads}
+                                bandFilter={bandFilter} setBandFilter={setBandFilter}
+                                neighbourhoodFilter={neighbourhoodFilter} setNeighbourhoodFilter={setNeighbourhoodFilter}
+                                referralFilter={referralFilter} setReferralFilter={setReferralFilter}
+                                sortAsc={sortAsc} setSortAsc={setSortAsc}
+                                scoreRange={scoreRange} setScoreRange={setScoreRange}
+                                onExport={exportCSV} filteredCount={filteredLeads.length}
+                            />
+
+                            {/* Lead rows — Vercel-style divider list */}
+                            <div className="bg-white border rounded-lg" style={{ borderColor: "var(--color-border)" }}>
+                                {filteredLeads.map((lead, i) => (
+                                    <LeadCard
+                                        key={i}
+                                        rank={i + 1}
+                                        profitBand={lead.profit_band}
+                                        priorityScore={lead.priority_score}
+                                        confidence={lead.confidence}
+                                        topReasons={lead.top_reasons}
+                                        inputSummary={lead.input_summary}
+                                    />
+                                ))}
                             </div>
-                        )}
-                    </div>
-                </div>
+                        </>
+                    )}
+                </>
             )}
         </div>
     );

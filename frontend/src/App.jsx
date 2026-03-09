@@ -1,11 +1,16 @@
 import { useState, useEffect } from "react";
 import { healthCheck } from "./services/api";
+import LandingPage from "./components/LandingPage";
 import SingleLeadForm from "./components/SingleLeadForm";
 import SupabaseScorer from "./components/SupabaseScorer";
 
-const TABS = ["Score a Lead", "Score New Leads"];
+const TABS = [
+  { id: "single", label: "Score a Lead" },
+  { id: "batch", label: "Score New Leads" },
+];
 
 export default function App() {
+  const [view, setView] = useState("landing"); // "landing" | "tool"
   const [activeTab, setActiveTab] = useState(0);
   const [apiStatus, setApiStatus] = useState("checking");
 
@@ -15,64 +20,73 @@ export default function App() {
       .catch(() => setApiStatus("offline"));
   }, []);
 
+  const navigateToTool = (tabIndex) => {
+    setActiveTab(tabIndex);
+    setView("tool");
+  };
+
+  if (view === "landing") {
+    return <LandingPage onNavigate={navigateToTool} />;
+  }
+
   return (
-    <div className="min-h-screen">
-      {/* Header */}
-      <header className="bg-white border-b border-[var(--color-border)]">
-        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <h1 className="text-xl font-semibold tracking-tight text-[var(--color-text)]">
-            ASTRA Lead Scoring
-          </h1>
-          <div className="flex items-center gap-2 text-sm">
+    <div className="min-h-screen" style={{ backgroundColor: "var(--color-surface-alt)" }}>
+      {/* ── Nav ──────────────────────────────────────────── */}
+      <header style={{ backgroundColor: "var(--color-nav)" }}>
+        <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
+          <div className="flex items-center gap-6">
+            {/* Brand — clickable back to landing */}
+            <button
+              onClick={() => setView("landing")}
+              className="text-white text-base tracking-[0.12em] font-semibold hover:opacity-80 transition-opacity"
+              style={{ fontFamily: "var(--font-heading)" }}
+            >
+              ASTRA
+            </button>
+
+            {/* Tabs */}
+            <div className="flex gap-1 bg-[var(--color-nav-light)] rounded-md p-0.5">
+              {TABS.map((tab, i) => (
+                <button
+                  key={tab.id}
+                  onClick={() => setActiveTab(i)}
+                  className={`px-4 py-1.5 rounded text-xs font-medium transition-all ${activeTab === i
+                      ? "bg-[var(--color-brand)] text-white"
+                      : "text-gray-400 hover:text-gray-200"
+                    }`}
+                >
+                  {tab.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Status */}
+          <div className="flex items-center gap-1.5 text-xs text-gray-400">
             <span
-              className={`inline-block w-2 h-2 rounded-full ${apiStatus === "ok"
-                ? "bg-[var(--color-high)]"
-                : apiStatus === "offline"
-                  ? "bg-[var(--color-low)]"
-                  : "bg-[var(--color-medium)]"
+              className={`w-1.5 h-1.5 rounded-full ${apiStatus === "ok"
+                  ? "bg-[var(--color-high)]"
+                  : apiStatus === "offline"
+                    ? "bg-[var(--color-low)]"
+                    : "bg-[var(--color-medium)]"
                 }`}
             />
-            <span className="text-[var(--color-text-muted)]">
-              {apiStatus === "ok"
-                ? "API Connected"
-                : apiStatus === "offline"
-                  ? "Cannot connect to API"
-                  : "Checking…"}
-            </span>
+            {apiStatus === "ok" ? "Connected" : apiStatus === "offline" ? "Offline" : "…"}
           </div>
         </div>
       </header>
 
-      {/* Tabs */}
-      <nav className="bg-white border-b border-[var(--color-border)]">
-        <div className="max-w-6xl mx-auto px-6 flex gap-6">
-          {TABS.map((tab, i) => (
-            <button
-              key={tab}
-              onClick={() => setActiveTab(i)}
-              className={`py-3 text-sm font-medium border-b-2 transition-colors ${activeTab === i
-                ? "border-[var(--color-brand)] text-[var(--color-brand)]"
-                : "border-transparent text-[var(--color-text-muted)] hover:text-[var(--color-text)]"
-                }`}
-            >
-              {tab}
-            </button>
-          ))}
-        </div>
-      </nav>
-
-      {/* Offline alert */}
+      {/* ── Offline alert ────────────────────────────────── */}
       {apiStatus === "offline" && (
         <div className="max-w-6xl mx-auto px-6 mt-4">
-          <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg text-sm">
-            Cannot connect to the scoring API at localhost:8000. Make sure the
-            backend is running.
+          <div className="bg-[var(--color-low-bg)] text-[var(--color-low)] px-4 py-2.5 rounded text-xs">
+            Cannot connect to the scoring API. Make sure the backend is running.
           </div>
         </div>
       )}
 
-      {/* Content */}
-      <main className="max-w-6xl mx-auto px-6 py-6">
+      {/* ── Content ─────────────────────────────────────── */}
+      <main className="max-w-6xl mx-auto px-6 py-8">
         {activeTab === 0 && <SingleLeadForm disabled={apiStatus !== "ok"} />}
         {activeTab === 1 && <SupabaseScorer disabled={apiStatus !== "ok"} />}
       </main>

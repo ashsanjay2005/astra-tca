@@ -71,7 +71,7 @@ class LeadScorer:
         # Predict
         predictions = self._model.predict(features)
         probabilities = self._model.predict_proba(features)
-        explanations = self._model.explain(features)
+        explanations = self._model.explain(features, top_n=10)
 
         # Assemble result
         pred_label = str(predictions[0])
@@ -123,7 +123,7 @@ class LeadScorer:
         # Predict
         predictions = self._model.predict(features)
         probabilities = self._model.predict_proba(features)
-        explanations = self._model.explain(features)
+        explanations = self._model.explain(features, top_n=10)
         priority_scores = self._compute_priority_score(probabilities)
 
         # Compute per-row confidence (prob of predicted class)
