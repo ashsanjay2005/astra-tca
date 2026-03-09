@@ -44,3 +44,19 @@ export async function healthCheck() {
     if (!res.ok) throw new Error("API unreachable");
     return res.json();
 }
+
+export async function askAboutLeads(question, conversationHistory = []) {
+    const res = await fetch(`${API_BASE}/leads/ask`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+            question,
+            conversation_history: conversationHistory,
+        }),
+    });
+    if (!res.ok) {
+        const err = await res.json().catch(() => ({ detail: res.statusText }));
+        throw new Error(err.detail || `Request failed (${res.status})`);
+    }
+    return res.json();
+}

@@ -23,7 +23,7 @@ _project_root = str(Path(__file__).resolve().parent.parent)
 if _project_root not in sys.path:
     sys.path.insert(0, _project_root)
 
-from api.routes import single, batch, supabase  # noqa: E402
+from api.routes import single, batch, supabase, chat  # noqa: E402
 from src.scorer import LeadScorer  # noqa: E402
 
 logging.basicConfig(
@@ -51,6 +51,7 @@ app.add_middleware(
 app.include_router(single.router)
 app.include_router(batch.router)
 app.include_router(supabase.router)
+app.include_router(chat.router)
 
 
 # ── Startup ───────────────────────────────────────────────────────────────────

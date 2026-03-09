@@ -1,0 +1,83 @@
+{
+  "model_type": "CatBoostClassifier",
+  "trained_on_rows": 576,
+  "best_iteration": 13,
+  "best_params": {
+    "learning_rate": 0.1257934499324771,
+    "depth": 4,
+    "l2_leaf_reg": 4.2308261222393595,
+    "random_strength": 3.0849453613732436,
+    "bagging_temperature": 0.7713405860560613,
+    "border_count": 63,
+    "one_hot_max_size": 5,
+    "grow_policy": "Depthwise",
+    "auto_class_weights": "Balanced",
+    "iterations": 2000,
+    "early_stopping_rounds": 50
+  },
+  "cv_metrics": {
+    "accuracy_mean": 0.7743,
+    "accuracy_std": 0.0161,
+    "macro_f1_mean": 0.7787,
+    "macro_f1_std": 0.0158,
+    "per_class_f1": {
+      "Low": {
+        "mean": 0.8264,
+        "std": 0.035
+      },
+      "Medium": {
+        "mean": 0.7073,
+        "std": 0.0252
+      },
+      "High": {
+        "mean": 0.8023,
+        "std": 0.0652
+      }
+    }
+  },
+  "test_metrics": {
+    "accuracy": 0.75,
+    "macro_f1": 0.7524
+  },
+  "features": [
+    "property_type",
+    "neighbourhood",
+    "estimated_job_size_sqft",
+    "requested_timeline",
+    "referral_source",
+    "homeowner_status",
+    "preferred_contact",
+    "lead_capture_weather",
+    "distance_to_queens_km",
+    "customer_age_bracket",
+    "has_pets",
+    "lead_weekday",
+    "lead_month_sin",
+    "lead_month_cos",
+    "age_ordinal",
+    "timeline_urgency",
+    "job_size_tier",
+    "sqft_per_km",
+    "is_large_and_close",
+    "is_homeowner_detached"
+  ],
+  "cat_features": [
+    "property_type",
+    "neighbourhood",
+    "requested_timeline",
+    "referral_source",
+    "homeowner_status",
+    "preferred_contact",
+    "lead_capture_weather",
+    "customer_age_bracket",
+    "lead_weekday",
+    "job_size_tier"
+  ],
+  "class_labels": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "optuna_best_f1": 0.7787,
+  "optuna_trials": 200
+}

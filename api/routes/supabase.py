@@ -15,6 +15,7 @@ from api.schemas import (
     SummaryStats,
     TopReason,
 )
+from api.routes.chat import set_last_scored_results
 
 logger = logging.getLogger(__name__)
 
@@ -189,5 +190,8 @@ async def score_supabase_leads(request: Request) -> BatchScoreResponse:
         total=len(leads),
         dropped_rows=dropped_rows,
     )
+
+    # Cache results for the chat endpoint
+    set_last_scored_results([lead.model_dump() for lead in leads])
 
     return BatchScoreResponse(leads=leads, summary=summary)

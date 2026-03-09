@@ -4,7 +4,7 @@ import SummaryBar from "./SummaryBar";
 import FilterPanel from "./FilterPanel";
 import LeadCard from "./LeadCard";
 
-export default function SupabaseScorer({ disabled }) {
+export default function SupabaseScorer({ disabled, onLeadsScored }) {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
     const [data, setData] = useState(null);
@@ -24,6 +24,7 @@ export default function SupabaseScorer({ disabled }) {
             const result = await scoreFromSupabase();
             setData(result);
             setLastPulled(new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }));
+            onLeadsScored?.(result.summary?.total || 0);
         } catch (err) {
             setError(err.message);
         } finally {

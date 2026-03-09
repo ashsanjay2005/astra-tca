@@ -1,0 +1,63 @@
+# Editor directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS specific
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Frontend Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# Logs and outputs
+*.log
+catboost_info/
+*.csv
+!data/raw/*.csv
+figures/
+
+# Optional: Disable local test runs from commit
+.pytest_cache/
+coverage.xml
+htmlcov/

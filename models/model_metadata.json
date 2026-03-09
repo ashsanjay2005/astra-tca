@@ -1,0 +1,60 @@
+{
+  "model_features": [
+    "property_type",
+    "neighbourhood",
+    "estimated_job_size_sqft",
+    "requested_timeline",
+    "referral_source",
+    "homeowner_status",
+    "preferred_contact",
+    "lead_capture_weather",
+    "distance_to_queens_km",
+    "customer_age_bracket",
+    "has_pets",
+    "lead_weekday",
+    "lead_month_sin",
+    "lead_month_cos",
+    "age_ordinal",
+    "timeline_urgency",
+    "job_size_tier",
+    "sqft_per_km",
+    "is_large_and_close",
+    "is_homeowner_detached"
+  ],
+  "categorical_features": [
+    "property_type",
+    "neighbourhood",
+    "requested_timeline",
+    "referral_source",
+    "homeowner_status",
+    "preferred_contact",
+    "lead_capture_weather",
+    "customer_age_bracket",
+    "lead_weekday",
+    "job_size_tier"
+  ],
+  "class_labels": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "n_features": 20,
+  "cat_feature_indices": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    16
+  ],
+  "sqft_quartiles": [
+    907.75,
+    1318.0,
+    1803.25
+  ],
+  "distance_median": 3.685
+}
