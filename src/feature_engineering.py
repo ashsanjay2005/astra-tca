@@ -5,21 +5,28 @@ Model 8 (notebook 09) applies three transforms in order:
 1. **Season** — map ``lead_month`` → ``season`` via ``config.MONTH_TO_SEASON``,
    then drop ``lead_month``.
 2. **Distance band** — bin ``distance_to_queens_km`` into Near / Mid / Far
-   using ``config.DIST_BINS`` and ``config.DIST_LABELS``.
+   using bin edges from model metadata.
 3. **Weather binary** — map ``lead_capture_weather`` → ``weather_binary``
    (Good / Bad) via ``config.WEATHER_MAP``, then drop the original column.
 
 After the transforms the class ensures categorical dtypes and selects
 only the columns the model expects, in training order.
+
+Data-derived values (bin edges, feature lists, categorical columns) come
+from ``ModelService`` metadata — not from config.
 """
 
 from __future__ import annotations
 
 import logging
+from typing import TYPE_CHECKING
 
 import pandas as pd
 
 import config
+
+if TYPE_CHECKING:
+    from .model import ModelService
 
 logger = logging.getLogger(__name__)
 
@@ -27,11 +34,20 @@ logger = logging.getLogger(__name__)
 class FeatureEngineer:
     """Stateless feature transformer for Model 8.
 
+    Args:
+        model_service: A loaded ``ModelService`` instance that provides
+            data-derived metadata (bin edges, feature lists, etc.).
+
     Usage::
 
-        engineer = FeatureEngineer()
+        service = ModelService()
+        service.load()
+        engineer = FeatureEngineer(service)
         df_ready = engineer.transform(cleaned_df)
     """
+
+    def __init__(self, model_service: ModelService) -> None:
+        self._model_service = model_service
 
     # ── public orchestrator ───────────────────────────────────────────────
 
@@ -85,9 +101,8 @@ class FeatureEngineer:
     def add_distance_band(self, df: pd.DataFrame) -> pd.DataFrame:
         """Bin ``distance_to_queens_km`` into Near / Mid / Far terciles.
 
-        Uses ``config.DIST_BINS`` (precomputed on the full labeled dataset)
-        and ``config.DIST_LABELS``.  If ``config.DROP_RAW_DISTANCE`` is
-        ``True``, the raw ``distance_to_queens_km`` column is dropped.
+        Uses bin edges and labels from model metadata.  If the model was
+        trained with the raw distance dropped, drops it here too.
 
         Args:
             df: DataFrame containing a ``distance_to_queens_km`` column.
@@ -99,10 +114,10 @@ class FeatureEngineer:
         df = df.copy()
         df["distance_band"] = pd.cut(
             df["distance_to_queens_km"],
-            bins=config.DIST_BINS,
-            labels=config.DIST_LABELS,
+            bins=self._model_service.dist_bins,
+            labels=self._model_service.dist_labels,
         )
-        if config.DROP_RAW_DISTANCE:
+        if self._model_service.drop_raw_distance:
             df = df.drop(columns=["distance_to_queens_km"])
             logger.debug("Added distance_band, dropped raw distance")
         else:
@@ -131,9 +146,8 @@ class FeatureEngineer:
     def ensure_cat_dtypes(self, df: pd.DataFrame) -> pd.DataFrame:
         """Cast all categorical columns to ``str`` dtype.
 
-        CatBoost expects categorical features as strings. This method
-        ensures every column in ``config.CATEGORICAL_FEATURES`` that is
-        present in the DataFrame is cast to ``str``.
+        CatBoost expects categorical features as strings. Uses the
+        categorical feature list from model metadata.
 
         Args:
             df: DataFrame after feature transforms.
@@ -142,36 +156,39 @@ class FeatureEngineer:
             DataFrame with categorical columns as ``str``.
         """
         df = df.copy()
-        for col in config.CATEGORICAL_FEATURES:
+        for col in self._model_service.categorical_features:
             if col in df.columns:
                 df[col] = df[col].astype(str)
-        logger.debug("Ensured categorical dtypes for %d columns", len(config.CATEGORICAL_FEATURES))
+        logger.debug(
+            "Ensured categorical dtypes for %d columns",
+            len(self._model_service.categorical_features),
+        )
         return df
 
     def select_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Return only the columns the model expects, in training order.
 
         Drops any extra columns (``lead_id``, ``expected_profit_band``,
-        ``lead_date``, etc.) and reorders to match
-        ``config.MODEL_FEATURES``.
+        ``lead_date``, etc.) and reorders to match the model's training
+        feature order from metadata.
 
         Args:
             df: DataFrame after all transforms.
 
         Returns:
-            DataFrame with exactly the columns in ``config.MODEL_FEATURES``,
+            DataFrame with exactly the model's expected columns,
             in the correct order.
 
         Raises:
-            KeyError: If any expected model feature is missing from the
-                DataFrame.
+            KeyError: If any expected model feature is missing.
         """
-        missing = set(config.MODEL_FEATURES) - set(df.columns)
+        model_features = self._model_service.model_features
+        missing = set(model_features) - set(df.columns)
         if missing:
             raise KeyError(
                 f"Missing model features after transforms: {sorted(missing)}"
             )
 
-        df = df[config.MODEL_FEATURES].copy()
-        logger.debug("Selected %d model features", len(config.MODEL_FEATURES))
+        df = df[model_features].copy()
+        logger.debug("Selected %d model features", len(model_features))
         return df

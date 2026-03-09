@@ -1,6 +1,10 @@
 """ModelService — load, predict, and explain using the trained CatBoost model.
 
-This class is fully standalone:
+Also loads ``model_metadata.json`` (produced by
+``scripts/save_model_metadata.py``) to expose data-derived values
+such as feature lists, bin edges, and class labels.
+
+Standalone usage::
 
     service = ModelService()
     service.load()
@@ -9,6 +13,7 @@ This class is fully standalone:
 
 from __future__ import annotations
 
+import json
 import logging
 from pathlib import Path
 from typing import Any
@@ -31,25 +36,30 @@ class ModelService:
     """Thin wrapper around a CatBoost classifier for inference and explainability.
 
     Args:
-        model_path: Filesystem path to the ``.cbm`` model artifact.
-            Defaults to the value in ``config.MODEL_PATH``.
+        model_path: Path to the ``.cbm`` model artifact.
+        metadata_path: Path to the companion ``model_metadata.json``.
+            If ``None``, defaults to ``<model_dir>/model_metadata.json``.
     """
 
-    def __init__(self, model_path: Path | None = None) -> None:
-        if model_path is None:
-            import config  # noqa: E402  — deferred to avoid circular at import time
-            model_path = config.MODEL_PATH
+    def __init__(
+        self,
+        model_path: Path | None = None,
+        metadata_path: Path | None = None,
+    ) -> None:
+        import config  # noqa: E402
 
-        self._model_path = model_path
+        self._model_path = model_path or config.MODEL_PATH
+        self._metadata_path = metadata_path or config.MODEL_METADATA_PATH
         self._model: CatBoostClassifier | None = None
+        self._metadata: dict[str, Any] | None = None
 
-    # ── public API ────────────────────────────────────────────────────────
+    # ── loading ───────────────────────────────────────────────────────────
 
     def load(self) -> None:
-        """Load the CatBoost model from disk.
+        """Load the CatBoost model and its companion metadata.
 
         Raises:
-            FileNotFoundError: If the model file does not exist.
+            FileNotFoundError: If the ``.cbm`` file does not exist.
         """
         if not self._model_path.exists():
             raise FileNotFoundError(
@@ -59,6 +69,71 @@ class ModelService:
         self._model = CatBoostClassifier()
         self._model.load_model(str(self._model_path))
         logger.info("Loaded model from %s", self._model_path)
+
+        self._load_metadata()
+
+    def _load_metadata(self) -> None:
+        """Load model_metadata.json or fall back to config defaults."""
+        import config  # noqa: E402
+
+        if self._metadata_path.exists():
+            with open(self._metadata_path) as f:
+                self._metadata = json.load(f)
+            logger.info("Loaded metadata from %s", self._metadata_path)
+        else:
+            logger.warning(
+                "model_metadata.json not found at %s — using fallback values "
+                "from config.py. Run scripts/save_model_metadata.py to fix.",
+                self._metadata_path,
+            )
+            self._metadata = {
+                "model_features": config.FALLBACK_MODEL_FEATURES,
+                "categorical_features": config.FALLBACK_CATEGORICAL_FEATURES,
+                "class_labels": config.FALLBACK_CLASS_LABELS,
+                "dist_bins": config.FALLBACK_DIST_BINS,
+                "dist_labels": config.FALLBACK_DIST_LABELS,
+                "drop_raw_distance": config.FALLBACK_DROP_RAW_DISTANCE,
+            }
+
+    # ── metadata properties ───────────────────────────────────────────────
+
+    @property
+    def model_features(self) -> list[str]:
+        """Ordered feature list the model was trained on."""
+        self._ensure_loaded()
+        return self._metadata["model_features"]
+
+    @property
+    def categorical_features(self) -> list[str]:
+        """Categorical feature names expected by the model."""
+        self._ensure_loaded()
+        return self._metadata["categorical_features"]
+
+    @property
+    def class_labels(self) -> list[str]:
+        """Ordered class labels from the model (e.g. ``['High', 'Low', 'Medium']``)."""
+        self._ensure_loaded()
+        return self._metadata["class_labels"]
+
+    @property
+    def dist_bins(self) -> list[float]:
+        """Distance band bin edges computed at training time."""
+        self._ensure_loaded()
+        return self._metadata["dist_bins"]
+
+    @property
+    def dist_labels(self) -> list[str]:
+        """Distance band labels (e.g. ``['Near', 'Mid', 'Far']``)."""
+        self._ensure_loaded()
+        return self._metadata["dist_labels"]
+
+    @property
+    def drop_raw_distance(self) -> bool:
+        """Whether the raw ``distance_to_queens_km`` was dropped during training."""
+        self._ensure_loaded()
+        return self._metadata["drop_raw_distance"]
+
+    # ── inference ─────────────────────────────────────────────────────────
 
     def predict(self, features: pd.DataFrame) -> np.ndarray:
         """Generate profit-band predictions for input features.
@@ -73,8 +148,7 @@ class ModelService:
             ModelNotLoadedError: If ``load()`` has not been called.
         """
         self._ensure_loaded()
-        predictions = self._model.predict(features)
-        return predictions.flatten()
+        return self._model.predict(features).flatten()
 
     def predict_proba(self, features: pd.DataFrame) -> np.ndarray:
         """Return the probability matrix for each class.
@@ -83,8 +157,7 @@ class ModelService:
             features: DataFrame with columns matching the model training schema.
 
         Returns:
-            2-D array of shape ``(n_samples, n_classes)`` with class
-            probabilities.
+            2-D array of shape ``(n_samples, n_classes)``.
 
         Raises:
             ModelNotLoadedError: If ``load()`` has not been called.
@@ -115,10 +188,8 @@ class ModelService:
         explainer = shap.TreeExplainer(self._model)
         shap_values = explainer.shap_values(features)
 
-        # shap_values shape for multi-class: list of arrays (one per class)
-        # or 3-D array. We use the predicted class's SHAP values per row.
         predictions = self.predict(features)
-        class_labels = self.get_class_labels()
+        class_labels = self.class_labels
         feature_names = list(features.columns)
 
         results: list[list[dict[str, Any]]] = []
@@ -147,18 +218,6 @@ class ModelService:
             results.append(row_explanations)
 
         return results
-
-    def get_class_labels(self) -> list[str]:
-        """Return the ordered class labels from the loaded model.
-
-        Returns:
-            List of class label strings, e.g. ``['High', 'Low', 'Medium']``.
-
-        Raises:
-            ModelNotLoadedError: If ``load()`` has not been called.
-        """
-        self._ensure_loaded()
-        return [str(c) for c in self._model.classes_]
 
     # ── private helpers ───────────────────────────────────────────────────
 
