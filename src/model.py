@@ -98,6 +98,12 @@ class ModelService:
     # ── metadata properties ───────────────────────────────────────────────
 
     @property
+    def metadata(self) -> dict[str, Any]:
+        """Full metadata dict from ``model_metadata.json``."""
+        self._ensure_loaded()
+        return self._metadata
+
+    @property
     def model_features(self) -> list[str]:
         """Ordered feature list the model was trained on."""
         self._ensure_loaded()
@@ -114,24 +120,6 @@ class ModelService:
         """Ordered class labels from the model (e.g. ``['High', 'Low', 'Medium']``)."""
         self._ensure_loaded()
         return self._metadata["class_labels"]
-
-    @property
-    def dist_bins(self) -> list[float]:
-        """Distance band bin edges computed at training time."""
-        self._ensure_loaded()
-        return self._metadata["dist_bins"]
-
-    @property
-    def dist_labels(self) -> list[str]:
-        """Distance band labels (e.g. ``['Near', 'Mid', 'Far']``)."""
-        self._ensure_loaded()
-        return self._metadata["dist_labels"]
-
-    @property
-    def drop_raw_distance(self) -> bool:
-        """Whether the raw ``distance_to_queens_km`` was dropped during training."""
-        self._ensure_loaded()
-        return self._metadata["drop_raw_distance"]
 
     # ── inference ─────────────────────────────────────────────────────────
 

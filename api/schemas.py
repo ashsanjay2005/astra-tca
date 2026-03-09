@@ -16,6 +16,7 @@ class LeadInput(BaseModel):
     requested_timeline: str
     referral_source: str
     homeowner_status: str
+    preferred_contact: str = "Email"
     lead_capture_weather: str
     distance_to_queens_km: float = Field(ge=0)
     customer_age_bracket: str

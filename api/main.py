@@ -7,6 +7,10 @@ Run with::
 
 from __future__ import annotations
 
+from dotenv import load_dotenv
+
+load_dotenv()  # Load .env before anything reads os.getenv
+
 import logging
 import sys
 from pathlib import Path
@@ -19,7 +23,7 @@ _project_root = str(Path(__file__).resolve().parent.parent)
 if _project_root not in sys.path:
     sys.path.insert(0, _project_root)
 
-from api.routes import single, batch  # noqa: E402
+from api.routes import single, batch, supabase  # noqa: E402
 from src.scorer import LeadScorer  # noqa: E402
 
 logging.basicConfig(
@@ -46,6 +50,7 @@ app.add_middleware(
 # Mount route modules
 app.include_router(single.router)
 app.include_router(batch.router)
+app.include_router(supabase.router)
 
 
 # ── Startup ───────────────────────────────────────────────────────────────────
